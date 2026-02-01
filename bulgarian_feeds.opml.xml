@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Vox Player RSS</title>
+  </head>
+  <body>
+    <outline text="ТОП" title="ТОП">
+      <outline type="rss" text="Investor" xmlUrl="https://www.investor.bg/rss/c/578-top-novini" htmlUrl="https://www.investor.bg"/>
+    </outline>
+    <outline text="ФИНАНСИ" title="ФИНАНСИ">
+      <outline type="rss" text="Investor" xmlUrl="https://www.investor.bg/rss/c/536-finansi" htmlUrl="https://www.investor.bg"/>
+      <outline type="rss" text="fakti.bg" xmlUrl="https://fakti.bg/feed/biznes" htmlUrl="https://fakti.bg"/>
+      <outline type="rss" text="Bloombergtv Пазари" xmlUrl="https://www.bloombergtv.bg/rss/c/3-pazari" htmlUrl="https://www.bloombergtv.bg"/>
+      <outline type="rss" text="www2.capital.bg/rss/?rubrid=5060" xmlUrl="https://www2.capital.bg/rss/?rubrid=5060" htmlUrl="https://www2.capital.bg"/>
+      <outline type="rss" text="economic.bg/rss/biznes.xml" xmlUrl="https://www.economic.bg/rss/biznes.xml" htmlUrl="https://www.economic.bg"/>
+      <outline type="rss" text="business.dir.bg/feeds/rss" xmlUrl="https://business.dir.bg/feeds/rss" htmlUrl="https://business.dir.bg"/>
+      <outline type="rss" text="INVESTOR.BG: Последни новини" xmlUrl="https://www.investor.bg/rss/latest" htmlUrl="http://www.investor.bg"/>
+      <outline type="rss" text="Money.bg - Начало" xmlUrl="https://money.bg/rss_1" htmlUrl="http://money.bg"/>
+      <outline type="rss" text="Капитал - Бизнес" xmlUrl="https://www.capital.bg/rss/?rubrid=2267" htmlUrl="https://www.capital.bg"/>
+      <outline type="rss" text="dnevnik.bg Лични финанси" xmlUrl="https://www.dnevnik.bg/rss/?rubrid=1811" htmlUrl="https://www.dnevnik.bg"/>
+      <outline type="rss" text="dnevnik.bg Бизнес" xmlUrl="https://www.dnevnik.bg/rssc/?rubrid=1661" htmlUrl="https://www.dnevnik.bg"/>
+      <outline type="rss" text="actualno.com" xmlUrl="https://www.actualno.com/finance" htmlUrl="https://www.actualno.com/finance"/>
+    </outline>
+    <outline text="АВТОМОБИЛИ" title="АВТОМОБИЛИ">
+      <outline type="rss" text="Investor" xmlUrl="https://www.investor.bg/rss/c/550-avtomobili" htmlUrl="https://www.investor.bg"/>
+      <outline type="rss" text="vesti.bg" xmlUrl="https://www.vesti.bg/avtomobili" htmlUrl="https://www.vesti.bg"/>
+      <outline type="rss" text="AUTO-PRESS.BG - Новини за автомобилите" xmlUrl="https://auto-press.net/rss/rss.xml" htmlUrl="https://auto-press.net"/>
+      <outline type="rss" text="dnevnik.bg Скорост" xmlUrl="https://www.dnevnik.bg/rss/?rubrid=1710" htmlUrl="https://www.dnevnik.bg"/>
+      <outline type="rss" text="ReSource Automobile - 10-те най..." xmlUrl="http://www.rs-auto.bg/rss/" htmlUrl="http://www.rs-auto.bg"/>
+      <outline type="rss" text="Autoplanet1.com" xmlUrl="http://autoplanet1.com/rss/rss_news.php" htmlUrl="http://autoplanet1.com"/>
+    </outline>
+    <outline text="ТЕХНОЛОГИИ" title="ТЕХНОЛОГИИ">
+      <outline type="rss" text="Investor" xmlUrl="https://www.investor.bg/rss/c/565-tehnologii" htmlUrl="https://www.investor.bg"/>
+      <outline type="rss" text="vesti.bg" xmlUrl="https://www.vesti.bg/tehnologii" htmlUrl="https://www.vesti.bg"/>
+      <outline type="rss" text="actualno.com" xmlUrl="https://www.actualno.com/sciencelogy" htmlUrl="https://www.actualno.com"/>
+      <outline type="rss" text="fakti.bg" xmlUrl="https://fakti.bg/feed/technozone" htmlUrl="https://fakti.bg"/>
+      <outline type="rss" text="mobilebulgaria.com" xmlUrl="https://mobilebulgaria.com/news" htmlUrl="https://mobilebulgaria.com"/>
+      <outline type="rss" text="Капитал" xmlUrl="https://www2.capital.bg/rss/?rubrid=5028" htmlUrl="https://www2.capital.bg"/>
+      <outline type="rss" text="bgonair.bg/rss/c/5-science" xmlUrl="https://www.bgonair.bg/rss/c/5-science" htmlUrl="https://www.bgonair.bg"/>
+      <outline type="rss" text="economic.bg/rss/tehnologii.xml" xmlUrl="https://www.economic.bg/rss/tehnologii.xml" htmlUrl="https://www.economic.bg"/>
+      <outline type="rss" text="it.dir.bg/feeds/rss" xmlUrl="https://it.dir.bg/feeds/rss" htmlUrl="https://it.dir.bg"/>
+      <outline type="rss" text="Новини от категория Технологии - inews.bg" xmlUrl="https://inews.bg/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8_l.osr_i.389_a.g.html" htmlUrl="https://inews.bg"/>
+      <outline type="rss" text="DNES.BG: Технологии" xmlUrl="https://www.dnes.bg/rss.php?cat=4" htmlUrl="http://www.dnes.bg"/>
+      <outline type="rss" text="nixanbal - Блог за телекомуникации и нови технологии; новини, ревюта и видео на български" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=http%3A%2F%2Fnixanbal.com%2Frss&amp;max=3" htmlUrl="http://nixanbal.com"/>
+      <outline type="rss" text="Smart News » Технологии" xmlUrl="https://smartnews.bg/category/tech/feed/" htmlUrl="https://smartnews.bg"/>
+      <outline type="rss" text="Капитал - Технологии и наука" xmlUrl="https://www.capital.bg/rss/?rubrid=2274" htmlUrl="https://www.capital.bg"/>
+      <outline type="rss" text="dnevnik.bg Технологии" xmlUrl="https://www.dnevnik.bg/rss/?rubrid=1660" htmlUrl="https://www.dnevnik.bg"/>
+      <outline type="rss" text="HiComm.bg RSS feed" xmlUrl="https://hicomm.bg/rss" htmlUrl="https://hicomm.bg"/>
+      <outline type="rss" text="Новини за компютри, смартфони, технологии и наука" xmlUrl="https://pixelmedia.bg/feed/" htmlUrl="https://pixelmedia.bg"/>
+      <outline type="rss" text="Computerworld България" xmlUrl="http://feeds.feedburner.com/computerworldbgscience" htmlUrl="http://computerworld.bg"/>
+      <outline type="rss" text="econ.bg - Иновации" xmlUrl="https://econ.bg/_l.rss_at.12.html" htmlUrl="https://econ.bg"/>
+      <outline type="rss" text="kaldata.com - IT Новини, Софтуер, Хардуер, Игри" xmlUrl="https://www.kaldata.com/rosebud/rss.php?catid=3" htmlUrl="https://www.kaldata.com"/>
+      <outline type="rss" text="DarikNews.bg: Технологии" xmlUrl="https://dariknews.bg/rss.php?cat=9" htmlUrl="https://dariknews.bg"/>
+      <outline type="rss" text="dnevnik.bg Технологии" xmlUrl="https://www.dnevnik.bg/rssc/?rubrid=1660" htmlUrl="https://www.dnevnik.bg"/>
+      <outline type="rss" text="ITni News - IT Новини" xmlUrl="https://www.itninews.com/rss2.php" htmlUrl="https://www.itninews.com"/>
+      <outline type="rss" text="nixanbal - Блог за телекомуникации и нови технологии; новин" xmlUrl="http://nixanbal.com/?format=feed&amp;type=rss" htmlUrl="http://nixanbal.com"/>
+    </outline>
+    <outline text="НОВИНИ" title="НОВИНИ">
+      <outline type="rss" text="mediapool.bg" xmlUrl="https://www.mediapool.bg/rss" htmlUrl="https://www.mediapool.bg"/>
+      <outline type="rss" text="24chasa.bg" xmlUrl="https://www.24chasa.bg/rss" htmlUrl="https://www.24chasa.bg"/>
+      <outline type="rss" text="actualno.com" xmlUrl="https://www.actualno.com/rss" htmlUrl="https://www.actualno.com"/>
+      <outline type="rss" text="fakti.bg" xmlUrl="https://fakti.bg/feed" htmlUrl="https://fakti.bg"/>
+      <outline type="rss" text="bloombergtv.bg" xmlUrl="https://www.bloombergtv.bg/rss/latest" htmlUrl="https://www.bloombergtv.bg"/>
+      <outline type="rss" text="dir.bg" xmlUrl="https://dir.bg/feeds/rss" htmlUrl="https://dir.bg"/>
+      <outline type="rss" text="standartnews.com" xmlUrl="https://www.standartnews.com/rss" htmlUrl="https://www.standartnews.com"/>
+      <outline type="rss" text="btvnovinite.bg" xmlUrl="https://btvnovinite.bg/lbin/v3/rss.php" htmlUrl="https://btvnovinite.bg"/>
+      <outline type="rss" text="nova.bg" xmlUrl="https://nova.bg/rss/latest" htmlUrl="https://nova.bg"/>
+    </outline>
+    <outline text="ХОРОСКОП" title="ХОРОСКОП">
+      <outline type="rss" text="fakti.bg" xmlUrl="https://fakti.bg/feed/horoskopi" htmlUrl="https://fakti.bg"/>
+    </outline>
+    <outline text="ПОСЛЕДНИ" title="ПОСЛЕДНИ">
+      <outline type="rss" text="bgonair.bg/rss/latest" xmlUrl="https://www.bgonair.bg/rss/latest" htmlUrl="https://www.bgonair.bg"/>
+      <outline type="rss" text="focus-news.net/rss.php?op=top" xmlUrl="https://www.focus-news.net/rss.php?op=top" htmlUrl="https://www.focus-news.net"/>
+    </outline>
+    <outline text="КРИПТО" title="КРИПТО">
+      <outline type="rss" text="economic.bg/rss/crypto.xml" xmlUrl="https://www.economic.bg/rss/crypto.xml" htmlUrl="https://www.economic.bg"/>
+    </outline>
+    <outline text="ЗАБАВНО" title="ЗАБАВНО">
+      <outline type="rss" text="fun.dir.bg/feeds/rss" xmlUrl="https://fun.dir.bg/feeds/rss" htmlUrl="https://fun.dir.bg"/>
+    </outline>
+    <outline text="YOU TUBE" title="YOU TUBE">
+      <outline type="rss" text="DEEPDISCO" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0wT3T3U8tzg7CxcwlH3Tfg" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Ивелин Николов" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAlxHLhYvWPQGzUKAuWs1hQ" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Rumen Vista" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCu-1vnIh-mWbiIZLQ-3iTeg" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Бати Сашо" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC1RTPSEugg82dRwFYQEzpFQ" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="The Clashers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ40ytnFrzko0B1Kqb5AvdQ" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="CHOKO" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKYVRKlEbpeFRFN300sunCg" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Atanas Tchobanov" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjyldIeUfwYJQwBfwrc9A" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Съзнание" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5-o6jNH5TC1lOeG82oRkRQ" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="'Айде БГ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXtO9EJCxTlyWE6Pb7QW4mQ" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Честно казано" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRFvf0f1A2oBWv10XvboB_A" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="ЕвроДикоФ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCO392Jv6KbxYZjHfTAgyPJg" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="MANA BULGARIA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdPWhyJdCQ8cN0Q2joau8lQ" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Vesselin Dremdjiev" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgB75SaCVPzAiv9AtvCFJ2Q" htmlUrl="http://www.youtube.com"/>
+      <outline type="rss" text="The Clashers Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6KbJVFIL97N4N9sNd_HZxQ" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Кибер Хора" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBkCOHTdmA42r5wNXlhye-w" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="NatGeo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Матрицата отвътре с Боян Чуков" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPn71D7uFoTxnWG4kB3a8sA" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Цанов НАПРЕД и НАГОРЕ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfSs1_iEsunvP86-M8RXSbA" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Киро Брейка - Оригинала" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6Ff1z4MhKDDLEUqH_hisyQ" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Инвестограф" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIz0KlDaVuUeATZYLeR0Bkg" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="YellowBrickCinema" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwobzUc3z-0PrFpoRxNszXQ" htmlUrl="https://www.youtube.com"/>
+      <outline type="rss" text="Investclub" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp8CD-kmt-TOdbW2FQrSHFA" htmlUrl="https://www.youtube.com"/>
+    </outline>
+    <outline text="Водещи новини" title="Водещи новини">
+      <outline type="rss" text="Актуални новини от България и света." xmlUrl="http://rss.actualno.com/" htmlUrl="http://www.actualno.com"/>
+      <outline type="rss" text="dnes.dir.bg" xmlUrl="https://dnes.dir.bg/support/cat_rss.php" htmlUrl="https://dnes.dir.bg"/>
+      <outline type="rss" text="dnevnik.bg Новините от начална страница" xmlUrl="https://www.dnevnik.bg/rss/?page=index" htmlUrl="https://www.dnevnik.bg"/>
+      <outline type="rss" text="mediapool.bg - последни 15 новини" xmlUrl="https://www.mediapool.bg/rss/" htmlUrl="https://www.mediapool.bg"/>
+      <outline type="rss" text="Монитор - Главна" xmlUrl="http://www.monitor.bg/rss?id=1" htmlUrl="http://www.monitor.bg"/>
+    </outline>
+    <outline text="БИЗНЕС" title="БИЗНЕС">
+      <outline type="rss" text="Regal.bg - Новини" xmlUrl="https://www.regal.bg/rss/?rubrid=429" htmlUrl="http://www.regal.bg"/>
+      <outline type="rss" text="m.offnews.bg/news/%D0%98%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_59" xmlUrl="https://m.offnews.bg/rss/%D0%98%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_59" htmlUrl="http://m.offnews.bg"/>
+    </outline>
+    <outline text="ЛЮБОПИТНО" title="ЛЮБОПИТНО">
+      <outline type="rss" text="m.offnews.bg/news/%D0%9B%D0%B0%D0%B9%D1%84%D1%81%D1%82%D0%B0%D0%B9%D0%BB_18806" xmlUrl="https://m.offnews.bg/rss/%D0%9B%D0%B0%D0%B9%D1%84%D1%81%D1%82%D0%B0%D0%B9%D0%BB_18806" htmlUrl="http://m.offnews.bg"/>
+      <outline type="rss" text=":: Offnews / Хороскоп" xmlUrl="https://m.offnews.bg/rss/%D0%A5%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF_18798" htmlUrl="http://m.offnews.bg"/>
+      <outline type="rss" text="Investor.bg- RSS" xmlUrl="https://www.investor.bg/rss/c/553-style" htmlUrl="https://www.investor.bg"/>
+      <outline type="rss" text="dnevnik.bg Развлечение" xmlUrl="https://www.dnevnik.bg/rssc/?rubrid=1659" htmlUrl="https://www.dnevnik.bg"/>
+      <outline type="rss" text="iwoman.bg" xmlUrl="https://www.iwoman.bg/rss" htmlUrl="https://www.iwoman.bg"/>
+    </outline>
+    <outline text="СПОРТ" title="СПОРТ">
+      <outline type="rss" text="m.offnews.bg/news/%D0%A1%D0%BF%D0%BE%D1%80%D1%82_18752" xmlUrl="https://m.offnews.bg/rss/%D0%A1%D0%BF%D0%BE%D1%80%D1%82_18752" htmlUrl="http://m.offnews.bg"/>
+      <outline type="rss" text="dnevnik.bg Спорт" xmlUrl="https://www.dnevnik.bg/rssc/?rubrid=1692" htmlUrl="https://www.dnevnik.bg"/>
+      <outline type="rss" text="Гонг: всички новини" xmlUrl="http://www.gong.bg/rss.php" htmlUrl="http://www.gong.bg"/>
+      <outline type="rss" text="Монитор - Спорт" xmlUrl="http://www.monitor.bg/rss?id=80" htmlUrl="http://www.monitor.bg"/>
+      <outline type="rss" text="sportal.bg" xmlUrl="https://sportal.bg/rss" htmlUrl="https://sportal.bg/rss"/>
+      <outline type="rss" text="focus-news.net" xmlUrl="https://www.focus-news.net/rss.php?cat=3" htmlUrl="https://www.focus-news.net/rss.php?cat=3"/>
+      <outline type="rss" text="actualno.com" xmlUrl="https://www.actualno.com/sport" htmlUrl="https://www.actualno.com/sport"/>
+      <outline type="rss" text="gol.bg" xmlUrl="http://www.gol.bg" htmlUrl="http://www.gol.bg"/>
+    </outline>
+    <outline text="Интериорен дизайн" title="Интериорен дизайн">
+      <outline type="rss" text="ФАКТИ.БГ - Имоти" xmlUrl="https://fakti.bg/feed/imoti" htmlUrl="https://fakti.bg"/>
+      <outline type="rss" text="Интериор, идеи за интериорен дизайн и обзавеждане на к" xmlUrl="http://feeds.feedburner.com/artcafe/XfLK" htmlUrl="http://artcafe.bg"/>
+    </outline>
+    <outline text="ЗДРАВЕ" title="ЗДРАВЕ">
+      <outline type="rss" text="m.offnews.bg/news/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%B5_18753" xmlUrl="https://m.offnews.bg/rss/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%B5_18753" htmlUrl="http://m.offnews.bg"/>
+      <outline type="rss" text="DoctorOnline.bg: сайт за здраве" xmlUrl="https://www.doctoronline.bg/rss.php" htmlUrl="https://doctoronline.bg"/>
+      <outline type="rss" text="Лекува нет" xmlUrl="https://lekuva.net/feed" htmlUrl="https://lekuva.net"/>
+      <outline type="rss" text="Mamita-BG.COM » Здраве" xmlUrl="https://mamita-bg.com/category/zdrave/feed/" htmlUrl="https://mamita-bg.com"/>
+    </outline>
+    <outline text="КИНО" title="КИНО">
+      <outline type="rss" text="actualno.com" xmlUrl="https://www.actualno.com/cinema" htmlUrl="https://www.actualno.com/cinema"/>
+      <outline type="rss" text="cineboom.bg" xmlUrl="https://www.cineboom.bg/rss" htmlUrl="https://www.cineboom.bg/rss"/>
+      <outline type="rss" text="kino.dir.bg" xmlUrl="https://kino.dir.bg/feeds/rss" htmlUrl="https://kino.dir.bg/feeds/rss"/>
+    </outline>
+    <outline text="ВРЕМЕТО" title="ВРЕМЕТО">
+    </outline>
+  </body>
+</opml>
