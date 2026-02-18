@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Dutch News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Landelijk Nieuws)" title="General News">
+            <outline type="rss" text="NOS Nieuws - Algemeen" title="NOS" xmlUrl="https://feeds.nos.nl/nosnieuwsalgemeen" htmlUrl="https://nos.nl"/>
+            <outline type="rss" text="NU.nl - Algemeen" title="NU.nl" xmlUrl="https://www.nu.nl/rss/Algemeen" htmlUrl="https://www.nu.nl"/>
+            <outline type="rss" text="De Telegraaf - Laatste Nieuws" title="Telegraaf" xmlUrl="https://www.telegraaf.nl/rss" htmlUrl="https://www.telegraaf.nl"/>
+            <outline type="rss" text="AD.nl - Laatste Nieuws" title="AD" xmlUrl="https://www.ad.nl/rss.xml" htmlUrl="https://www.ad.nl"/>
+            <outline type="rss" text="Volkskrant - Nieuws" title="Volkskrant" xmlUrl="https://www.volkskrant.nl/nieuws/rss.xml" htmlUrl="https://www.volkskrant.nl"/>
+            <outline type="rss" text="NRC - Laatste Nieuws" title="NRC" xmlUrl="https://www.nrc.nl/rss/" htmlUrl="https://www.nrc.nl"/>
+            <outline type="rss" text="Trouw - Nieuws" title="Trouw" xmlUrl="https://www.trouw.nl/nieuws/rss.xml" htmlUrl="https://www.trouw.nl"/>
+            <outline type="rss" text="Reformatorisch Dagblad" title="RD" xmlUrl="https://www.rd.nl/rss" htmlUrl="https://www.rd.nl"/>
+            <outline type="rss" text="Metronieuws" title="Metro" xmlUrl="https://www.metronieuws.nl/feed/" htmlUrl="https://www.metronieuws.nl"/>
+            <outline type="rss" text="Dutch News (English)" title="Dutch News EN" xmlUrl="https://www.dutchnews.nl/feed/" htmlUrl="https://www.dutchnews.nl"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Economie &amp; Financiën)" title="Business &amp; Economy">
+            <outline type="rss" text="FD.nl (Financieele Dagblad)" xmlUrl="https://fd.nl/?service=rss" htmlUrl="https://fd.nl"/>
+            <outline type="rss" text="RTL Nieuws - Economie" xmlUrl="https://www.rtlnieuws.nl/rss/economie/index.xml" htmlUrl="https://www.rtlnieuws.nl/economie"/>
+            <outline type="rss" text="NOS Nieuws - Economie" xmlUrl="https://feeds.nos.nl/nosnieuwseconomie" htmlUrl="https://nos.nl/nieuws/economie"/>
+            <outline type="rss" text="Business Insider Nederland" xmlUrl="https://www.businessinsider.nl/feed/" htmlUrl="https://www.businessinsider.nl"/>
+            <outline type="rss" text="Beurs.nl" xmlUrl="https://www.beurs.nl/rss" htmlUrl="https://www.beurs.nl"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Technologie &amp; Wetenschap)" title="Technology &amp; Science">
+            <outline type="rss" text="Tweakers" title="Tweakers" xmlUrl="https://feeds.feedburner.com/tweakers/mixed" htmlUrl="https://tweakers.net"/>
+            <outline type="rss" text="Bright" title="Bright" xmlUrl="https://www.bright.nl/rss.xml" htmlUrl="https://www.bright.nl"/>
+            <outline type="rss" text="Computer!Totaal" xmlUrl="https://computertotaal.nl/feed/" htmlUrl="https://computertotaal.nl"/>
+            <outline type="rss" text="Hardware Info" xmlUrl="https://nl.hardware.info/rss/nieuws.xml" htmlUrl="https://nl.hardware.info"/>
+            <outline type="rss" text="Scientias" xmlUrl="https://www.scientias.nl/feed/" htmlUrl="https://www.scientias.nl"/>
+            <outline type="rss" text="iPhoned" xmlUrl="https://www.iphoned.nl/feed/" htmlUrl="https://www.iphoned.nl"/>
+            <outline type="rss" text="Androidworld" xmlUrl="https://androidworld.nl/feed/" htmlUrl="https://androidworld.nl"/>
+        </outline>
+
+        <outline text="Sports (Sport)" title="Sports">
+            <outline type="rss" text="NOS Sport" xmlUrl="https://feeds.nos.nl/nossportalgemeen" htmlUrl="https://nos.nl/sport"/>
+            <outline type="rss" text="Voetbal International" xmlUrl="https://www.vi.nl/rss" htmlUrl="https://www.vi.nl"/>
+            <outline type="rss" text="Voetbalzone" xmlUrl="https://www.voetbalzone.nl/rss.asp" htmlUrl="https://www.voetbalzone.nl"/>
+            <outline type="rss" text="WielerFlits" xmlUrl="https://www.wielerflits.nl/feed/" htmlUrl="https://www.wielerflits.nl"/>
+            <outline type="rss" text="Sportnieuws.nl" xmlUrl="https://sportnieuws.nl/feed/" htmlUrl="https://sportnieuws.nl"/>
+        </outline>
+
+        <outline text="Regional News (Regionaal Nieuws)" title="Regional News">
+            <outline type="rss" text="AT5 (Amsterdam)" xmlUrl="https://www.at5.nl/rss" htmlUrl="https://www.at5.nl"/>
+            <outline type="rss" text="Omroep Brabant" xmlUrl="https://www.omroepbrabant.nl/rss" htmlUrl="https://www.omroepbrabant.nl"/>
+            <outline type="rss" text="RTV Rijnmond" xmlUrl="https://www.rijnmond.nl/rss" htmlUrl="https://www.rijnmond.nl"/>
+            <outline type="rss" text="Omroep West" xmlUrl="https://www.omroepwest.nl/rss" htmlUrl="https://www.omroepwest.nl"/>
+            <outline type="rss" text="Omroep Gelderland" xmlUrl="https://www.omroepgelderland.nl/rss" htmlUrl="https://www.omroepgelderland.nl"/>
+            <outline type="rss" text="RTV Utrecht" xmlUrl="https://www.rtvutrecht.nl/rss.xml" htmlUrl="https://www.rtvutrecht.nl"/>
+            <outline type="rss" text="Omroep Friesland" xmlUrl="https://www.omropfryslan.nl/nieuws/rss.xml" htmlUrl="https://www.omropfryslan.nl"/>
+            <outline type="rss" text="RTV Noord" xmlUrl="https://www.rtvnoord.nl/rss" htmlUrl="https://www.rtvnoord.nl"/>
+            <outline type="rss" text="L1 (Limburg)" xmlUrl="https://www.l1.nl/rss" htmlUrl="https://www.l1.nl"/>
+            <outline type="rss" text="Omroep Flevoland" xmlUrl="https://www.omroepflevoland.nl/rss" htmlUrl="https://www.omroepflevoland.nl"/>
+            <outline type="rss" text="Omroep Zeeland" xmlUrl="https://www.omroepzeeland.nl/rss" htmlUrl="https://www.omroepzeeland.nl"/>
+            <outline type="rss" text="RTV Oost" xmlUrl="https://www.rtvoost.nl/rss" htmlUrl="https://www.rtvoost.nl"/>
+            <outline type="rss" text="RTV Drenthe" xmlUrl="https://www.rtvdrenthe.nl/rss" htmlUrl="https://www.rtvdrenthe.nl"/>
+            <outline type="rss" text="NH Nieuws" xmlUrl="https://www.nhnieuws.nl/rss" htmlUrl="https://www.nhnieuws.nl"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Cultuur &amp; Entertainment)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="RTL Boulevard" xmlUrl="https://www.rtlboulevard.nl/rss.xml" htmlUrl="https://www.rtlboulevard.nl"/>
+            <outline type="rss" text="Entertainment Business" xmlUrl="https://www.entertainmentbusiness.nl/feed/" htmlUrl="https://www.entertainmentbusiness.nl"/>
+            <outline type="rss" text="Vogue Nederland" xmlUrl="https://www.vogue.nl/feed/" htmlUrl="https://www.vogue.nl"/>
+        </outline>
+    </body>
+</opml>

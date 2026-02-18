@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Latvian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Galvenās ziņas)" title="General News">
+            <outline type="rss" text="LSM.lv - Visas ziņas" title="LSM" xmlUrl="https://www.lsm.lv/rss/zinas/" htmlUrl="https://www.lsm.lv"/>
+            <outline type="rss" text="Delfi.lv" title="Delfi" xmlUrl="https://www.delfi.lv/rss/" htmlUrl="https://www.delfi.lv"/>
+            <outline type="rss" text="TVNET" title="TVNET" xmlUrl="https://www.tvnet.lv/rss" htmlUrl="https://www.tvnet.lv"/>
+            <outline type="rss" text="Apollo.lv" title="Apollo" xmlUrl="https://www.apollo.lv/rss" htmlUrl="https://www.apollo.lv"/>
+            <outline type="rss" text="LA.lv (Latvijas Avīze)" title="LA.lv" xmlUrl="https://www.la.lv/feed/" htmlUrl="https://www.la.lv"/>
+            <outline type="rss" text="Jauns.lv" title="Jauns.lv" xmlUrl="https://jauns.lv/rss" htmlUrl="https://jauns.lv"/>
+            <outline type="rss" text="LETA - Ziņas" title="LETA" xmlUrl="http://www.leta.lv/rss/news/" htmlUrl="http://www.leta.lv"/>
+            <outline type="rss" text="Neatkarīgā (NRA.lv)" title="NRA" xmlUrl="https://nra.lv/rss/" htmlUrl="https://nra.lv"/>
+            <outline type="rss" text="Sargs.lv" title="Sargs" xmlUrl="https://www.sargs.lv/lv/rss.xml" htmlUrl="https://www.sargs.lv"/>
+        </outline>
+
+        <outline text="English News from Latvia" title="English News">
+            <outline type="rss" text="LSM English" title="LSM EN" xmlUrl="https://eng.lsm.lv/rss/" htmlUrl="https://eng.lsm.lv"/>
+            <outline type="rss" text="The Baltic Times" title="Baltic Times" xmlUrl="https://www.baltictimes.com/rss/" htmlUrl="https://www.baltictimes.com"/>
+            <outline type="rss" text="BNN News (English)" title="BNN EN" xmlUrl="https://bnn-news.com/feed" htmlUrl="https://bnn-news.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Bizness)" title="Business &amp; Economy">
+            <outline type="rss" text="Dienas Bizness" title="Db.lv" xmlUrl="https://www.db.lv/rss" htmlUrl="https://www.db.lv"/>
+            <outline type="rss" text="LSM Bizness" title="LSM Bizness" xmlUrl="https://www.lsm.lv/rss/zinas/ekonomika/" htmlUrl="https://www.lsm.lv/zinas/ekonomika/"/>
+            <outline type="rss" text="Delfi Bizness" title="Delfi Bizness" xmlUrl="https://www.delfi.lv/bizness/rss/" htmlUrl="https://www.delfi.lv/bizness/"/>
+            <outline type="rss" text="Labs of Latvia" title="Labs of Latvia" xmlUrl="https://labsoflatvia.com/feed" htmlUrl="https://labsoflatvia.com"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Tehnoloģijas)" title="Technology &amp; Science">
+            <outline type="rss" text="Kursors.lv" title="Kursors" xmlUrl="https://kursors.lv/feed/" htmlUrl="https://kursors.lv"/>
+            <outline type="rss" text="Delfi Tehnoloģijas" title="Delfi Tech" xmlUrl="https://www.delfi.lv/tech/rss/" htmlUrl="https://www.delfi.lv/tech/"/>
+            <outline type="rss" text="Zinātne un Tehnoloģijas" title="LSM Tech" xmlUrl="https://www.lsm.lv/rss/dzive/zinatne-un-tehnologijas/" htmlUrl="https://www.lsm.lv/dzive/zinatne-un-tehnologijas/"/>
+            <outline type="rss" text="Boot.lv" title="Boot" xmlUrl="https://boot.lv/feed/" htmlUrl="https://boot.lv"/>
+        </outline>
+
+        <outline text="Sports (Sports)" title="Sports">
+            <outline type="rss" text="Sportacentrs.com" title="Sportacentrs" xmlUrl="https://sportacentrs.com/rss/" htmlUrl="https://sportacentrs.com"/>
+            <outline type="rss" text="LSM Sports" title="LSM Sports" xmlUrl="https://www.lsm.lv/rss/zinas/sports/" htmlUrl="https://www.lsm.lv/zinas/sports/"/>
+            <outline type="rss" text="Delfi Sports" title="Delfi Sports" xmlUrl="https://www.delfi.lv/sports/rss/" htmlUrl="https://www.delfi.lv/sports/"/>
+            <outline type="rss" text="TVNET Sports" title="TVNET Sports" xmlUrl="https://www.tvnet.lv/rss/sports" htmlUrl="https://www.tvnet.lv/sports"/>
+        </outline>
+
+        <outline text="Regional News (Reģionālās ziņas)" title="Regional News">
+            <outline type="rss" text="Liepajniekiem.lv" title="Liepāja" xmlUrl="https://www.liepajniekiem.lv/rss" htmlUrl="https://www.liepajniekiem.lv"/>
+            <outline type="rss" text="Zemgales Ziņas" title="Zemgale" xmlUrl="https://www.zz.lv/rss" htmlUrl="https://www.zz.lv"/>
+            <outline type="rss" text="Latgales Laiks" title="Latgale" xmlUrl="https://latgaleslaiks.lv/rss" htmlUrl="https://latgaleslaiks.lv"/>
+            <outline type="rss" text="Kurzemnieks" title="Kurzeme" xmlUrl="https://www.kurzemnieks.lv/feed" htmlUrl="https://www.kurzemnieks.lv"/>
+            <outline type="rss" text="Dzirkstele (Gulbene)" title="Dzirkstele" xmlUrl="https://www.dzirkstele.lv/rss" htmlUrl="https://www.dzirkstele.lv"/>
+            <outline type="rss" text="E-Liesma (Valmiera)" title="Liesma" xmlUrl="https://www.eliesma.lv/rss" htmlUrl="https://www.eliesma.lv"/>
+            <outline type="rss" text="Gorod.lv (Daugavpils)" title="Gorod" xmlUrl="https://www.gorod.lv/rss" htmlUrl="https://www.gorod.lv"/>
+        </outline>
+    </body>
+</opml>

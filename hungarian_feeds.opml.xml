@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
+    <head>
+        <title>Hungarian News Feeds - Full Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Országos Hírek)" title="General News">
+            <outline type="rss" text="Index.hu" title="Index" xmlUrl="https://index.hu/24ora/rss/" htmlUrl="https://index.hu"/>
+            <outline type="rss" text="Telex" title="Telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu"/>
+            <outline type="rss" text="Origo" title="Origo" xmlUrl="https://www.origo.hu/contentexport/rss/hirmondo/index.xml" htmlUrl="https://www.origo.hu"/>
+            <outline type="rss" text="24.hu" title="24.hu" xmlUrl="https://24.hu/feed/" htmlUrl="https://24.hu"/>
+            <outline type="rss" text="HVG" title="HVG" xmlUrl="https://hvg.hu/rss" htmlUrl="https://hvg.hu"/>
+            <outline type="rss" text="444.hu" title="444" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu"/>
+            <outline type="rss" text="Magyar Nemzet" title="Magyar Nemzet" xmlUrl="https://magyarnemzet.hu/feed/" htmlUrl="https://magyarnemzet.hu"/>
+            <outline type="rss" text="Népszava" title="Népszava" xmlUrl="https://nepszava.hu/feed/" htmlUrl="https://nepszava.hu"/>
+            <outline type="rss" text="Hír TV" title="Hír TV" xmlUrl="https://hirtv.hu/rss" htmlUrl="https://hirtv.hu"/>
+            <outline type="rss" text="ATV" title="ATV" xmlUrl="http://www.atv.hu/rss" htmlUrl="http://www.atv.hu"/>
+            <outline type="rss" text="Mandiner" title="Mandiner" xmlUrl="https://mandiner.hu/rss" htmlUrl="https://mandiner.hu"/>
+            <outline type="rss" text="Infostart" title="Infostart" xmlUrl="https://infostart.hu/rss" htmlUrl="https://infostart.hu"/>
+            <outline type="rss" text="168 Óra" title="168 Óra" xmlUrl="https://168.hu/feed" htmlUrl="https://168.hu"/>
+            <outline type="rss" text="PestiSrácok" title="PestiSrácok" xmlUrl="https://pestisracok.hu/feed/" htmlUrl="https://pestisracok.hu"/>
+            <outline type="rss" text="Blikk" title="Blikk" xmlUrl="https://www.blikk.hu/rss" htmlUrl="https://www.blikk.hu"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Gazdaság)" title="Business &amp; Economy">
+            <outline type="rss" text="Portfolio.hu" title="Portfolio" xmlUrl="https://www.portfolio.hu/rss/all.xml" htmlUrl="https://www.portfolio.hu"/>
+            <outline type="rss" text="Napi.hu" title="Napi.hu" xmlUrl="https://www.napi.hu/rss" htmlUrl="https://www.napi.hu"/>
+            <outline type="rss" text="Pénzcentrum" title="Pénzcentrum" xmlUrl="https://www.penzcentrum.hu/rss/all.xml" htmlUrl="https://www.penzcentrum.hu"/>
+            <outline type="rss" text="Világgazdaság" title="VG.hu" xmlUrl="https://www.vg.hu/feed/" htmlUrl="https://www.vg.hu"/>
+            <outline type="rss" text="Menedzser Fórum" title="mfor.hu" xmlUrl="https://mfor.hu/rss/" htmlUrl="https://mfor.hu"/>
+            <outline type="rss" text="Privátbankár" title="Privátbankár" xmlUrl="https://privatbankar.hu/rss/" htmlUrl="https://privatbankar.hu"/>
+            <outline type="rss" text="Economx" title="Economx" xmlUrl="https://www.economx.hu/rss" htmlUrl="https://www.economx.hu"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Technika és Tudomány)" title="Technology &amp; Science">
+            <outline type="rss" text="HWSW" title="HWSW" xmlUrl="https://www.hwsw.hu/xml/latest.xml" htmlUrl="https://www.hwsw.hu"/>
+            <outline type="rss" text="PC World Hungary" title="PC World" xmlUrl="https://pcworld.hu/rss/all.xml" htmlUrl="https://pcworld.hu"/>
+            <outline type="rss" text="PROHARDVER!" title="PROHARDVER" xmlUrl="https://prohardver.hu/friss/hir/rss.xml" htmlUrl="https://prohardver.hu"/>
+            <outline type="rss" text="MobilArena" title="MobilArena" xmlUrl="https://mobilarena.hu/friss/hir/rss.xml" htmlUrl="https://mobilarena.hu"/>
+            <outline type="rss" text="Bitport" title="Bitport" xmlUrl="https://bitport.hu/rss" htmlUrl="https://bitport.hu"/>
+            <outline type="rss" text="SG.hu" title="SG.hu" xmlUrl="https://sg.hu/hirmondo.rss" htmlUrl="https://sg.hu"/>
+            <outline type="rss" text="Rakéta.hu" title="Rakéta" xmlUrl="https://raketa.hu/rss" htmlUrl="https://raketa.hu"/>
+            <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/rss" htmlUrl="https://qubit.hu"/>
+        </outline>
+
+        <outline text="Sports (Sport)" title="Sports">
+            <outline type="rss" text="Nemzeti Sport" title="Nemzeti Sport" xmlUrl="https://www.nemzetisport.hu/rss" htmlUrl="https://www.nemzetisport.hu"/>
+            <outline type="rss" text="NSO RSS" title="NSO" xmlUrl="https://www.nso.hu/rss" htmlUrl="https://www.nso.hu"/>
+            <outline type="rss" text="Sportal.hu" title="Sportal" xmlUrl="https://www.sportal.hu/rss" htmlUrl="https://www.sportal.hu"/>
+            <outline type="rss" text="Eurosport Hungary" title="Eurosport" xmlUrl="https://hu.eurosport.com/rss.xml" htmlUrl="https://www.eurosport.hu"/>
+            <outline type="rss" text="Digi Sport" title="Digi Sport" xmlUrl="https://www.digisport.hu/rss" htmlUrl="https://www.digisport.hu"/>
+        </outline>
+
+        <outline text="Regional News (Regionális Hírek)" title="Regional News">
+            <outline type="rss" text="Kisalföld (Győr)" title="Kisalföld" xmlUrl="https://www.kisalfold.hu/feed/" htmlUrl="https://www.kisalfold.hu"/>
+            <outline type="rss" text="Hajdú Online (Debrecen)" title="Haon" xmlUrl="https://www.haon.hu/feed/" htmlUrl="https://www.haon.hu"/>
+            <outline type="rss" text="Borsod Online (Miskolc)" title="Boon" xmlUrl="https://www.boon.hu/feed/" htmlUrl="https://www.boon.hu"/>
+            <outline type="rss" text="Delmagyar (Szeged)" title="Delmagyar" xmlUrl="https://www.delmagyar.hu/feed/" htmlUrl="https://www.delmagyar.hu"/>
+            <outline type="rss" text="Fejér Megyei Hírlap" title="FEOL" xmlUrl="https://www.feol.hu/feed/" htmlUrl="https://www.feol.hu"/>
+            <outline type="rss" text="Vas Népe" title="VAOL" xmlUrl="https://www.vaol.hu/feed/" htmlUrl="https://www.vaol.hu"/>
+            <outline type="rss" text="Napló (Veszprém)" title="VEOL" xmlUrl="https://www.veol.hu/feed/" htmlUrl="https://www.veol.hu"/>
+            <outline type="rss" text="Zalai Hírlap" title="ZAOL" xmlUrl="https://www.zaol.hu/feed/" htmlUrl="https://www.zaol.hu"/>
+            <outline type="rss" text="Bama (Pécs)" title="Bama" xmlUrl="https://www.bama.hu/feed/" htmlUrl="https://www.bama.hu"/>
+            <outline type="rss" text="Sonline (Somogy)" title="Sonline" xmlUrl="https://www.sonline.hu/feed/" htmlUrl="https://www.sonline.hu"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Kultúra и Életmód)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Fidelio" title="Fidelio" xmlUrl="https://fidelio.hu/rss" htmlUrl="https://fidelio.hu"/>
+            <outline type="rss" text="Kultúra.hu" title="Kultúra.hu" xmlUrl="https://kultura.hu/feed/" htmlUrl="https://kultura.hu"/>
+            <outline type="rss" text="Marie Claire Hungary" title="Marie Claire" xmlUrl="https://marieclaire.hu/feed/" htmlUrl="https://marieclaire.hu"/>
+            <outline type="rss" text="Nők Lapja" title="Nők Lapja" xmlUrl="https://www.noklapja.hu/feed/" htmlUrl="https://www.noklapja.hu"/>
+            <outline type="rss" text="Travelo" title="Travelo" xmlUrl="https://www.travelo.hu/rss" htmlUrl="https://www.travelo.hu"/>
+        </outline>
+    </body>
+</opml>

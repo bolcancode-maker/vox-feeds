@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Spanish News - Vox Player</title>
+  </head>
+  <body>
+    <outline text="TOP NEWS" title="TOP NEWS">
+      <outline type="rss" text="El País" xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" htmlUrl="https://elpais.com"/>
+      <outline type="rss" text="El Mundo" xmlUrl="https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml" htmlUrl="https://www.elmundo.es"/>
+      <outline type="rss" text="ABC.es" xmlUrl="https://www.abc.es/rss/2.0/portada/" htmlUrl="https://www.abc.es"/>
+      <outline type="rss" text="La Vanguardia" xmlUrl="https://www.lavanguardia.com/rss/home.xml" htmlUrl="https://www.lavanguardia.com"/>
+      <outline type="rss" text="RTVE Noticias" xmlUrl="https://www.rtve.es/rss/temas_noticias.xml" htmlUrl="https://www.rtve.es"/>
+    </outline>
+
+    <outline text="TECHNOLOGY" title="TECHNOLOGY">
+      <outline type="rss" text="Xataka" xmlUrl="http://feeds.weblogssl.com/xataka2" htmlUrl="https://www.xataka.com"/>
+      <outline type="rss" text="Genbeta" xmlUrl="http://feeds.weblogssl.com/genbeta" htmlUrl="https://www.genbeta.com"/>
+      <outline type="rss" text="Hipertextual" xmlUrl="https://hipertextual.com/feed" htmlUrl="https://hipertextual.com"/>
+      <outline type="rss" text="El Output" xmlUrl="https://eloutput.com/feed/" htmlUrl="https://eloutput.com"/>
+    </outline>
+
+    <outline text="FINANCE" title="FINANCE">
+      <outline type="rss" text="Expansión" xmlUrl="https://e00-expansion.uecdn.es/rss/portada.xml" htmlUrl="https://www.expansion.com"/>
+      <outline type="rss" text="Cinco Días" xmlUrl="https://cincodias.elpais.com/rss/cincodias/portada.xml" htmlUrl="https://cincodias.elpais.com"/>
+      <outline type="rss" text="El Economista" xmlUrl="https://www.eleconomista.es/rss/rss-portada.php" htmlUrl="https://www.eleconomista.es"/>
+    </outline>
+
+    <outline text="CRYPTO" title="CRYPTO">
+      <outline type="rss" text="CriptoNoticias" xmlUrl="https://www.criptonoticias.com/feed/" htmlUrl="https://www.criptonoticias.com"/>
+      <outline type="rss" text="Cointelegraph (ES)" xmlUrl="https://es.cointelegraph.com/rss" htmlUrl="https://es.cointelegraph.com"/>
+      <outline type="rss" text="BeInCrypto" xmlUrl="https://es.beincrypto.com/feed/" htmlUrl="https://es.beincrypto.com"/>
+    </outline>
+
+    <outline text="YOU TUBE" title="YOU TUBE">
+      <outline type="rss" text="Ibai" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8rYm7W9eQZatIun693-O4Q" htmlUrl="https://www.youtube.com/c/ibaiLlanos"/>
+      <outline type="rss" text="AuronPlay" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCO89f89vV7I8OaM_U8uI5vQ" htmlUrl="https://www.youtube.com/user/auronplay"/>
+      <outline type="rss" text="El Rubius" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXazgXDIYyWH-yXLAkcrS9w" htmlUrl="https://www.youtube.com/user/elrubiusOMG"/>
+      <outline type="rss" text="Luisito Comunica" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBIn7YfS8BfL6asLzY5Xvlw" htmlUrl="https://www.youtube.com/user/LuisitoComunicaa"/>
+    </outline>
+
+    <outline text="SPORTS" title="SPORTS">
+      <outline type="rss" text="Marca" xmlUrl="https://e00-marca.uecdn.es/rss/portada.xml" htmlUrl="https://www.marca.com"/>
+      <outline type="rss" text="AS.com" xmlUrl="https://as.com/rss/tags/ultimas_noticias/" htmlUrl="https://as.com"/>
+      <outline type="rss" text="Mundo Deportivo" xmlUrl="https://www.mundodeportivo.com/rss/home.xml" htmlUrl="https://www.mundodeportivo.com"/>
+    </outline>
+  </body>
+</opml>

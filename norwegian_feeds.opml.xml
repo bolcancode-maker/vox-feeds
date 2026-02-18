@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Norwegian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Rikshverdag)" title="General News">
+            <outline type="rss" text="NRK - Toppsaker" title="NRK" xmlUrl="https://www.nrk.no/toppsaker.rss" htmlUrl="https://www.nrk.no"/>
+            <outline type="rss" text="Aftenposten - Forsiden" title="Aftenposten" xmlUrl="https://www.aftenposten.no/rss" htmlUrl="https://www.aftenposten.no"/>
+            <outline type="rss" text="VG - Nyheter" title="VG" xmlUrl="https://www.vg.no/rss/feed/?format=rss" htmlUrl="https://www.vg.no"/>
+            <outline type="rss" text="Dagbladet - Nyheter" title="Dagbladet" xmlUrl="https://www.dagbladet.no/rss/nyheter" htmlUrl="https://www.dagbladet.no"/>
+            <outline type="rss" text="Nettavisen" title="Nettavisen" xmlUrl="https://www.nettavisen.no/service/feed/index.rss" htmlUrl="https://www.nettavisen.no"/>
+            <outline type="rss" text="TV 2 Nyheter" title="TV 2" xmlUrl="https://www.tv2.no/rss/nyheter" htmlUrl="https://www.tv2.no"/>
+            <outline type="rss" text="ABC Nyheter" title="ABC" xmlUrl="https://www.abcnyheter.no/rss" htmlUrl="https://www.abcnyheter.no"/>
+            <outline type="rss" text="Dagsavisen" title="Dagsavisen" xmlUrl="https://www.dagsavisen.no/?service=rss" htmlUrl="https://www.dagsavisen.no"/>
+            <outline type="rss" text="Vårt Land" title="Vårt Land" xmlUrl="https://www.vl.no/?service=rss" htmlUrl="https://www.vl.no"/>
+            <outline type="rss" text="Klassekampen" title="Klassekampen" xmlUrl="https://klassekampen.no/rss" htmlUrl="https://klassekampen.no"/>
+            <outline type="rss" text="Norway Today (English)" title="Norway Today" xmlUrl="https://norwaytoday.info/feed/" htmlUrl="https://norwaytoday.info"/>
+            <outline type="rss" text="The Local Norway (English)" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/no" htmlUrl="https://www.thelocal.no"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Økonomi og Næringsliv)" title="Business &amp; Economy">
+            <outline type="rss" text="E24" title="E24" xmlUrl="https://e24.no/rss" htmlUrl="https://e24.no"/>
+            <outline type="rss" text="Dagens Næringsliv (DN)" title="DN" xmlUrl="https://www.dn.no/rss" htmlUrl="https://www.dn.no"/>
+            <outline type="rss" text="Finansavisen" title="Finansavisen" xmlUrl="https://www.finansavisen.no/rss" htmlUrl="https://www.finansavisen.no"/>
+            <outline type="rss" text="Hegnar.no" title="Hegnar" xmlUrl="https://www.hegnar.no/rss" htmlUrl="https://www.hegnar.no"/>
+            <outline type="rss" text="Næringslivets Hovedorganisasjon (NHO)" xmlUrl="https://www.nho.no/rss/" htmlUrl="https://www.nho.no"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Teknologi и Vitenskap)" title="Technology &amp; Science">
+            <outline type="rss" text="Digi.no" title="Digi" xmlUrl="https://www.digi.no/feeds/general" htmlUrl="https://www.digi.no"/>
+            <outline type="rss" text="Tek.no" title="Tek" xmlUrl="https://www.tek.no/rss" htmlUrl="https://www.tek.no"/>
+            <outline type="rss" text="Tu.no (Teknisk Ukeblad)" title="TU" xmlUrl="https://www.tu.no/feeds/general" htmlUrl="https://www.tu.no"/>
+            <outline type="rss" text="Computerworld Norge" title="CW" xmlUrl="https://www.computerworld.no/rss" htmlUrl="https://www.computerworld.no"/>
+            <outline type="rss" text="Forskning.no" title="Forskning" xmlUrl="https://forskning.no/rss" htmlUrl="https://forskning.no"/>
+            <outline type="rss" text="Gamer.no" title="Gamer" xmlUrl="https://www.gamer.no/feeds/general.xml" htmlUrl="https://www.gamer.no"/>
+        </outline>
+
+        <outline text="Sports (Sport)" title="Sports">
+            <outline type="rss" text="NRK Sport" xmlUrl="https://www.nrk.no/sport/toppsaker.rss" htmlUrl="https://www.nrk.no/sport"/>
+            <outline type="rss" text="TV 2 Sport" xmlUrl="https://www.tv2.no/rss/sport" htmlUrl="https://www.tv2.no/sport"/>
+            <outline type="rss" text="Eurosport Norge" xmlUrl="https://www.eurosport.no/rss.xml" htmlUrl="https://www.eurosport.no"/>
+            <outline type="rss" text="VG Sport" xmlUrl="https://www.vg.no/rss/feed/?categories=1004&amp;format=rss" htmlUrl="https://www.vg.no/sport"/>
+        </outline>
+
+        <outline text="Regional News (Distriktsnyheter)" title="Regional News">
+            <outline type="rss" text="Bergens Tidende (Vestland)" xmlUrl="https://www.bt.no/rss" htmlUrl="https://www.bt.no"/>
+            <outline type="rss" text="Stavanger Aftenblad (Rogaland)" xmlUrl="https://www.aftenbladet.no/rss" htmlUrl="https://www.aftenbladet.no"/>
+            <outline type="rss" text="Adresseavisen (Trøndelag)" xmlUrl="https://www.adressa.no/rss" htmlUrl="https://www.adressa.no"/>
+            <outline type="rss" text="Nordlys (Troms)" xmlUrl="https://www.nordlys.no/rss" htmlUrl="https://www.nordlys.no"/>
+            <outline type="rss" text="Fædrelandsvennen (Agder)" xmlUrl="https://www.fvn.no/rss" htmlUrl="https://www.fvn.no"/>
+            <outline type="rss" text="Drammens Tidende (Viken)" xmlUrl="https://www.dt.no/rss" htmlUrl="https://www.dt.no"/>
+            <outline type="rss" text="Budstikka (Asker/Bærum)" xmlUrl="https://www.budstikka.no/rss" htmlUrl="https://www.budstikka.no"/>
+            <outline type="rss" text="Sunnmørsposten (Møre og Romsdal)" xmlUrl="https://www.smp.no/rss" htmlUrl="https://www.smp.no"/>
+            <outline type="rss" text="Haugesunds Avis" xmlUrl="https://www.h-avis.no/rss" htmlUrl="https://www.h-avis.no"/>
+            <outline type="rss" text="Tønsbergs Blad" xmlUrl="https://www.tb.no/rss" htmlUrl="https://www.tb.no"/>
+            <outline type="rss" text="Sandefjords Blad" xmlUrl="https://www.sb.no/rss" htmlUrl="https://www.sb.no"/>
+            <outline type="rss" text="Telemarksavisa" xmlUrl="https://www.ta.no/rss" htmlUrl="https://www.ta.no"/>
+            <outline type="rss" text="Oppland Arbeiderblad" xmlUrl="https://www.oa.no/rss" htmlUrl="https://www.oa.no"/>
+            <outline type="rss" text="Gudbrandsdølen Dagningen" xmlUrl="https://www.gd.no/rss" htmlUrl="https://www.gd.no"/>
+            <outline type="rss" text="Fredriksstad Blad" xmlUrl="https://www.f-b.no/rss" htmlUrl="https://www.f-b.no"/>
+            <outline type="rss" text="Moss Avis" xmlUrl="https://www.moss-avis.no/rss" htmlUrl="https://www.moss-avis.no"/>
+            <outline type="rss" text="Romerikes Blad" xmlUrl="https://www.rb.no/rss" htmlUrl="https://www.rb.no"/>
+            <outline type="rss" text="Hamar Arbeiderblad" xmlUrl="https://www.h-a.no/rss" htmlUrl="https://www.h-a.no"/>
+            <outline type="rss" text="Glåmdalen" xmlUrl="https://www.glomdalen.no/rss" htmlUrl="https://www.glomdalen.no"/>
+            <outline type="rss" text="Rana Blad" xmlUrl="https://www.ranablad.no/rss" htmlUrl="https://www.ranablad.no"/>
+            <outline type="rss" text="Avisa Nordland" xmlUrl="https://www.an.no/rss" htmlUrl="https://www.an.no"/>
+            <outline type="rss" text="Tidens Krav" xmlUrl="https://www.tk.no/rss" htmlUrl="https://www.tk.no"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Kultur og Livsstil)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Morgenbladet" xmlUrl="https://morgenbladet.no/rss" htmlUrl="https://morgenbladet.no"/>
+            <outline type="rss" text="Se og Hør" xmlUrl="https://www.seher.no/rss" htmlUrl="https://www.seher.no"/>
+            <outline type="rss" text="KK.no" xmlUrl="https://www.kk.no/rss" htmlUrl="https://www.kk.no"/>
+            <outline type="rss" text="Klikk.no" xmlUrl="https://www.klikk.no/rss" htmlUrl="https://www.klikk.no"/>
+            <outline type="rss" text="Journalisten.no" xmlUrl="https://journalisten.no/rss" htmlUrl="https://journalisten.no"/>
+        </outline>
+    </body>
+</opml>

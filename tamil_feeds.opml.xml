@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Tamil News Feeds (தமிழ் செய்திகள்)</title>
+    </head>
+    <body>
+        <outline text="General News (தலைப்புச் செய்திகள்)" title="General News">
+            <outline type="rss" text="BBC News தமிழ்" title="BBC Tamil" xmlUrl="https://feeds.bbci.co.uk/tamil/rss.xml" htmlUrl="https://www.bbc.com/tamil"/>
+            <outline type="rss" text="Dinamalar (தினமலர்)" title="Dinamalar" xmlUrl="https://www.dinamalar.com/rss/latest_news.asp" htmlUrl="https://www.dinamalar.com"/>
+            <outline type="rss" text="Maalai Malar (மாலை மலர்)" title="Maalai Malar" xmlUrl="https://www.maalaimalar.com/rss" htmlUrl="https://www.maalaimalar.com"/>
+            <outline type="rss" text="Oneindia Tamil" title="Oneindia" xmlUrl="https://tamil.oneindia.com/rss/tamil-news-fb.xml" htmlUrl="https://tamil.oneindia.com"/>
+            <outline type="rss" text="News18 Tamil Nadu" title="News18 Tamil" xmlUrl="https://tamil.news18.com/rss/news.xml" htmlUrl="https://tamil.news18.com"/>
+            <outline type="rss" text="Vikatan (விகடன்)" title="Vikatan" xmlUrl="https://www.vikatan.com/feed/" htmlUrl="https://www.vikatan.com"/>
+            <outline type="rss" text="Zee News Tamil" title="Zee Tamil" xmlUrl="https://zeenews.india.com/tamil/rss.xml" htmlUrl="https://zeenews.india.com/tamil"/>
+            <outline type="rss" text="Hindustan Times Tamil" title="HT Tamil" xmlUrl="https://tamil.hindustantimes.com/rss/latest-news" htmlUrl="https://tamil.hindustantimes.com"/>
+            <outline type="rss" text="Thinaboomi" title="Thinaboomi" xmlUrl="https://www.thinaboomi.com/feed/" htmlUrl="https://www.thinaboomi.com"/>
+            <outline type="rss" text="Virakesari (Sri Lanka)" title="Virakesari" xmlUrl="https://www.virakesari.lk/rss" htmlUrl="https://www.virakesari.lk"/>
+            <outline type="rss" text="Thinakaran (Sri Lanka)" title="Thinakaran" xmlUrl="http://www.thinakaran.lk/rss" htmlUrl="http://www.thinakaran.lk"/>
+            <outline type="rss" text="Dina Mani" title="Dina Mani" xmlUrl="https://www.dinamani.com/rss.xml" htmlUrl="https://www.dinamani.com"/>
+        </outline>
+
+        <outline text="Business &amp; Tech (தொழில்நுட்பம் மற்றும் வர்த்தகம்)" title="Tech &amp; Business">
+            <outline type="rss" text="Goodreturns Tamil" xmlUrl="https://tamil.goodreturns.in/rss/tamil-news-fb.xml" htmlUrl="https://tamil.goodreturns.in"/>
+            <outline type="rss" text="Gizbot Tamil" xmlUrl="https://tamil.gizbot.com/rss/tamil-news-fb.xml" htmlUrl="https://tamil.gizbot.com"/>
+            <outline type="rss" text="DriveSpark Tamil" xmlUrl="https://tamil.drivespark.com/rss/tamil-news-fb.xml" htmlUrl="https://tamil.drivespark.com"/>
+            <outline type="rss" text="YourStory Tamil" xmlUrl="https://tamil.yourstory.com/feed" htmlUrl="https://tamil.yourstory.com"/>
+        </outline>
+
+        <outline text="Sports (விளையாட்டு)" title="Sports">
+            <outline type="rss" text="Samayam Sports" xmlUrl="https://tamil.samayam.com/sports/rssfeed.cms" htmlUrl="https://tamil.samayam.com/sports/"/>
+            <outline type="rss" text="MyKhel Tamil" xmlUrl="https://tamil.mykhel.com/rss/tamil-news-fb.xml" htmlUrl="https://tamil.mykhel.com"/>
+            <outline type="rss" text="Vikatan Sports" xmlUrl="https://www.vikatan.com/sports/feed" htmlUrl="https://www.vikatan.com/sports"/>
+            <outline type="rss" text="Dinakaran Sports" xmlUrl="https://www.dinakaran.com/rss/sports" htmlUrl="https://www.dinakaran.com/sports"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Entertainment (சினிமா மற்றும் கலாச்சாரம்)" title="Lifestyle">
+            <outline type="rss" text="Filmibeat Tamil" xmlUrl="https://tamil.filmibeat.com/rss/tamil-news-fb.xml" htmlUrl="https://tamil.filmibeat.com"/>
+            <outline type="rss" text="Webdunia Cinema" xmlUrl="https://tamil.webdunia.com/rss/cinema/cinema-news.xml" htmlUrl="https://tamil.webdunia.com/cinema"/>
+            <outline type="rss" text="Behindwoods" title="Behindwoods" xmlUrl="https://www.behindwoods.com/rss.xml" htmlUrl="https://www.behindwoods.com"/>
+            <outline type="rss" text="Indiaglitz Tamil" title="Indiaglitz" xmlUrl="https://www.indiaglitz.com/tamil/rss/movies/news.xml" htmlUrl="https://www.indiaglitz.com/tamil"/>
+            <outline type="rss" text="Cine Ulagam" xmlUrl="https://www.cineulagam.com/feed/" htmlUrl="https://www.cineulagam.com"/>
+        </outline>
+    </body>
+</opml>

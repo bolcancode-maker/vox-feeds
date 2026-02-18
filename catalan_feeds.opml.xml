@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Catalan News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="TV3 Notícies" title="TV3" xmlUrl="https://www.ccma.cat/multimedia/rss/324/noticies/" htmlUrl="https://www.ccma.cat/324/"/>
+            <outline type="rss" text="VilaWeb" title="VilaWeb" xmlUrl="https://www.vilaweb.cat/feed/" htmlUrl="https://www.vilaweb.cat"/>
+            <outline type="rss" text="Ara.cat" title="Ara.cat" xmlUrl="https://www.ara.cat/rss/" htmlUrl="https://www.ara.cat"/>
+            <outline type="rss" text="El Nacional" title="El Nacional" xmlUrl="https://www.elnacional.cat/uploads/s1/78/34/0/elnacional_cat_ca.xml" htmlUrl="https://www.elnacional.cat"/>
+            <outline type="rss" text="Nació Digital" title="Nació Digital" xmlUrl="https://www.naciodigital.cat/rss/" htmlUrl="https://www.naciodigital.cat"/>
+            <outline type="rss" text="El Punt Avui" title="El Punt Avui" xmlUrl="https://www.elpuntavui.cat/rss.html" htmlUrl="https://www.elpuntavui.cat"/>
+            <outline type="rss" text="La República" title="La República" xmlUrl="https://www.larepublica.cat/feed/" htmlUrl="https://www.larepublica.cat"/>
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="L'Esportiu" title="L'Esportiu" xmlUrl="https://www.lesportiudecatalunya.cat/rss.html" htmlUrl="https://www.lesportiudecatalunya.cat"/>
+            <outline type="rss" text="Mundo Deportivo (Català)" title="Mundo Deportivo" xmlUrl="https://www.mundodeportivo.com/rss/futbol/fc-barcelona" htmlUrl="https://www.mundodeportivo.com"/>
+        </outline>
+    </body>
+</opml>

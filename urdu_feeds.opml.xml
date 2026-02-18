@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Urdu News Feeds (اردو خبریں) - Full Collection</title>
+    </head>
+    <body>
+        <outline text="General News (اہم خبریں)" title="General News">
+            <outline type="rss" text="BBC News اردو" title="BBC Urdu" xmlUrl="https://feeds.bbci.co.uk/urdu/rss.xml" htmlUrl="https://www.bbc.com/urdu"/>
+            <outline type="rss" text="Geo News (جیو نیوز)" title="Geo" xmlUrl="https://www.geonews.tv/rss/1/0" htmlUrl="https://www.geonews.tv"/>
+            <outline type="rss" text="Express News (ایکسپریس نیوز)" title="Express" xmlUrl="https://www.express.pk/feed/" htmlUrl="https://www.express.pk"/>
+            <outline type="rss" text="ARY News (اے آر وائی نیوز)" title="ARY" xmlUrl="https://urdu.arynews.tv/feed/" htmlUrl="https://urdu.arynews.tv"/>
+            <outline type="rss" text="Dawn News (ڈان نیوز)" title="Dawn" xmlUrl="https://www.dawnnews.tv/feeds/home/" htmlUrl="https://www.dawnnews.tv"/>
+            <outline type="rss" text="Jang News (روزنامہ جنگ)" title="Jang" xmlUrl="https://jang.com.pk/rss/category/latest-news" htmlUrl="https://jang.com.pk"/>
+            <outline type="rss" text="Independent Urdu" title="Indy Urdu" xmlUrl="https://www.independenturdu.com/rss" htmlUrl="https://www.independenturdu.com"/>
+            <outline type="rss" text="VOA Urdu (وائس آف امریکہ)" title="VOA" xmlUrl="https://www.urduvoa.com/api/z_mteye_ttq" htmlUrl="https://www.urduvoa.com"/>
+            <outline type="rss" text="Deutsche Welle (DW Urdu)" title="DW Urdu" xmlUrl="https://rss.dw.com/rdf/rss-urd-all" htmlUrl="https://www.dw.com/ur/"/>
+            <outline type="rss" text="Dunya News (دنیا نیوز)" title="Dunya" xmlUrl="https://dunyanews.tv/urdu/rss/index.php" htmlUrl="https://dunyanews.tv"/>
+            <outline type="rss" text="Urdu News (Saudi Arabia)" title="Urdu News" xmlUrl="https://www.urdunews.com/rss.xml" htmlUrl="https://www.urdunews.com"/>
+            <outline type="rss" text="Samaa TV" title="Samaa" xmlUrl="https://www.samaa.tv/urdu/feed/" htmlUrl="https://www.samaa.tv"/>
+            <outline type="rss" text="Daily Pakistan" title="Daily Pakistan" xmlUrl="https://dailypakistan.com.pk/rss" htmlUrl="https://dailypakistan.com.pk"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (معیشت اور کاروبار)" title="Business &amp; Economy">
+            <outline type="rss" text="Express Business" xmlUrl="https://www.express.pk/business/feed/" htmlUrl="https://www.express.pk/business/"/>
+            <outline type="rss" text="UrduPoint Business" xmlUrl="https://www.urdupoint.com/business/rss.xml" htmlUrl="https://www.urdupoint.com/business/"/>
+            <outline type="rss" text="Jang Business" xmlUrl="https://jang.com.pk/rss/category/business" htmlUrl="https://jang.com.pk/business"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (سائنس اور ٹیکنالوجی)" title="Technology &amp; Science">
+            <outline type="rss" text="ProPakistani Urdu" title="ProPakistani" xmlUrl="https://propakistani.pk/urdu/feed/" htmlUrl="https://propakistani.pk/urdu/"/>
+            <outline type="rss" text="Express Science" xmlUrl="https://www.express.pk/science/feed/" htmlUrl="https://www.express.pk/science/"/>
+            <outline type="rss" text="UrduPoint Sci-Tech" xmlUrl="https://www.urdupoint.com/technology/rss.xml" htmlUrl="https://www.urdupoint.com/technology/"/>
+        </outline>
+
+        <outline text="Sports (کھیل)" title="Sports">
+            <outline type="rss" text="Cricwick (Cricket)" title="Cricwick" xmlUrl="https://cricwick.net/feed" htmlUrl="https://cricwick.net"/>
+            <outline type="rss" text="Geo Sport" xmlUrl="https://www.geonews.tv/rss/1/5" htmlUrl="https://www.geonews.tv/sports"/>
+            <outline type="rss" text="Express Sports" xmlUrl="https://www.express.pk/sports/feed/" htmlUrl="https://www.express.pk/sports/"/>
+            <outline type="rss" text="Dawn Sports" xmlUrl="https://www.dawnnews.tv/feeds/sports/" htmlUrl="https://www.dawnnews.tv/sports/"/>
+        </outline>
+
+        <outline text="Regional News (علاقائی خبریں)" title="Regional News">
+            <outline type="rss" text="Lahore News" xmlUrl="https://urdu.livenewspk.com/category/punjab/lahore/feed/" htmlUrl="https://urdu.livenewspk.com"/>
+            <outline type="rss" text="Karachi News" xmlUrl="https://urdu.livenewspk.com/category/sindh/karachi/feed/" htmlUrl="https://urdu.livenewspk.com"/>
+            <outline type="rss" text="Khyber News" xmlUrl="https://khybernews.tv/feed/" htmlUrl="https://khybernews.tv"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Entertainment (تفریح)" title="Lifestyle">
+            <outline type="rss" text="Express Entertainment" xmlUrl="https://www.express.pk/entertainment/feed/" htmlUrl="https://www.express.pk/entertainment/"/>
+            <outline type="rss" text="UrduPoint Showbiz" xmlUrl="https://www.urdupoint.com/showbiz/rss.xml" htmlUrl="https://www.urdupoint.com/showbiz/"/>
+            <outline type="rss" text="Parhlo Urdu" xmlUrl="https://urdu.parhlo.com/feed/" htmlUrl="https://urdu.parhlo.com"/>
+        </outline>
+    </body>
+</opml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Russian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="Главные новости (General News)" title="General News">
+            <outline type="rss" text="РИА Новости" title="РИА" xmlUrl="https://ria.ru/export/rss2/archive/index.xml" htmlUrl="https://ria.ru"/>
+            <outline type="rss" text="ТАСС" title="ТАСС" xmlUrl="https://tass.ru/rss/v2.xml" htmlUrl="https://tass.ru"/>
+            <outline type="rss" text="РБК - Главное" title="РБК" xmlUrl="https://rssexport.rbc.ru/rbc/static/feed/rbcnews.xml" htmlUrl="https://www.rbc.ru"/>
+            <outline type="rss" text="Лента.ру" title="Lenta.ru" xmlUrl="https://lenta.ru/rss" htmlUrl="https://lenta.ru"/>
+            <outline type="rss" text="Газета.Ru" title="Gazeta.ru" xmlUrl="https://www.gazeta.ru/export/rss/social.xml" htmlUrl="https://www.gazeta.ru"/>
+            <outline type="rss" text="Интерфакс" title="Interfax" xmlUrl="https://www.interfax.ru/rss.asp" htmlUrl="https://www.interfax.ru"/>
+            <outline type="rss" text="Коммерсантъ" title="Ъ" xmlUrl="https://www.kommersant.ru/RSS/main.xml" htmlUrl="https://www.kommersant.ru"/>
+            <outline type="rss" text="Известия" title="Izvestia" xmlUrl="https://iz.ru/xml/rss/all.xml" htmlUrl="https://iz.ru"/>
+            <outline type="rss" text="Ведомости" title="Vedomosti" xmlUrl="https://www.vedomosti.ru/rss/news" htmlUrl="https://www.vedomosti.ru"/>
+            <outline type="rss" text="Российская газета" title="РГ" xmlUrl="https://rg.ru/xml/index.xml" htmlUrl="https://rg.ru"/>
+            <outline type="rss" text="RT на русском" title="RT" xmlUrl="https://russian.rt.com/rss" htmlUrl="https://russian.rt.com"/>
+            <outline type="rss" text="Meduza (IO)" title="Meduza" xmlUrl="https://meduza.io/rss/all" htmlUrl="https://meduza.io"/>
+            <outline type="rss" text="The Bell" title="The Bell" xmlUrl="https://thebell.io/feed" htmlUrl="https://thebell.io"/>
+            <outline type="rss" text="РБК - РБК" title="РБК" xmlUrl="https://rssexport.rbc.ru/rbc/static/feed/rbcnews.xml" htmlUrl="https://www.rbc.ru"/>
+        </outline>
+
+        <outline text="Экономика и Бизнес (Business &amp; Economy)" title="Business &amp; Economy">
+            <outline type="rss" text="РБК - Экономика" xmlUrl="https://rssexport.rbc.ru/rbc/static/feed/economics.xml" htmlUrl="https://www.rbc.ru/economics/"/>
+            <outline type="rss" text="Forbes Russia" xmlUrl="https://www.forbes.ru/new-rss.xml" htmlUrl="https://www.forbes.ru"/>
+            <outline type="rss" text="Эксперт" xmlUrl="https://expert.ru/rss/all/" htmlUrl="https://expert.ru"/>
+            <outline type="rss" text="Прайм" xmlUrl="https://1prime.ru/export/rss2/index.xml" htmlUrl="https://1prime.ru"/>
+            <outline type="rss" text="VC.ru" xmlUrl="https://vc.ru/rss/all" htmlUrl="https://vc.ru"/>
+        </outline>
+
+        <outline text="Технологии и Наука (Technology &amp; Science)" title="Technology &amp; Science">
+            <outline type="rss" text="Хабр (Habr)" xmlUrl="https://habr.com/ru/rss/all/all/" htmlUrl="https://habr.com"/>
+            <outline type="rss" text="3DNews" xmlUrl="https://3dnews.ru/news/main/rss/" htmlUrl="https://3dnews.ru"/>
+            <outline type="rss" text="IXBT" xmlUrl="https://www.ixbt.com/export/news.rss" htmlUrl="https://www.ixbt.com"/>
+            <outline type="rss" text="4PDA" xmlUrl="https://4pda.to/feed/" htmlUrl="https://4pda.to"/>
+            <outline type="rss" text="Hi-Tech Mail.ru" xmlUrl="https://hi-tech.mail.ru/rss/all/" htmlUrl="https://hi-tech.mail.ru"/>
+            <outline type="rss" text="CNews" xmlUrl="https://www.cnews.ru/inc/rss/news.xml" htmlUrl="https://www.cnews.ru"/>
+            <outline type="rss" text="Tproger" xmlUrl="https://tproger.ru/feed/" htmlUrl="https://tproger.ru"/>
+            <outline type="rss" text="N+1" xmlUrl="https://nplus1.ru/rss" htmlUrl="https://nplus1.ru"/>
+            <outline type="rss" text="Популярная механика" xmlUrl="https://www.techinsider.ru/xml/rss/all.xml" htmlUrl="https://www.techinsider.ru"/>
+        </outline>
+
+        <outline text="Спорт (Sports)" title="Sports">
+            <outline type="rss" text="Sports.ru" xmlUrl="https://www.sports.ru/rss/all.xml" htmlUrl="https://www.sports.ru"/>
+            <outline type="rss" text="Чемпионат" xmlUrl="https://www.championat.com/xml/rss.xml" htmlUrl="https://www.championat.com"/>
+            <outline type="rss" text="Спорт-Экспресс" xmlUrl="https://www.sport-express.ru/services/materials/news/all/se/rss/" htmlUrl="https://www.sport-express.ru"/>
+            <outline type="rss" text="Советский спорт" xmlUrl="https://www.sovsport.ru/xml/rss/main.xml" htmlUrl="https://www.sovsport.ru"/>
+            <outline type="rss" text="Матч ТВ" xmlUrl="https://matchtv.ru/news/rss" htmlUrl="https://matchtv.ru"/>
+        </outline>
+
+        <outline text="Региональные новости (Regional News)" title="Regional News">
+            <outline type="rss" text="Фонтанка (СПб)" xmlUrl="https://www.fontanka.ru/fontanka.rss" htmlUrl="https://www.fontanka.ru"/>
+            <outline type="rss" text="E1.ru (Екатеринбург)" xmlUrl="https://www.e1.ru/news/rss.xml" htmlUrl="https://www.e1.ru"/>
+            <outline type="rss" text="НГС (Новосибирск)" xmlUrl="https://ngs.ru/news/rss.xml" htmlUrl="https://ngs.ru"/>
+            <outline type="rss" text="74.ru (Челябинск)" xmlUrl="https://74.ru/news/rss.xml" htmlUrl="https://74.ru"/>
+            <outline type="rss" text="Бизнес Online (Татарстан)" xmlUrl="https://www.business-gazeta.ru/rss" htmlUrl="https://www.business-gazeta.ru"/>
+            <outline type="rss" text="63.ru (Самара)" xmlUrl="https://63.ru/news/rss.xml" htmlUrl="https://63.ru"/>
+            <outline type="rss" text="Ura.ru" xmlUrl="https://ura.news/rss" htmlUrl="https://ura.news"/>
+            <outline type="rss" text="V1.ru (Волгоград)" xmlUrl="https://v1.ru/news/rss.xml" htmlUrl="https://v1.ru"/>
+            <outline type="rss" text="Klokot (Калининград)" xmlUrl="https://klops.ru/rss" htmlUrl="https://klops.ru"/>
+        </outline>
+
+        <outline text="Культура и Стиль жизни (Lifestyle)" title="Lifestyle">
+            <outline type="rss" text="Афиша" xmlUrl="https://www.afisha.ru/rss/news.xml" htmlUrl="https://www.afisha.ru"/>
+            <outline type="rss" text="Buro 24/7" xmlUrl="https://www.buro247.ru/rss" htmlUrl="https://www.buro247.ru"/>
+            <outline type="rss" text="Кинопоиск" xmlUrl="https://www.kinopoisk.ru/rss/news.xml" htmlUrl="https://www.kinopoisk.ru"/>
+            <outline type="rss" text="РБК - Стиль" xmlUrl="https://rssexport.rbc.ru/rbc/static/feed/style.xml" htmlUrl="https://style.rbc.ru"/>
+        </outline>
+    </body>
+</opml>

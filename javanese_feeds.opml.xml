@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Javanese News and Regional Feeds</title>
+    </head><body>
+    <outline text="General News (Pawarta)" title="General News">
+        <outline type="rss" text="Suara Merdeka - Jateng" title="Suara Merdeka" xmlUrl="https://www.suaramerdeka.com/jawa-tengah/rss" htmlUrl="https://www.suaramerdeka.com"/>
+        <outline type="rss" text="Solopos - News" title="Solopos" xmlUrl="https://www.solopos.com/feed" htmlUrl="https://www.solopos.com"/>
+        <outline type="rss" text="Kedaulatan Rakyat (KRJogja)" title="KR" xmlUrl="https://www.krjogja.com/rss" htmlUrl="https://www.krjogja.com"/>
+        <outline type="rss" text="Harian Jogja" title="Harjo" xmlUrl="https://www.harianjogja.com/rss" htmlUrl="https://www.harianjogja.com"/>
+        <outline type="rss" text="Murianews" title="Murianews" xmlUrl="https://www.murianews.com/feed" htmlUrl="https://www.murianews.com"/>
+        <outline type="rss" text="Sindo News - Jateng" title="Sindo Jateng" xmlUrl="https://daerah.sindonews.com/rss/jawa_tengah" htmlUrl="https://daerah.sindonews.com"/>
+        <outline type="rss" text="Detik Jateng" title="Detik Jateng" xmlUrl="https://rss.detik.com/index.php/jateng" htmlUrl="https://www.detik.com/jateng"/>
+        <outline type="rss" text="Detik Jatim" title="Detik Jatim" xmlUrl="https://rss.detik.com/index.php/jatim" htmlUrl="https://www.detik.com/jatim"/>
+        <outline type="rss" text="Antara News - Jateng" title="Antara Jateng" xmlUrl="https://jateng.antaranews.com/rss/terkini.xml" htmlUrl="https://jateng.antaranews.com"/>
+        <outline type="rss" text="Antara News - Jatim" title="Antara Jatim" xmlUrl="https://jatim.antaranews.com/rss/terkini.xml" htmlUrl="https://jatim.antaranews.com"/>
+    </outline>
+
+    <outline text="Regional News (Kabar Daerah)" title="Regional News">
+        <outline type="rss" text="Tribun Jogja" title="Tribun Jogja" xmlUrl="https://jogja.tribunnews.com/rss" htmlUrl="https://jogja.tribunnews.com"/>
+        <outline type="rss" text="Tribun Jateng" title="Tribun Jateng" xmlUrl="https://jateng.tribunnews.com/rss" htmlUrl="https://jateng.tribunnews.com"/>
+        <outline type="rss" text="Tribun Jatim" title="Tribun Jatim" xmlUrl="https://jatim.tribunnews.com/rss" htmlUrl="https://jatim.tribunnews.com"/>
+        <outline type="rss" text="Tribun Solo" title="Tribun Solo" xmlUrl="https://solo.tribunnews.com/rss" htmlUrl="https://solo.tribunnews.com"/>
+        <outline type="rss" text="Radar Solo" title="Radar Solo" xmlUrl="https://radarsolo.jawapos.com/rss" htmlUrl="https://radarsolo.jawapos.com"/>
+        <outline type="rss" text="Radar Jogja" title="Radar Jogja" xmlUrl="https://radarjogja.jawapos.com/rss" htmlUrl="https://radarjogja.jawapos.com"/>
+        <outline type="rss" text="Radar Semarang" title="Radar Semarang" xmlUrl="https://radarsemarang.jawapos.com/rss" htmlUrl="https://radarsemarang.jawapos.com"/>
+        <outline type="rss" text="Radar Surabaya" title="Radar Surabaya" xmlUrl="https://radarsurabaya.jawapos.com/rss" htmlUrl="https://radarsurabaya.jawapos.com"/>
+        <outline type="rss" text="Berita Jatim" title="Berita Jatim" xmlUrl="https://beritajatim.com/feed/" htmlUrl="https://beritajatim.com"/>
+    </outline>
+
+    <outline text="Lifestyle &amp; Culture (Budaya &amp; Seni)" title="Lifestyle &amp; Culture">
+        <outline type="rss" text="Sastra Jawa" title="Sastra Jawa" xmlUrl="https://sastrajawa.com/feed/" htmlUrl="https://sastrajawa.com"/>
+        <outline type="rss" text="Pemerintah Provinsi Jawa Tengah" title="Prov Jateng" xmlUrl="https://jatengprov.go.id/rss" htmlUrl="https://jatengprov.go.id"/>
+        <outline type="rss" text="Pemerintah Provinsi Jawa Timur" title="Prov Jatim" xmlUrl="https://jatimprov.go.id/rss" htmlUrl="https://jatimprov.go.id"/>
+        <outline type="rss" text="Warta Jateng" title="Warta Jateng" xmlUrl="https://wartajateng.id/feed/" htmlUrl="https://wartajateng.id"/>
+    </outline>
+</body>
+</opml>

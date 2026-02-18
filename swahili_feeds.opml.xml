@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Swahili News Feeds (Habari za Kiswahili)</title>
+    </head>
+    <body>
+        <outline text="General News (Habari Kuu)" title="General News">
+            <outline type="rss" text="Mwananchi" title="Mwananchi" xmlUrl="https://www.mwananchi.co.tz/service/rss/621308" htmlUrl="https://www.mwananchi.co.tz"/>
+            <outline type="rss" text="BBC News Ghafla" title="BBC Swahili" xmlUrl="https://feeds.bbci.co.uk/swahili/rss.xml" htmlUrl="https://www.bbc.com/swahili"/>
+            <outline type="rss" text="Voice of America (Radio Mbiu)" title="VOA Swahili" xmlUrl="https://www.voaswahili.com/api/z_mye-v_tq" htmlUrl="https://www.voaswahili.com"/>
+            <outline type="rss" text="Deutsche Welle (DW)" title="DW Swahili" xmlUrl="https://rss.dw.com/rdf/rss-swa-all" htmlUrl="https://www.dw.com/sw/"/>
+            <outline type="rss" text="Taifa Leo (Kenya)" title="Taifa Leo" xmlUrl="https://taifaleo.nation.co.ke/feed/" htmlUrl="https://taifaleo.nation.co.ke"/>
+            <outline type="rss" text="TRT Swahili" title="TRT Swahili" xmlUrl="https://www.trt.net.tr/swahili/rss" htmlUrl="https://www.trt.net.tr/swahili/"/>
+            <outline type="rss" text="Radio China International" title="CRI Swahili" xmlUrl="http://swahili.cri.cn/rss/all.xml" htmlUrl="http://swahili.cri.cn"/>
+            <outline type="rss" text="Habari Leo (Tanzania)" title="Habari Leo" xmlUrl="https://habarileo.co.tz/feed/" htmlUrl="https://habarileo.co.tz"/>
+            <outline type="rss" text="Zanzibar Leo" title="Zanzibar Leo" xmlUrl="https://www.zanzibarleo.co.tz/feed/" htmlUrl="https://www.zanzibarleo.co.tz"/>
+            <outline type="rss" text="RFI Kiswahili" title="RFI" xmlUrl="https://www.rfi.fr/sw/rss" htmlUrl="https://www.rfi.fr/sw/"/>
+            <outline type="rss" text="Vatican News Kiswahili" title="Vatican News" xmlUrl="https://www.vaticannews.va/sw.rss.xml" htmlUrl="https://www.vaticannews.va/sw.html"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Biashara)" title="Business &amp; Economy">
+            <outline type="rss" text="Mwananchi - Biashara" xmlUrl="https://www.mwananchi.co.tz/service/rss/621312" htmlUrl="https://www.mwananchi.co.tz/biashara"/>
+            <outline type="rss" text="Habari Leo - Biashara" xmlUrl="https://habarileo.co.tz/category/biashara/feed/" htmlUrl="https://habarileo.co.tz/category/biashara/"/>
+            <outline type="rss" text="DW Biashara" xmlUrl="https://rss.dw.com/xml/rss-swa-biashara" htmlUrl="https://www.dw.com/sw/biashara/s-11603"/>
+        </outline>
+
+        <outline text="Technology &amp; Agriculture (Teknolojia и Kilimo)" title="Technology">
+            <outline type="rss" text="Kilimo Forum" title="Kilimo" xmlUrl="https://www.kilimo.go.tz/feed" htmlUrl="https://www.kilimo.go.tz"/>
+            <outline type="rss" text="Teknolojia News" xmlUrl="https://www.mwananchi.co.tz/service/rss/621318" htmlUrl="https://www.mwananchi.co.tz/teknolojia"/>
+            <outline type="rss" text="Habari Leo - Sayansi" xmlUrl="https://habarileo.co.tz/category/sayansi/feed/" htmlUrl="https://habarileo.co.tz/category/sayansi/"/>
+        </outline>
+
+        <outline text="Sports (Michezo)" title="Sports">
+            <outline type="rss" text="Mwanaspoti" title="Mwanaspoti" xmlUrl="https://www.mwanaspoti.co.tz/service/rss/1762298" htmlUrl="https://www.mwanaspoti.co.tz"/>
+            <outline type="rss" text="Habari Leo - Michezo" xmlUrl="https://habarileo.co.tz/category/michezo/feed/" htmlUrl="https://habarileo.co.tz/category/michezo/"/>
+            <outline type="rss" text="Mwananchi - Michezo" xmlUrl="https://www.mwananchi.co.tz/service/rss/621310" htmlUrl="https://www.mwananchi.co.tz/michezo"/>
+            <outline type="rss" text="Goal.com Kiswahili" xmlUrl="https://www.goal.com/sw/feeds/news" htmlUrl="https://www.goal.com/sw"/>
+        </outline>
+
+        <outline text="Regional News (Habari za Mikoani)" title="Regional News">
+            <outline type="rss" text="Global Publishers" title="Global TV" xmlUrl="https://globalpublishers.co.tz/feed/" htmlUrl="https://globalpublishers.co.tz"/>
+            <outline type="rss" text="Michuzi Blog" title="Michuzi" xmlUrl="https://issamichuzi.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://issamichuzi.blogspot.com"/>
+            <outline type="rss" text="Bongo5" title="Bongo5" xmlUrl="https://bongo5.com/feed/" htmlUrl="https://bongo5.com"/>
+            <outline type="rss" text="Millard Ayo" title="Millard Ayo" xmlUrl="https://millardayo.com/feed/" htmlUrl="https://millardayo.com"/>
+            <outline type="rss" text="Muungwana Blog" xmlUrl="https://www.muungwana.co.tz/feeds/posts/default?alt=rss" htmlUrl="https://www.muungwana.co.tz"/>
+            <outline type="rss" text="Hakingowi" xmlUrl="https://hakingowi.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://hakingowi.blogspot.com"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Burudani)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Mwananchi - Burudani" xmlUrl="https://www.mwananchi.co.tz/service/rss/621316" htmlUrl="https://www.mwananchi.co.tz/burudani"/>
+            <outline type="rss" text="Habari Leo - Makala" xmlUrl="https://habarileo.co.tz/category/makala/feed/" htmlUrl="https://habarileo.co.tz/category/makala/"/>
+        </outline>
+    </body>
+</opml>

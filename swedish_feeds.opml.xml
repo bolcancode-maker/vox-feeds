@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Swedish News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Nyheter)" title="General News">
+            <outline type="rss" text="SVT Nyheter - Toppnyheter" title="SVT" xmlUrl="https://www.svt.se/nyheter/rss.xml" htmlUrl="https://www.svt.se"/>
+            <outline type="rss" text="Dagens Nyheter (DN) - Front" title="DN" xmlUrl="https://www.dn.se/rss/" htmlUrl="https://www.dn.se"/>
+            <outline type="rss" text="Svenska Dagbladet (SvD)" title="SvD" xmlUrl="https://www.svd.se/?service=rss" htmlUrl="https://www.svd.se"/>
+            <outline type="rss" text="Aftonbladet - Nyheter" title="Aftonbladet" xmlUrl="https://www.aftonbladet.se/nyheter/rss.xml" htmlUrl="https://www.aftonbladet.se"/>
+            <outline type="rss" text="Expressen - Nyheter" title="Expressen" xmlUrl="https://www.expressen.se/rss/nyheter/" htmlUrl="https://www.expressen.se"/>
+            <outline type="rss" text="SR - Ekot (Radio)" title="SR Ekot" xmlUrl="https://api.sr.se/api/rss/program/83" htmlUrl="https://sverigesradio.se/ekot"/>
+            <outline type="rss" text="GP - Göteborgs-Posten" title="GP" xmlUrl="https://www.gp.se/rss/nyheter" htmlUrl="https://www.gp.se"/>
+            <outline type="rss" text="Sydsvenskan" title="Sydsvenskan" xmlUrl="https://www.sydsvenskan.se/rss.xml" htmlUrl="https://www.sydsvenskan.se"/>
+            <outline type="rss" text="The Local Sweden (English)" title="The Local EN" xmlUrl="https://feeds.thelocal.com/rss/se" htmlUrl="https://www.thelocal.se"/>
+            <outline type="rss" text="Omni" title="Omni" xmlUrl="https://omni.se/rss/all" htmlUrl="https://omni.se"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Ekonomi)" title="Business &amp; Economy">
+            <outline type="rss" text="Dagens Industri (DI)" title="DI" xmlUrl="https://www.di.se/rss" htmlUrl="https://www.di.se"/>
+            <outline type="rss" text="Svenska Dagbladet Näringsliv" xmlUrl="https://www.svd.se/naringsliv/rss.xml" htmlUrl="https://www.svd.se/naringsliv"/>
+            <outline type="rss" text="Realtid" title="Realtid" xmlUrl="https://www.realtid.se/rss/nyheter" htmlUrl="https://www.realtid.se"/>
+            <outline type="rss" text="Affärsvärlden" title="Affärsvärlden" xmlUrl="https://www.affarsvarlden.se/feed/" htmlUrl="https://www.affarsvarlden.se"/>
+            <outline type="rss" text="Privata Affärer" xmlUrl="https://www.privataaffarer.se/rss" htmlUrl="https://www.privataaffarer.se"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Teknik)" title="Technology &amp; Science">
+            <outline type="rss" text="Ny Teknik" title="Ny Teknik" xmlUrl="https://www.nyteknik.se/rss" htmlUrl="https://www.nyteknik.se"/>
+            <outline type="rss" text="IDG.se" title="IDG" xmlUrl="https://www.idg.se/rss" htmlUrl="https://www.idg.se"/>
+            <outline type="rss" text="SweClockers" title="SweClockers" xmlUrl="https://www.sweclockers.com/feeds/nyheter" htmlUrl="https://www.sweclockers.com"/>
+            <outline type="rss" text="Mobil.se" title="Mobil" xmlUrl="https://www.mobil.se/rss.xml" htmlUrl="https://www.mobil.se"/>
+            <outline type="rss" text="Forskning &amp; Framsteg" xmlUrl="https://fof.se/feed" htmlUrl="https://fof.se"/>
+            <outline type="rss" text="M3" title="M3" xmlUrl="https://m3.idg.se/rss" htmlUrl="https://m3.idg.se"/>
+        </outline>
+
+        <outline text="Sports (Sport)" title="Sports">
+            <outline type="rss" text="SVT Sport" xmlUrl="https://www.svt.se/sport/rss.xml" htmlUrl="https://www.svt.se/sport"/>
+            <outline type="rss" text="Expressen Sport" xmlUrl="https://www.expressen.se/rss/sport/" htmlUrl="https://www.expressen.se/sport"/>
+            <outline type="rss" text="Aftonbladet Sportbladet" xmlUrl="https://www.aftonbladet.se/sportbladet/rss.xml" htmlUrl="https://www.aftonbladet.se/sportbladet"/>
+            <outline type="rss" text="Fotbollskanalen" xmlUrl="https://www.fotbollskanalen.se/rss" htmlUrl="https://www.fotbollskanalen.se"/>
+        </outline>
+
+        <outline text="Regional News (Lokala Nyheter)" title="Regional News">
+            <outline type="rss" text="Upsala Nya Tidning (UNT)" xmlUrl="https://unt.se/rss/nyheter" htmlUrl="https://unt.se"/>
+            <outline type="rss" text="Nerikes Allehanda (Örebro)" xmlUrl="https://www.na.se/rss" htmlUrl="https://www.na.se"/>
+            <outline type="rss" text="Corren (Linköping)" xmlUrl="https://corren.se/rss/nyheter" htmlUrl="https://corren.se"/>
+            <outline type="rss" text="Helsingborgs Dagblad (HD)" xmlUrl="https://www.hd.se/rss.xml" htmlUrl="https://www.hd.se"/>
+            <outline type="rss" text="Norrländska Socialdemokraten" xmlUrl="https://nsd.se/rss/nyheter" htmlUrl="https://nsd.se"/>
+            <outline type="rss" text="Västerbottens-Kuriren" xmlUrl="https://www.vk.se/rss" htmlUrl="https://www.vk.se"/>
+            <outline type="rss" text="Borås Tidning" xmlUrl="https://www.bt.se/rss" htmlUrl="https://www.bt.se"/>
+            <outline type="rss" text="Smålandsposten" xmlUrl="https://www.smp.se/rss" htmlUrl="https://www.smp.se"/>
+            <outline type="rss" text="Östersunds-Posten" xmlUrl="https://www.op.se/rss" htmlUrl="https://www.op.se"/>
+            <outline type="rss" text="Gotlands Allehanda" xmlUrl="https://helagotland.se/rss/nyheter" htmlUrl="https://helagotland.se"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Kultur &amp; Nöje)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Kulturnytt (Radio)" xmlUrl="https://api.sr.se/api/rss/program/478" htmlUrl="https://sverigesradio.se/kulturnytt"/>
+            <outline type="rss" text="Cafe.se" title="Cafe" xmlUrl="https://www.cafe.se/feed/" htmlUrl="https://www.cafe.se"/>
+            <outline type="rss" text="Elle Sverige" xmlUrl="https://www.elle.se/feed/" htmlUrl="https://www.elle.se"/>
+            <outline type="rss" text="MovieZine" xmlUrl="https://www.moviezine.se/rss.xml" htmlUrl="https://www.moviezine.se"/>
+        </outline>
+    </body>
+</opml>

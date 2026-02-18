@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Indonesian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Berita Utama)" title="General News">
+            <outline type="rss" text="Detik News" title="Detik" xmlUrl="https://rss.detik.com/index.php/detikcom" htmlUrl="https://news.detik.com"/>
+            <outline type="rss" text="Kompas.com" title="Kompas" xmlUrl="https://www.kompas.com/tag/berita-terpopuler/rss" htmlUrl="https://www.kompas.com"/>
+            <outline type="rss" text="Antara News" title="Antara" xmlUrl="https://www.antaranews.com/rss/terkini.xml" htmlUrl="https://www.antaranews.com"/>
+            <outline type="rss" text="Tempo.co" title="Tempo" xmlUrl="https://rss.tempo.co/index.php/tempo/nasional" htmlUrl="https://www.tempo.co"/>
+            <outline type="rss" text="Liputan6" title="Liputan6" xmlUrl="https://www.liputan6.com/feed/rss" htmlUrl="https://www.liputan6.com"/>
+            <outline type="rss" text="Merdeka.com" title="Merdeka" xmlUrl="https://www.merdeka.com/feed" htmlUrl="https://www.merdeka.com"/>
+            <outline type="rss" text="VIVA News" title="VIVA" xmlUrl="https://www.viva.co.id/get/all" htmlUrl="https://www.viva.co.id"/>
+            <outline type="rss" text="Republika" title="Republika" xmlUrl="https://www.republika.co.id/rss" htmlUrl="https://www.republika.co.id"/>
+            <outline type="rss" text="Suara.com" title="Suara" xmlUrl="https://www.suara.com/rss" htmlUrl="https://www.suara.com"/>
+            <outline type="rss" text="Okezone" title="Okezone" xmlUrl="https://www.okezone.com/rss/news" htmlUrl="https://www.okezone.com"/>
+            <outline type="rss" text="IDN Times" title="IDN Times" xmlUrl="https://www.idntimes.com/feed" htmlUrl="https://www.idntimes.com"/>
+            <outline type="rss" text="Tribunnews" title="Tribunnews" xmlUrl="https://www.tribunnews.com/rss" htmlUrl="https://www.tribunnews.com"/>
+            <outline type="rss" text="Jakarta Post (English)" title="Jakarta Post" xmlUrl="https://www.thejakartapost.com/rss/news" htmlUrl="https://www.thejakartapost.com"/>
+            <outline type="rss" text="BBC Indonesia" title="BBC Indo" xmlUrl="https://feeds.bbci.co.uk/indonesia/rss.xml" htmlUrl="https://www.bbc.com/indonesia"/>
+            <outline type="rss" text="CNN Indonesia" title="CNN Indo" xmlUrl="https://www.cnnindonesia.com/nasional/rss" htmlUrl="https://www.cnnindonesia.com"/>
+            <outline type="rss" text="VOA Indonesia" title="VOA Indo" xmlUrl="https://www.voaindonesia.com/api/z_mteye$tyq" htmlUrl="https://www.voaindonesia.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Ekonomi &amp; Bisnis)" title="Business &amp; Economy">
+            <outline type="rss" text="CNBC Indonesia" title="CNBC Indo" xmlUrl="https://www.cnbcindonesia.com/news/rss" htmlUrl="https://www.cnbcindonesia.com"/>
+            <outline type="rss" text="Bisnis Indonesia" title="Bisnis.com" xmlUrl="https://www.bisnis.com/rss" htmlUrl="https://www.bisnis.com"/>
+            <outline type="rss" text="Kontan" title="Kontan" xmlUrl="https://www.kontan.co.id/rss" htmlUrl="https://www.kontan.co.id"/>
+            <outline type="rss" text="Detik Finance" title="Detik Finance" xmlUrl="https://rss.detik.com/index.php/finance" htmlUrl="https://finance.detik.com"/>
+            <outline type="rss" text="Warta Ekonomi" title="Warta Ekonomi" xmlUrl="https://www.wartaekonomi.co.id/rss" htmlUrl="https://www.wartaekonomi.co.id"/>
+            <outline type="rss" text="Investree Blog" title="Investree" xmlUrl="https://blog.investree.id/feed/" htmlUrl="https://blog.investree.id"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Teknologi)" title="Technology &amp; Science">
+            <outline type="rss" text="DailySocial" title="DailySocial" xmlUrl="https://dailysocial.id/feed" htmlUrl="https://dailysocial.id"/>
+            <outline type="rss" text="Jagat Review" title="Jagat Review" xmlUrl="https://www.jagatreview.com/feed/" htmlUrl="https://www.jagatreview.com"/>
+            <outline type="rss" text="Tekno Kompas" title="Kompas Tekno" xmlUrl="https://tekno.kompas.com/rss" htmlUrl="https://tekno.kompas.com"/>
+            <outline type="rss" text="Detik Inet" title="Detik Inet" xmlUrl="https://rss.detik.com/index.php/inet" htmlUrl="https://inet.detik.com"/>
+            <outline type="rss" text="Gizmologi" title="Gizmologi" xmlUrl="https://gizmologi.id/feed/" htmlUrl="https://gizmologi.id"/>
+            <outline type="rss" text="InfoKomputer" title="InfoKomputer" xmlUrl="https://infokomputer.grid.id/rss" htmlUrl="https://infokomputer.grid.id"/>
+            <outline type="rss" text="Selular.ID" title="Selular" xmlUrl="https://selular.id/feed/" htmlUrl="https://selular.id"/>
+            <outline type="rss" text="Hybrid.co.id" title="Hybrid" xmlUrl="https://hybrid.co.id/feed" htmlUrl="https://hybrid.co.id"/>
+        </outline>
+
+        <outline text="Sports (Olahraga)" title="Sports">
+            <outline type="rss" text="Bola.net" title="Bola.net" xmlUrl="https://www.bola.net/feed/" htmlUrl="https://www.bola.net"/>
+            <outline type="rss" text="Detik Sport" title="Detik Sport" xmlUrl="https://rss.detik.com/index.php/sport" htmlUrl="https://sport.detik.com"/>
+            <outline type="rss" text="Bola.com" title="Bola.com" xmlUrl="https://www.bola.com/feed/rss" htmlUrl="https://www.bola.com"/>
+            <outline type="rss" text="Indosport" title="Indosport" xmlUrl="https://www.indosport.com/rss" htmlUrl="https://www.indosport.com"/>
+            <outline type="rss" text="Skor.id" title="Skor" xmlUrl="https://www.skor.id/feed" htmlUrl="https://www.skor.id"/>
+            <outline type="rss" text="Okezone Sports" title="Okezone Sport" xmlUrl="https://www.okezone.com/rss/sports" htmlUrl="https://sports.okezone.com"/>
+        </outline>
+
+        <outline text="Regional News (Berita Daerah)" title="Regional News">
+            <outline type="rss" text="Tribun Jabar" title="Jabar" xmlUrl="https://jabar.tribunnews.com/rss" htmlUrl="https://jabar.tribunnews.com"/>
+            <outline type="rss" text="Tribun Jateng" title="Jateng" xmlUrl="https://jateng.tribunnews.com/rss" htmlUrl="https://jateng.tribunnews.com"/>
+            <outline type="rss" text="Tribun Jatim" title="Jatim" xmlUrl="https://jatim.tribunnews.com/rss" htmlUrl="https://jatim.tribunnews.com"/>
+            <outline type="rss" text="Tribun Bali" title="Bali" xmlUrl="https://bali.tribunnews.com/rss" htmlUrl="https://bali.tribunnews.com"/>
+            <outline type="rss" text="Tribun Medan" title="Medan" xmlUrl="https://medan.tribunnews.com/rss" htmlUrl="https://medan.tribunnews.com"/>
+            <outline type="rss" text="Tribun Jogja" title="Jogja" xmlUrl="https://jogja.tribunnews.com/rss" htmlUrl="https://jogja.tribunnews.com"/>
+            <outline type="rss" text="Detik Jabar" title="Detik Jabar" xmlUrl="https://rss.detik.com/index.php/jabar" htmlUrl="https://www.detik.com/jabar"/>
+            <outline type="rss" text="Detik Jateng" title="Detik Jateng" xmlUrl="https://rss.detik.com/index.php/jateng" htmlUrl="https://www.detik.com/jateng"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Gaya Hidup)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Fimela" title="Fimela" xmlUrl="https://www.fimela.com/feed/rss" htmlUrl="https://www.fimela.com"/>
+            <outline type="rss" text="KapanLagi" title="KapanLagi" xmlUrl="https://www.kapanlagi.com/feed" htmlUrl="https://www.kapanlagi.com"/>
+            <outline type="rss" text="Covesia" title="Covesia" xmlUrl="https://www.covesia.com/rss" htmlUrl="https://www.covesia.com"/>
+            <outline type="rss" text="Mata Mata" title="MataMata" xmlUrl="https://www.matamata.com/rss" htmlUrl="https://www.matamata.com"/>
+        </outline>
+    </body>
+</opml>

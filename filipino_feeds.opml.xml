@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
+    <head>
+        <title>Filipino News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News (in English)" title="General News">
+            <outline type="rss" text="ABS-CBN News" title="ABS-CBN News" xmlUrl="https://news.abs-cbn.com/feed" htmlUrl="https://news.abs-cbn.com"/> [4]
+            <outline type="rss" text="GMA News Online" title="GMA News Online" xmlUrl="https://www.gmanetwork.com/news/rss/news" htmlUrl="https://www.gmanetwork.com/news/"/>
+            <outline type="rss" text="INQUIRER.net" title="INQUIRER.net" xmlUrl="https://www.inquirer.net/fullfeed" htmlUrl="https://www.inquirer.net"/> [1]
+            <outline type="rss" text="Philstar.com" title="Philstar.com" xmlUrl="https://www.philstar.com/rss/headlines" htmlUrl="https://www.philstar.com"/>
+            <outline type="rss" text="Manila Bulletin" title="Manila Bulletin" xmlUrl="https://mb.com.ph/feed/" htmlUrl="https://mb.com.ph"/>
+            <outline type="rss" text="Rappler" title="Rappler" xmlUrl="https://www.rappler.com/feed/" htmlUrl="https://www.rappler.com"/> [1]
+            <outline type="rss" text="The Manila Times" title="The Manila Times" xmlUrl="https://www.manilatimes.net/feed" htmlUrl="https://www.manilatimes.net"/> [1, 5]
+            <outline type="rss" text="Philippine News Agency" title="Philippine News Agency" xmlUrl="https://www.pna.gov.ph/index.php/feed" htmlUrl="https://www.pna.gov.ph"/>
+            <outline type="rss" text="Interaksyon" title="Interaksyon" xmlUrl="https://interaksyon.philstar.com/feed/" htmlUrl="https://interaksyon.philstar.com"/> [1]
+        </outline>
+        <outline text="News in Filipino (Tagalog)" title="News in Filipino">
+            <outline type="rss" text="GMA Balitambayan" title="GMA Balitambayan" xmlUrl="https://www.gmanetwork.com/news/rss/balitambayan" htmlUrl="https://www.gmanetwork.com/news/balitambayan/"/>
+            <outline type="rss" text="Abante Tonite" title="Abante Tonite" xmlUrl="https://tonite.abante.com.ph/feed/" htmlUrl="https://tonite.abante.com.ph"/>
+            <outline type="rss" text="Pilipino Star Ngayon" title="Pilipino Star Ngayon" xmlUrl="https://www.philstar.com/rss/psn" htmlUrl="https://www.philstar.com/pilipino-star-ngayon"/>
+        </outline>
+        <outline text="Technology" title="Technology">
+            <outline type="rss" text="Unbox.ph" title="Unbox.ph" xmlUrl="https://unbox.ph/feed/" htmlUrl="https://unbox.ph"/> [1]
+            <outline type="rss" text="YugaTech" title="YugaTech" xmlUrl="https://www.yugatech.com/feed/" htmlUrl="https://www.yugatech.com"/>
+            <outline type="rss" text="GMA News SciTech" title="GMA News SciTech" xmlUrl="https://www.gmanetwork.com/news/rss/scitech" htmlUrl="https://www.gmanetwork.com/news/scitech/"/> [2]
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="SPIN.ph" title="SPIN.ph" xmlUrl="https://www.spin.ph/rss" htmlUrl="https://www.spin.ph"/>
+            <outline type="rss" text="ABS-CBN Sports" title="ABS-CBN Sports" xmlUrl="https://news.abs-cbn.com/sports/feed" htmlUrl="https://news.abs-cbn.com/sports"/>
+            <outline type="rss" text="GMA News Sports" title="GMA News Sports" xmlUrl="https://www.gmanetwork.com/news/rss/sports" htmlUrl="https://www.gmanetwork.com/news/sports/"/> [2]
+        </outline>
+        <outline text="Lifestyle &amp; Entertainment" title="Lifestyle &amp; Entertainment">
+            <outline type="rss" text="PEP.ph" title="PEP.ph" xmlUrl="https://www.pep.ph/rss/pep_all" htmlUrl="https://www.pep.ph"/>
+            <outline type="rss" text="Cosmopolitan Philippines" title="Cosmopolitan Philippines" xmlUrl="https://www.cosmo.ph/rss" htmlUrl="https://www.cosmo.ph"/>
+        </outline>
+    </body>
+</opml>

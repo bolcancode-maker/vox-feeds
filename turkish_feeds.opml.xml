@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Turkish News Feeds - Comprehensive Collection</title></head>
+    <body>
+        <outline text="General News (Genel Haberler)" title="General News">
+            <outline type="rss" text="Hürriyet" title="Hürriyet" xmlUrl="https://www.hurriyet.com.tr/rss/anasayfa" htmlUrl="https://www.hurriyet.com.tr"/>
+            <outline type="rss" text="Milliyet" title="Milliyet" xmlUrl="https://www.milliyet.com.tr/rss/rssnew/anasayfav2.xml" htmlUrl="https://www.milliyet.com.tr"/>
+            <outline type="rss" text="Sabah" title="Sabah" xmlUrl="https://www.sabah.com.tr/rss/anasayfa.xml" htmlUrl="https://www.sabah.com.tr"/>
+            <outline type="rss" text="Habertürk" title="Habertürk" xmlUrl="https://www.haberturk.com/rss" htmlUrl="https://www.haberturk.com"/>
+            <outline type="rss" text="Sözcü" title="Sözcü" xmlUrl="https://www.sozcu.com.tr/feeds-son-dakika" htmlUrl="https://www.sozcu.com.tr"/>
+            <outline type="rss" text="Cumhuriyet" title="Cumhuriyet" xmlUrl="https://www.cumhuriyet.com.tr/rss" htmlUrl="https://www.cumhuriyet.com.tr"/>
+            <outline type="rss" text="TRT Haber" title="TRT Haber" xmlUrl="https://www.trthaber.com/manset_articles.rss" htmlUrl="https://www.trthaber.com"/>
+            <outline type="rss" text="Anadolu Ajansı (AA)" title="AA" xmlUrl="https://www.aa.com.tr/tr/rss/default?cat=guncel" htmlUrl="https://www.aa.com.tr"/>
+            <outline type="rss" text="Ensonhaber" title="Ensonhaber" xmlUrl="https://www.ensonhaber.com/rss/ensonhaber.xml" htmlUrl="https://www.ensonhaber.com"/>
+            <outline type="rss" text="T24" title="T24" xmlUrl="https://t24.com.tr/rss" htmlUrl="https://t24.com.tr"/>
+            <outline type="rss" text="DHA (Demirören Haber Ajansı)" title="DHA" xmlUrl="https://www.dha.com.tr/rss" htmlUrl="https://www.dha.com.tr"/>
+            <outline type="rss" text="Independent Türkçe" title="Independent TR" xmlUrl="https://www.indyturk.com/rss" htmlUrl="https://www.indyturk.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Ekonomi)" title="Business &amp; Economy">
+            <outline type="rss" text="Bloomberg HT" title="Bloomberg HT" xmlUrl="https://www.bloomberght.com/rss" htmlUrl="https://www.bloomberght.com"/>
+            <outline type="rss" text="Dünya Gazetesi" title="Dünya" xmlUrl="https://www.dunya.com/rss" htmlUrl="https://www.dunya.com"/>
+            <outline type="rss" text="Hürriyet Ekonomi" xmlUrl="https://www.hurriyet.com.tr/rss/ekonomi" htmlUrl="https://www.hurriyet.com.tr/ekonomi/"/>
+            <outline type="rss" text="Paraanaliz" title="Paraanaliz" xmlUrl="https://www.paraanaliz.com/feed/" htmlUrl="https://www.paraanaliz.com"/>
+            <outline type="rss" text="Ekonomist" title="Ekonomist" xmlUrl="https://www.ekonomist.com.tr/rss" htmlUrl="https://www.ekonomist.com.tr"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Teknoloji)" title="Technology &amp; Science">
+            <outline type="rss" text="Webrazzi" title="Webrazzi" xmlUrl="https://webrazzi.com/feed/" htmlUrl="https://webrazzi.com"/>
+            <outline type="rss" text="Webtekno" title="Webtekno" xmlUrl="https://www.webtekno.com/rss.xml" htmlUrl="https://www.webtekno.com"/>
+            <outline type="rss" text="ShiftDelete.Net" title="SDN" xmlUrl="https://shiftdelete.net/feed" htmlUrl="https://shiftdelete.net"/>
+            <outline type="rss" text="Chip Online TR" title="Chip" xmlUrl="https://www.chip.com.tr/rss/" htmlUrl="https://www.chip.com.tr"/>
+            <outline type="rss" text="Hardware Plus (HWP)" title="HWP" xmlUrl="https://hwp.com.tr/feed" htmlUrl="https://hwp.com.tr"/>
+            <outline type="rss" text="DonanımHaber" title="DH" xmlUrl="https://www.donanimhaber.com/rss/tum/" htmlUrl="https://www.donanimhaber.com"/>
+            <outline type="rss" text="Technopat" title="Technopat" xmlUrl="https://www.technopat.net/feed/" htmlUrl="https://www.technopat.net"/>
+        </outline>
+
+        <outline text="Sports (Spor)" title="Sports">
+            <outline type="rss" text="Fanatik" title="Fanatik" xmlUrl="https://www.fanatik.com.tr/rss" htmlUrl="https://www.fanatik.com.tr"/>
+            <outline type="rss" text="Fotomaç" title="Fotomaç" xmlUrl="https://www.fotomac.com.tr/rss/anasayfa.xml" htmlUrl="https://www.fotomac.com.tr"/>
+            <outline type="rss" text="BeIn Sports TR" title="BeIn" xmlUrl="https://beinsports.com.tr/rss/ana-sayfa" htmlUrl="https://beinsports.com.tr"/>
+            <outline type="rss" text="Sporx" title="Sporx" xmlUrl="https://www.sporx.com/rss/" htmlUrl="https://www.sporx.com"/>
+            <outline type="rss" text="Mackolik" title="Mackolik" xmlUrl="https://www.mackolik.com/rss" htmlUrl="https://www.mackolik.com"/>
+            <outline type="rss" text="A Spor" title="A Spor" xmlUrl="https://www.aspor.com.tr/rss/anasayfa.xml" htmlUrl="https://www.aspor.com.tr"/>
+        </outline>
+
+        <outline text="Regional News (Yerel Haberler)" title="Regional News">
+            <outline type="rss" text="İhlas Haber Ajansı (İHA)" title="İHA" xmlUrl="https://www.iha.com.tr/rss" htmlUrl="https://www.iha.com.tr"/>
+            <outline type="rss" text="Yeni Asır (Ege)" title="Yeni Asır" xmlUrl="https://www.yeniasir.com.tr/rss/anasayfa.xml" htmlUrl="https://www.yeniasir.com.tr"/>
+            <outline type="rss" text="Bursa Hakimiyet" title="Bursa" xmlUrl="https://www.bursahakimiyet.com.tr/rss" htmlUrl="https://www.bursahakimiyet.com.tr"/>
+            <outline type="rss" text="Güneydoğu Güncel" title="Diyarbakır" xmlUrl="https://www.guneydoguguncel.com/rss" htmlUrl="https://www.guneydoguguncel.com"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Yaşam ve Kültür)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Kültür Sanat Haberleri" title="Kültür" xmlUrl="https://www.cumhuriyet.com.tr/rss/kultur-sanat" htmlUrl="https://www.cumhuriyet.com.tr/kultur-sanat"/>
+            <outline type="rss" text="Sanat Online" title="Sanat" xmlUrl="https://sanatonline.net/feed/" htmlUrl="https://sanatonline.net"/>
+            <outline type="rss" text="Vogue Türkiye" title="Vogue" xmlUrl="https://vogue.com.tr/rss" htmlUrl="https://vogue.com.tr"/>
+            <outline type="rss" text="GQ Türkiye" title="GQ" xmlUrl="https://gq.com.tr/rss" htmlUrl="https://gq.com.tr"/>
+        </outline>
+    </body>
+</opml>

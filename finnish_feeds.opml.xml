@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Finnish News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="Yle Uutiset" title="Yle Uutiset" xmlUrl="http://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET" htmlUrl="https://yle.fi/uutiset"/>
+            <outline type="rss" text="Helsingin Sanomat" title="Helsingin Sanomat" xmlUrl="https://www.hs.fi/rss/tuoreimmat.xml" htmlUrl="https://www.hs.fi"/>
+            <outline type="rss" text="Iltalehti" title="Iltalehti" xmlUrl="https://www.iltalehti.fi/rss.xml" htmlUrl="https://www.iltalehti.fi"/> [3]
+            <outline type="rss" text="Ilta-Sanomat" title="Ilta-Sanomat" xmlUrl="https://www.is.fi/rss/tuoreimmat/rss.xml" htmlUrl="https://www.is.fi"/>
+            <outline type="rss" text="MTV Uutiset" title="MTV Uutiset" xmlUrl="https://www.mtvuutiset.fi/rss/all.xml" htmlUrl="https://www.mtvuutiset.fi"/>
+            <outline type="rss" text="Helsinki Times" title="Helsinki Times (English)" xmlUrl="https://www.helsinkitimes.fi/?format=feed&amp;type=rss" htmlUrl="https://www.helsinkitimes.fi"/> [3]
+            <outline type="rss" text="Daily Finland" title="Daily Finland (English)" xmlUrl="https://www.dailyfinland.fi/feed" htmlUrl="https://www.dailyfinland.fi"/> [3]
+        </outline>
+        <outline text="Business &amp; Economy" title="Business &amp; Economy">
+            <outline type="rss" text="Kauppalehti" title="Kauppalehti" xmlUrl="https://www.kauppalehti.fi/rss/main" htmlUrl="https://www.kauppalehti.fi"/>
+            <outline type="rss" text="Taloussanomat" title="Taloussanomat" xmlUrl="https://www.is.fi/taloussanomat/rss.xml" htmlUrl="https://www.is.fi/taloussanomat/"/>
+            <outline type="rss" text="Yle Talous" title="Yle Talous" xmlUrl="http://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&amp;concepts=18-35" htmlUrl="https://yle.fi/uutiset/18-35"/>
+        </outline>
+        <outline text="Technology &amp; Science" title="Technology &amp; Science">
+            <outline type="rss" text="Tekniikka &amp; Talous" title="Tekniikka &amp; Talous" xmlUrl="https://www.tekniikkatalous.fi/rss/main" htmlUrl="https://www.tekniikkatalous.fi"/>
+            <outline type="rss" text="Tivi" title="Tivi" xmlUrl="https://www.tivi.fi/rss/main" htmlUrl="https://www.tivi.fi"/>
+            <outline type="rss" text="Yle Tiede" title="Yle Tiede" xmlUrl="http://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&amp;concepts=18-819" htmlUrl="https://yle.fi/uutiset/18-819"/> [6]
+            <outline type="rss" text="Mikrobitti" title="Mikrobitti" xmlUrl="https://www.mikrobitti.fi/rss/main" htmlUrl="https://www.mikrobitti.fi"/>
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="Yle Urheilu" title="Yle Urheilu" xmlUrl="http://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_URHEILU" htmlUrl="https://yle.fi/urheilu"/>
+            <outline type="rss" text="Iltalehti Urheilu" title="Iltalehti Urheilu" xmlUrl="https://www.iltalehti.fi/urheilu/rss.xml" htmlUrl="https://www.iltalehti.fi/urheilu"/>
+            <outline type="rss" text="Ilta-Sanomat Urheilu" title="Ilta-Sanomat Urheilu" xmlUrl="https://www.is.fi/urheilu/rss.xml" htmlUrl="https://www.is.fi/urheilu"/>
+        </outline>
+    </body>
+</opml>

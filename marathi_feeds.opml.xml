@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Marathi News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (मुख्य बातम्या)" title="General News">
+            <outline type="rss" text="Sakal (सकाळ)" title="Sakal" xmlUrl="https://www.esakal.com/rss.xml" htmlUrl="https://www.esakal.com"/>
+            <outline type="rss" text="Lokmat (लोकमत)" title="Lokmat" xmlUrl="https://www.lokmat.com/rss/headlines.xml" htmlUrl="https://www.lokmat.com"/>
+            <outline type="rss" text="Loksatta (लोकसत्ता)" title="Loksatta" xmlUrl="https://www.loksatta.com/feed/" htmlUrl="https://www.loksatta.com"/>
+            <outline type="rss" text="Maharashtra Times (महाराष्ट्र टाइम्स)" title="MT" xmlUrl="https://maharashtratimes.com/rssfeedmostrecent.cms" htmlUrl="https://maharashtratimes.com"/>
+            <outline type="rss" text="TV9 Marathi" title="TV9" xmlUrl="https://www.tv9marathi.com/feed" htmlUrl="https://www.tv9marathi.com"/>
+            <outline type="rss" text="ABP Majha (एबीपी माझा)" title="ABP Majha" xmlUrl="https://marathi.abplive.com/feed" htmlUrl="https://marathi.abplive.com"/>
+            <outline type="rss" text="Saamana (सामना)" title="Saamana" xmlUrl="https://www.saamana.com/feed/" htmlUrl="https://www.saamana.com"/>
+            <outline type="rss" text="News18 Lokmat" title="News18" xmlUrl="https://lokmat.news18.com/rss/news.xml" htmlUrl="https://lokmat.news18.com"/>
+            <outline type="rss" text="BBC News Marathi" title="BBC Marathi" xmlUrl="https://feeds.bbci.co.uk/marathi/rss.xml" htmlUrl="https://www.bbc.com/marathi"/>
+            <outline type="rss" text="Pudhari (पुढारी)" title="Pudhari" xmlUrl="https://pudhari.news/feed/" htmlUrl="https://pudhari.news"/>
+            <outline type="rss" text="Tarun Bharat" title="Tarun Bharat" xmlUrl="https://www.tarunbharat.net/feed/" htmlUrl="https://www.tarunbharat.net"/>
+            <outline type="rss" text="Majha Paper" title="Majha Paper" xmlUrl="https://www.majhapaper.com/feed/" htmlUrl="https://www.majhapaper.com"/>
+            <outline type="rss" text="Policenama" title="Policenama" xmlUrl="https://policenama.com/feed/" htmlUrl="https://policenama.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (अर्थव्यवस्था आणि व्यवसाय)" title="Business &amp; Economy">
+            <outline type="rss" text="Loksatta - Arthavrutta" xmlUrl="https://www.loksatta.com/arthavrutta/feed/" htmlUrl="https://www.loksatta.com/arthavrutta/"/>
+            <outline type="rss" text="Sakal - Arthavishesh" xmlUrl="https://www.esakal.com/arthvishesh/rss.xml" htmlUrl="https://www.esakal.com/arthvishesh"/>
+            <outline type="rss" text="Lokmat - Business" xmlUrl="https://www.lokmat.com/rss/business.xml" htmlUrl="https://www.lokmat.com/business"/>
+            <outline type="rss" text="Moneycontrol Marathi" xmlUrl="https://marathi.moneycontrol.com/rss/latestnews.xml" htmlUrl="https://marathi.moneycontrol.com"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (तंत्रज्ञान)" title="Technology &amp; Science">
+            <outline type="rss" text="Loksatta - Tantradnyan" xmlUrl="https://www.loksatta.com/tantradnyan/feed/" htmlUrl="https://www.loksatta.com/tantradnyan/"/>
+            <outline type="rss" text="Sakal - Technology" xmlUrl="https://www.esakal.com/technology/rss.xml" htmlUrl="https://www.esakal.com/technology"/>
+            <outline type="rss" text="Gadget Majha" xmlUrl="https://www.gadgetmajha.com/feed/" htmlUrl="https://www.gadgetmajha.com"/>
+        </outline>
+
+        <outline text="Sports (क्रीडा)" title="Sports">
+            <outline type="rss" text="Loksatta - Kridha" xmlUrl="https://www.loksatta.com/kridha/feed/" htmlUrl="https://www.loksatta.com/kridha/"/>
+            <outline type="rss" text="Sakal - Sports" xmlUrl="https://www.esakal.com/sports/rss.xml" htmlUrl="https://www.esakal.com/sports"/>
+            <outline type="rss" text="Lokmat - Sports" xmlUrl="https://www.lokmat.com/rss/sports.xml" htmlUrl="https://www.lokmat.com/sports"/>
+            <outline type="rss" text="Maharashtra Times - Sports" xmlUrl="https://maharashtratimes.com/sports/rssfeedsection/2429016.cms" htmlUrl="https://maharashtratimes.com/sports/"/>
+        </outline>
+
+        <outline text="Regional News (प्रादेशिक बातम्या)" title="Regional News">
+            <outline type="rss" text="Sakal - Pune" xmlUrl="https://www.esakal.com/pune/rss.xml" htmlUrl="https://www.esakal.com/pune"/>
+            <outline type="rss" text="Sakal - Mumbai" xmlUrl="https://www.esakal.com/mumbai/rss.xml" htmlUrl="https://www.esakal.com/mumbai"/>
+            <outline type="rss" text="Sakal - Nashik" xmlUrl="https://www.esakal.com/nashik/rss.xml" htmlUrl="https://www.esakal.com/nashik"/>
+            <outline type="rss" text="Sakal - Vidarbha" xmlUrl="https://www.esakal.com/vidarbha/rss.xml" htmlUrl="https://www.esakal.com/vidarbha"/>
+            <outline type="rss" text="Sakal - Marathwada" xmlUrl="https://www.esakal.com/marathwada/rss.xml" htmlUrl="https://www.esakal.com/marathwada"/>
+            <outline type="rss" text="Lokmat - Nagpur" xmlUrl="https://www.lokmat.com/rss/nagpur.xml" htmlUrl="https://www.lokmat.com/nagpur"/>
+            <outline type="rss" text="Lokmat - Aurangabad" xmlUrl="https://www.lokmat.com/rss/aurangabad.xml" htmlUrl="https://www.lokmat.com/aurangabad"/>
+            <outline type="rss" text="Lokmat - Solapur" xmlUrl="https://www.lokmat.com/rss/solapur.xml" htmlUrl="https://www.lokmat.com/solapur"/>
+            <outline type="rss" text="Deshdoot (North Maharashtra)" xmlUrl="https://deshdoot.com/feed/" htmlUrl="https://deshdoot.com"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (जीवनशैली आणि संस्कृती)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Sakal - Manoranjan" xmlUrl="https://www.esakal.com/manoranjan/rss.xml" htmlUrl="https://www.esakal.com/manoranjan"/>
+            <outline type="rss" text="Loksatta - Manoranjan" xmlUrl="https://www.loksatta.com/manoranjan/feed/" htmlUrl="https://www.loksatta.com/manoranjan/"/>
+            <outline type="rss" text="Lokmat - Entertainment" xmlUrl="https://www.lokmat.com/rss/entertainment.xml" htmlUrl="https://www.lokmat.com/entertainment"/>
+            <outline type="rss" text="Chitralekha Marathi" xmlUrl="https://chitralekha.com/category/marathi/feed/" htmlUrl="https://chitralekha.com/category/marathi/"/>
+        </outline>
+    </body>
+</opml>

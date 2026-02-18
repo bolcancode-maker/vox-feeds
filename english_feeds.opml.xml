@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>English News - Vox Player Extended</title>
+  </head>
+  <body>
+    <outline text="TOP NEWS" title="TOP NEWS">
+      <outline type="rss" text="BBC News - World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.com/news"/>
+      <outline type="rss" text="Reuters - Top News" xmlUrl="https://www.reutersagency.com/feed/" htmlUrl="https://www.reuters.com"/>
+      <outline type="rss" text="The Guardian" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com"/>
+      <outline type="rss" text="CNN - Edition" xmlUrl="http://rss.cnn.com/rss/edition.rss" htmlUrl="https://edition.cnn.com"/>
+      <outline type="rss" text="The New York Times" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com"/>
+    </outline>
+
+    <outline text="TECHNOLOGY" title="TECHNOLOGY">
+      <outline type="rss" text="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com"/>
+      <outline type="rss" text="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com"/>
+      <outline type="rss" text="Wired" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com"/>
+      <outline type="rss" text="Engadget" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com"/>
+      <outline type="rss" text="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="Gizmodo" xmlUrl="https://gizmodo.com/rss" htmlUrl="https://gizmodo.com"/>
+      <outline type="rss" text="9to5Mac" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com"/>
+      <outline type="rss" text="Android Central" xmlUrl="https://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com"/>
+      <outline type="rss" text="Mashable" xmlUrl="https://mashable.com/feeds/rss/all" htmlUrl="https://mashable.com"/>
+      <outline type="rss" text="Digital Trends" xmlUrl="https://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com"/>
+    </outline>
+
+    <outline text="CRYPTO" title="CRYPTO">
+      <outline type="rss" text="CoinDesk" xmlUrl="https://www.coindesk.com/arc/outboundfeeds/rss/" htmlUrl="https://www.coindesk.com"/>
+      <outline type="rss" text="CoinTelegraph" xmlUrl="https://cointelegraph.com/rss" htmlUrl="https://cointelegraph.com"/>
+      <outline type="rss" text="Bitcoin Magazine" xmlUrl="https://bitcoinmagazine.com/.rss/full/" htmlUrl="https://bitcoinmagazine.com"/>
+      <outline type="rss" text="CryptoNews" xmlUrl="https://cryptonews.com/news/feed/" htmlUrl="https://cryptonews.com"/>
+      <outline type="rss" text="Decrypt" xmlUrl="https://decrypt.co/feed" htmlUrl="https://decrypt.co"/>
+      <outline type="rss" text="The Block" xmlUrl="https://www.theblock.co/rss.xml" htmlUrl="https://www.theblock.co"/>
+      <outline type="rss" text="NewsBTC" xmlUrl="https://www.newsbtc.com/feed/" htmlUrl="https://www.newsbtc.com"/>
+      <outline type="rss" text="CryptoDaily" xmlUrl="https://cryptodaily.co.uk/feed" htmlUrl="https://cryptodaily.co.uk"/>
+    </outline>
+
+    <outline text="YOU TUBE - EN" title="YOU TUBE">
+      <outline type="rss" text="Marques Brownlee (MKBHD)" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL8jszAnLDzQ" htmlUrl="https://www.youtube.com/user/marquesbrownlee"/>
+      <outline type="rss" text="MrBeast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX6OQ3DkcsbYNE6H8uQQuVA" htmlUrl="https://www.youtube.com/user/MrBeast6000"/>
+      <outline type="rss" text="Linus Tech Tips" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw" htmlUrl="https://www.youtube.com/user/LinusTechTips"/>
+      <outline type="rss" text="PewDiePie" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw" htmlUrl="https://www.youtube.com/user/PewDiePie"/>
+      <outline type="rss" text="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" htmlUrl="https://www.youtube.com/user/1veritasium"/>
+      <outline type="rss" text="TED" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug" htmlUrl="https://www.youtube.com/user/TEDtalksDirector"/>
+      <outline type="rss" text="Unbox Therapy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsTcErHi8fkW0j86A_f9Sog" htmlUrl="https://www.youtube.com/user/unboxtherapy"/>
+      <outline type="rss" text="The Verge YouTube" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY38p62vUKVl36746WfO8eA" htmlUrl="https://www.youtube.com/user/TheVerge"/>
+    </outline>
+
+    <outline text="FINANCE" title="FINANCE">
+      <outline type="rss" text="Wall Street Journal" xmlUrl="https://feeds.a.dj.com/rss/RSSMarketsMain.xml" htmlUrl="https://www.wsj.com"/>
+      <outline type="rss" text="Financial Times" xmlUrl="https://www.ft.com/?format=rss" htmlUrl="https://www.ft.com"/>
+      <outline type="rss" text="CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" htmlUrl="https://www.cnbc.com"/>
+    </outline>
+  </body>
+</opml>

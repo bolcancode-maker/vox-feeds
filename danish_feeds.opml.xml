@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Danish News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="DR Nyheder" title="DR Nyheder" xmlUrl="https://www.dr.dk/nyheder/service/feeds/allenyheder" htmlUrl="https://www.dr.dk/nyheder"/>
+            <outline type="rss" text="Berlingske" title="Berlingske" xmlUrl="https://www.berlingske.dk/content/rss" htmlUrl="https://www.berlingske.dk"/> [1, 6]
+            <outline type="rss" text="Politiken" title="Politiken" xmlUrl="https://politiken.dk/rss/senestenyt.rss" htmlUrl="https://politiken.dk"/>
+            <outline type="rss" text="Jyllands-Posten" title="Jyllands-Posten" xmlUrl="https://jyllands-posten.dk/tools/rss/" htmlUrl="https://jyllands-posten.dk"/> [5]
+            <outline type="rss" text="Ekstra Bladet" title="Ekstra Bladet" xmlUrl="https://ekstrabladet.dk/rss/senestenyt/" htmlUrl="https://ekstrabladet.dk"/> [1]
+            <outline type="rss" text="B.T." title="B.T." xmlUrl="https://www.bt.dk/bt/rss" htmlUrl="https://www.bt.dk"/>
+            <outline type="rss" text="Information.dk" title="Information.dk" xmlUrl="https://www.information.dk/feed" htmlUrl="https://www.information.dk"/> [1]
+            <outline type="rss" text="The Local Denmark" title="The Local Denmark (English)" xmlUrl="https://feeds.thelocal.com/rss/dk" htmlUrl="https://www.thelocal.dk"/> [1]
+            <outline type="rss" text="The Copenhagen Post" title="The Copenhagen Post (English)" xmlUrl="https://cphpost.dk/feed/" htmlUrl="https://cphpost.dk/"/>
+        </outline>
+        <outline text="Business &amp; Economy" title="Business &amp; Economy">
+            <outline type="rss" text="Børsen" title="Børsen" xmlUrl="https://borsen.dk/rss/" htmlUrl="https://borsen.dk"/>
+            <outline type="rss" text="Jyllands-Posten Finans" title="Jyllands-Posten Finans" xmlUrl="https://finans.dk/rss/" htmlUrl="https://finans.dk"/>
+            <outline type="rss" text="Euroinvestor" title="Euroinvestor" xmlUrl="https://www.euroinvestor.dk/rss" htmlUrl="https://www.euroinvestor.dk"/>
+        </outline>
+        <outline text="Technology &amp; Science" title="Technology &amp; Science">
+            <outline type="rss" text="Version2" title="Version2" xmlUrl="https://www.version2.dk/rss" htmlUrl="https://www.version2.dk"/>
+            <outline type="rss" text="Computerworld" title="Computerworld" xmlUrl="https://www.computerworld.dk/rss/all" htmlUrl="https://www.computerworld.dk"/> [2]
+            <outline type="rss" text="Mobilsiden.dk" title="Mobilsiden.dk" xmlUrl="https://mobilsiden.dk/feed/" htmlUrl="https://mobilsiden.dk"/> [2]
+            <outline type="rss" text="DR Viden" title="DR Viden" xmlUrl="https://www.dr.dk/nyheder/service/feeds/viden" htmlUrl="https://www.dr.dk/nyheder/viden"/>
+            <outline type="rss" text="Alt om DATA" title="Alt om DATA" xmlUrl="https://www.altomdata.dk/feed" htmlUrl="https://www.altomdata.dk"/> [2]
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="DR Sporten" title="DR Sporten" xmlUrl="https://www.dr.dk/nyheder/service/feeds/sporten" htmlUrl="https://www.dr.dk/sporten"/>
+            <outline type="rss" text="Tipsbladet" title="Tipsbladet" xmlUrl="https://www.tipsbladet.dk/tools/rss" htmlUrl="https://www.tipsbladet.dk"/>
+            <outline type="rss" text="Bold.dk" title="Bold.dk" xmlUrl="https://www.bold.dk/feed/atom" htmlUrl="https://www.bold.dk"/>
+        </outline>
+        <outline text="Regional News" title="Regional News">
+            <outline type="rss" text="TV 2 Fyn" title="TV 2 Fyn" xmlUrl="https://www.tv2fyn.dk/rss" htmlUrl="https://www.tv2fyn.dk"/>
+            <outline type="rss" text="TV2 Østjylland" title="TV2 Østjylland" xmlUrl="https://www.tv2ostjylland.dk/rss" htmlUrl="https://www.tv2ostjylland.dk"/>
+            <outline type="rss" text="Nordjyske" title="Nordjyske" xmlUrl="https://nordjyske.dk/rss/nyheder" htmlUrl="https://nordjyske.dk"/> [1]
+        </outline>
+    </body>
+</opml>

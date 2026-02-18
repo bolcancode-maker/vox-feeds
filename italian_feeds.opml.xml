@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Italian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Cronaca e Politica)" title="General News">
+            <outline type="rss" text="ANSA.it - Primopiano" title="ANSA" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml" htmlUrl="https://www.ansa.it"/>
+            <outline type="rss" text="Corriere della Sera" title="Corriere" xmlUrl="https://xml2.corriereobjects.it/rss/homepage.xml" htmlUrl="https://www.corriere.it"/>
+            <outline type="rss" text="La Repubblica" title="La Repubblica" xmlUrl="https://www.repubblica.it/rss/homepage/index.xml" htmlUrl="https://www.repubblica.it"/>
+            <outline type="rss" text="La Stampa" title="La Stampa" xmlUrl="https://www.lastampa.it/rss.xml" htmlUrl="https://www.lastampa.it"/>
+            <outline type="rss" text="Il Sole 24 Ore" title="Il Sole 24 Ore" xmlUrl="https://www.ilsole24ore.com/rss/italia.xml" htmlUrl="https://www.ilsole24ore.com"/>
+            <outline type="rss" text="Il Messaggero" title="Il Messaggero" xmlUrl="https://www.ilmessaggero.it/rss.xml" htmlUrl="https://www.ilmessaggero.it"/>
+            <outline type="rss" text="Il Fatto Quotidiano" title="Il Fatto Quotidiano" xmlUrl="https://www.ilfattoquotidiano.it/feed/" htmlUrl="https://www.ilfattoquotidiano.it"/>
+            <outline type="rss" text="Il Giornale" title="Il Giornale" xmlUrl="https://www.ilgiornale.it/taxonomy/term/40833/feed" htmlUrl="https://www.ilgiornale.it"/>
+            <outline type="rss" text="Libero Quotidiano" title="Libero" xmlUrl="https://www.liberoquotidiano.it/rss.xml" htmlUrl="https://www.liberoquotidiano.it"/>
+            <outline type="rss" text="Adnkronos" title="Adnkronos" xmlUrl="https://www.adnkronos.com/rss/cronaca" htmlUrl="https://www.adnkronos.com"/>
+            <outline type="rss" text="AGI - Agenzia Italia" title="AGI" xmlUrl="https://www.agi.it/rss" htmlUrl="https://www.agi.it"/>
+            <outline type="rss" text="Rainews.it" title="Rainews" xmlUrl="https://www.rainews.it/rss/tutte-le-notizie" htmlUrl="https://www.rainews.it"/>
+            <outline type="rss" text="Il Gazzettino" title="Il Gazzettino" xmlUrl="https://www.ilgazzettino.it/rss.xml" htmlUrl="https://www.ilgazzettino.it"/>
+            <outline type="rss" text="Il Post" title="Il Post" xmlUrl="https://www.ilpost.it/feed/" htmlUrl="https://www.ilpost.it"/>
+            <outline type="rss" text="Fanpage.it" title="Fanpage" xmlUrl="https://www.fanpage.it/feed/" htmlUrl="https://www.fanpage.it"/>
+            <outline type="rss" text="Open" title="Open" xmlUrl="https://www.open.online/feed/" htmlUrl="https://www.open.online"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Economia e Finanza)" title="Business &amp; Economy">
+            <outline type="rss" text="Sole 24 Ore - Economia" xmlUrl="https://www.ilsole24ore.com/rss/economia.xml" htmlUrl="https://www.ilsole24ore.com/sez/economia"/>
+            <outline type="rss" text="Sole 24 Ore - Finanza" xmlUrl="https://www.ilsole24ore.com/rss/finanza-e-mercati.xml" htmlUrl="https://www.ilsole24ore.com/sez/finanza-e-mercati"/>
+            <outline type="rss" text="Milano Finanza" xmlUrl="https://www.milanofinanza.it/rss/finanza" htmlUrl="https://www.milanofinanza.it"/>
+            <outline type="rss" text="Wall Street Italia" xmlUrl="https://www.wallstreetitalia.com/feed/" htmlUrl="https://www.wallstreetitalia.com"/>
+            <outline type="rss" text="Finanza.com" xmlUrl="https://www.finanza.com/feed/" htmlUrl="https://www.finanza.com"/>
+            <outline type="rss" text="Borsa Italiana" xmlUrl="https://www.borsaitaliana.it/borsa/notizie/radiocor/rss-economia.xml" htmlUrl="https://www.borsaitaliana.it"/>
+            <outline type="rss" text="SoldiOnline" xmlUrl="https://www.soldionline.it/feed/rss/notizie" htmlUrl="https://www.soldionline.it"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Tecnologia e Scienza)" title="Technology &amp; Science">
+            <outline type="rss" text="HDblog.it" xmlUrl="https://www.hdblog.it/feed/" htmlUrl="https://www.hdblog.it"/>
+            <outline type="rss" text="Tom's Hardware Italia" xmlUrl="https://www.tomshw.it/feed/" htmlUrl="https://www.tomshw.it"/>
+            <outline type="rss" text="Punto Informatico" xmlUrl="https://www.punto-informatico.it/feed/" htmlUrl="https://www.punto-informatico.it"/>
+            <outline type="rss" text="Wired Italia" xmlUrl="https://www.wired.it/feed/rss" htmlUrl="https://www.wired.it"/>
+            <outline type="rss" text="DDay.it" xmlUrl="https://www.dday.it/rss" htmlUrl="https://www.dday.it"/>
+            <outline type="rss" text="Hardware Upgrade" xmlUrl="https://www.hwupgrade.it/rss_news.xml" htmlUrl="https://www.hwupgrade.it"/>
+            <outline type="rss" text="Macitynet.it" xmlUrl="https://www.macitynet.it/feed/" htmlUrl="https://www.macitynet.it"/>
+            <outline type="rss" text="AndroidWorld" xmlUrl="https://www.androidworld.it/feed/" htmlUrl="https://www.androidworld.it"/>
+            <outline type="rss" text="iPhone Italia" xmlUrl="https://www.iphoneitalia.com/feed" htmlUrl="https://www.iphoneitalia.com"/>
+            <outline type="rss" text="Le Scienze" xmlUrl="https://www.lescienze.it/rss/all/index.xml" htmlUrl="https://www.lescienze.it"/>
+        </outline>
+
+        <outline text="Sports (Sport)" title="Sports">
+            <outline type="rss" text="La Gazzetta dello Sport" xmlUrl="https://services.gazzetta.it/rss/home.xml" htmlUrl="https://www.gazzetta.it"/>
+            <outline type="rss" text="Corriere dello Sport" xmlUrl="https://www.corrieredellosport.it/rss/" htmlUrl="https://www.corrieredellosport.it"/>
+            <outline type="rss" text="Tuttosport" xmlUrl="https://www.tuttosport.it/rss/" htmlUrl="https://www.tuttosport.it"/>
+            <outline type="rss" text="Sport Mediaset" xmlUrl="https://www.sportmediaset.mediaset.it/rss/homepage/homepage.xml" htmlUrl="https://www.sportmediaset.it"/>
+            <outline type="rss" text="Calciomercato.com" xmlUrl="https://www.calciomercato.com/feed" htmlUrl="https://www.calciomercato.com"/>
+            <outline type="rss" text="Sky Sport" xmlUrl="https://sport.sky.it/rss/sport_notizie.xml" htmlUrl="https://sport.sky.it"/>
+            <outline type="rss" text="Eurosport Italia" xmlUrl="https://it.eurosport.com/rss.xml" htmlUrl="https://it.eurosport.com"/>
+        </outline>
+
+        <outline text="Regional &amp; City News (Notizie Locali)" title="Regional News">
+            <outline type="rss" text="Il Mattino (Napoli)" xmlUrl="https://www.ilmattino.it/rss.xml" htmlUrl="https://www.ilmattino.it"/>
+            <outline type="rss" text="La Nazione (Toscana)" xmlUrl="https://www.lanazione.it/rss" htmlUrl="https://www.lanazione.it"/>
+            <outline type="rss" text="Il Resto del Carlino (Bologna)" xmlUrl="https://www.ilrestodelcarlino.it/rss" htmlUrl="https://www.ilrestodelcarlino.it"/>
+            <outline type="rss" text="Il Giorno (Milano)" xmlUrl="https://www.ilgiorno.it/rss" htmlUrl="https://www.ilgiorno.it"/>
+            <outline type="rss" text="Il Secolo XIX (Genova)" xmlUrl="https://www.ilsecoloxix.it/rss.xml" htmlUrl="https://www.ilsecoloxix.it"/>
+            <outline type="rss" text="L'Unione Sarda" xmlUrl="https://www.unionesarda.it/rss" htmlUrl="https://www.unionesarda.it"/>
+            <outline type="rss" text="Giornale di Sicilia" xmlUrl="https://gds.it/rss/" htmlUrl="https://gds.it"/>
+            <outline type="rss" text="RomaToday" xmlUrl="https://www.romatoday.it/rss" htmlUrl="https://www.romatoday.it"/>
+            <outline type="rss" text="MilanoToday" xmlUrl="https://www.milanotoday.it/rss" htmlUrl="https://www.milanotoday.it"/>
+            <outline type="rss" text="NapoliToday" xmlUrl="https://www.napolitoday.it/rss" htmlUrl="https://www.napolitoday.it"/>
+            <outline type="rss" text="TorinoToday" xmlUrl="https://www.torinotoday.it/rss" htmlUrl="https://www.torinotoday.it"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Stile di Vita e Cultura)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Vanity Fair Italia" xmlUrl="https://www.vanityfair.it/feed/rss" htmlUrl="https://www.vanityfair.it"/>
+            <outline type="rss" text="Vogue Italia" xmlUrl="https://www.vogue.it/feed/rss" htmlUrl="https://www.vogue.it"/>
+            <outline type="rss" text="GialloZafferano (Cucina)" xmlUrl="https://www.giallozafferano.it/feed" htmlUrl="https://www.giallozafferano.it"/>
+            <outline type="rss" text="Artribune" xmlUrl="https://www.artribune.com/feed/" htmlUrl="https://www.artribune.com"/>
+            <outline type="rss" text="Rockol" xmlUrl="https://www.rockol.it/rss/rockol-musica-notizie.xml" htmlUrl="https://www.rockol.it"/>
+        </outline>
+    </body>
+</opml>

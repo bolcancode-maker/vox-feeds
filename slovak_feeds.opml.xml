@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Slovak News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Hlavné správy)" title="General News">
+            <outline type="rss" text="SME.sk - Domov" title="SME" xmlUrl="https://domov.sme.sk/rss" htmlUrl="https://domov.sme.sk"/>
+            <outline type="rss" text="Aktuality.sk" title="Aktuality" xmlUrl="https://www.aktuality.sk/rss/" htmlUrl="https://www.aktuality.sk"/>
+            <outline type="rss" text="Denník N" title="Denník N" xmlUrl="https://dennikn.sk/feed/" htmlUrl="https://dennikn.sk"/>
+            <outline type="rss" text="Pravda.sk - Správy" title="Pravda" xmlUrl="https://spravy.pravda.sk/rss/xml/spravy.pravda.sk/domace/" htmlUrl="https://spravy.pravda.sk"/>
+            <outline type="rss" text="Hospodárske noviny (HN)" title="HN" xmlUrl="https://hnonline.sk/rss/slovensko" htmlUrl="https://hnonline.sk"/>
+            <outline type="rss" text="Teraz.sk (TASR)" title="Teraz" xmlUrl="https://www.teraz.sk/rss/slovensko.xml" htmlUrl="https://www.teraz.sk"/>
+            <outline type="rss" text="STVR - Správy" title="STVR" xmlUrl="https://spravy.rtvs.sk/feed/" htmlUrl="https://spravy.rtvs.sk"/>
+            <outline type="rss" text="Plus JEDEN DEŇ" title="Pluska" xmlUrl="https://www.pluska.sk/rss/spravy/" htmlUrl="https://www.pluska.sk"/>
+            <outline type="rss" text="Nový Čas" title="Čas.sk" xmlUrl="https://www.cas.sk/rss/" htmlUrl="https://www.cas.sk"/>
+            <outline type="rss" text="Webnoviny.sk" title="Webnoviny" xmlUrl="https://www.webnoviny.sk/feed/" htmlUrl="https://www.webnoviny.sk"/>
+            <outline type="rss" text="The Slovak Spectator (English)" title="Spectator" xmlUrl="https://spectator.sme.sk/rss" htmlUrl="https://spectator.sme.sk"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Ekonomika и Biznis)" title="Business &amp; Economy">
+            <outline type="rss" text="HN - Ekonomika" xmlUrl="https://hnonline.sk/rss/ekonomika" htmlUrl="https://hnonline.sk/ekonomika"/>
+            <outline type="rss" text="SME - Index" xmlUrl="https://index.sme.sk/rss" htmlUrl="https://index.sme.sk"/>
+            <outline type="rss" text="Trend.sk" xmlUrl="https://www.trend.sk/rss/vsetko" htmlUrl="https://www.trend.sk"/>
+            <outline type="rss" text="Aktuality - Ekonomika" xmlUrl="https://www.aktuality.sk/rss/ekonomika/" htmlUrl="https://www.aktuality.sk/ekonomika/"/>
+            <outline type="rss" text="Pravda - Ekonomika" xmlUrl="https://uzitocna.pravda.sk/rss/xml/uzitocna.pravda.sk/peniaze/" htmlUrl="https://uzitocna.pravda.sk"/>
+            <outline type="rss" text="Finreport" xmlUrl="https://www.finreport.sk/rss/" htmlUrl="https://www.finreport.sk"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Technológie и Veda)" title="Technology &amp; Science">
+            <outline type="rss" text="Živé.sk" title="Živé" xmlUrl="https://www.aktuality.sk/rss/zive/" htmlUrl="https://www.aktuality.sk/zive/"/>
+            <outline type="rss" text="SME - Tech" xmlUrl="https://tech.sme.sk/rss" htmlUrl="https://tech.sme.sk"/>
+            <outline type="rss" text="Fony.sk" title="Fony" xmlUrl="https://www.fony.sk/rss" htmlUrl="https://www.fony.sk"/>
+            <outline type="rss" text="TouchIT" xmlUrl="https://touchit.sk/feed" htmlUrl="https://touchit.sk"/>
+            <outline type="rss" text="PC REVUE" xmlUrl="https://www.pcrevue.sk/rss" htmlUrl="https://www.pcrevue.sk"/>
+            <outline type="rss" text="Veda na dosah" xmlUrl="https://vedanadosah.cvtisr.sk/feed/" htmlUrl="https://vedanadosah.cvtisr.sk"/>
+        </outline>
+
+        <outline text="Sports (Šport)" title="Sports">
+            <outline type="rss" text="Šport.sk" xmlUrl="https://www.aktuality.sk/rss/sport/" htmlUrl="https://sport.aktuality.sk"/>
+            <outline type="rss" text="SME - Šport" xmlUrl="https://sport.sme.sk/rss" htmlUrl="https://sport.sme.sk"/>
+            <outline type="rss" text="Pravda - Šport" xmlUrl="https://sport.pravda.sk/rss/xml/sport.pravda.sk/hokej/" htmlUrl="https://sport.pravda.sk"/>
+            <outline type="rss" text="HokejPortal" xmlUrl="https://www.hokejportal.net/?q=rss" htmlUrl="https://www.hokejportal.net"/>
+            <outline type="rss" text="ProFutbal" xmlUrl="https://profutbal.sk/feed" htmlUrl="https://profutbal.sk"/>
+        </outline>
+
+        <outline text="Regional News (Regionálne správy)" title="Regional News">
+            <outline type="rss" text="Bratislavské noviny" xmlUrl="https://www.banoviny.sk/feed" htmlUrl="https://www.banoviny.sk"/>
+            <outline type="rss" text="SME - Regionálne (Východ)" xmlUrl="https://kosice.sme.sk/rss" htmlUrl="https://kosice.sme.sk"/>
+            <outline type="rss" text="SME - Regionálne (Západ)" xmlUrl="https://trnavsky.sme.sk/rss" htmlUrl="https://trnavsky.sme.sk"/>
+            <outline type="rss" text="Žilinský Večerník" xmlUrl="https://www.zilinskyvecernik.sk/rss" htmlUrl="https://www.zilinskyvecernik.sk"/>
+            <outline type="rss" text="Poprad24" xmlUrl="https://poprad.dnes24.sk/rss" htmlUrl="https://poprad.dnes24.sk"/>
+            <outline type="rss" text="Bystrica24" xmlUrl="https://bystrica.dnes24.sk/rss" htmlUrl="https://bystrica.dnes24.sk"/>
+            <outline type="rss" text="Nitra24" xmlUrl="https://nitra.dnes24.sk/rss" htmlUrl="https://nitra.dnes24.sk"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Životný štýl и Kultúra)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="SME - Kultúra" xmlUrl="https://kultura.sme.sk/rss" htmlUrl="https://kultura.sme.sk"/>
+            <outline type="rss" text="Pravda - Koktejl" xmlUrl="https://koktejl.pravda.sk/rss/xml/koktejl.pravda.sk/hviezdne-pribehy/" htmlUrl="https://koktejl.pravda.sk"/>
+            <outline type="rss" text="Refresher.sk" xmlUrl="https://refresher.sk/rss" htmlUrl="https://refresher.sk"/>
+            <outline type="rss" text="Brainee.sk" xmlUrl="https://brainee.hnonline.sk/rss" htmlUrl="https://brainee.hnonline.sk"/>
+        </outline>
+    </body>
+</opml>

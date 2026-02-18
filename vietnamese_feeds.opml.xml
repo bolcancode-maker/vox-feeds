@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Vietnamese News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Tin tức tổng hợp)" title="General News">
+            <outline type="rss" text="VNExpress - Tin mới nhất" title="VNExpress" xmlUrl="https://vnexpress.net/rss/tin-moi-nhat.rss" htmlUrl="https://vnexpress.net"/>
+            <outline type="rss" text="Tuổi Trẻ Online" title="Tuổi Trẻ" xmlUrl="https://tuoitre.vn/rss/tin-moi-nhat.rss" htmlUrl="https://tuoitre.vn"/>
+            <outline type="rss" text="Thanh Niên" title="Thanh Niên" xmlUrl="https://thanhnien.vn/rss/home.rss" htmlUrl="https://thanhnien.vn"/>
+            <outline type="rss" text="VietnamNet" title="VietnamNet" xmlUrl="https://vietnamnet.vn/rss/tin-moi-nhat.rss" htmlUrl="https://vietnamnet.vn"/>
+            <outline type="rss" text="VTC News" title="VTC" xmlUrl="https://vtc.vn/rss/feed.rss" htmlUrl="https://vtc.vn"/>
+            <outline type="rss" text="Dân Trí" title="Dân Trí" xmlUrl="https://dantri.com.vn/rss/home.rss" htmlUrl="https://dantri.com.vn"/>
+            <outline type="rss" text="24h.com.vn" title="24h" xmlUrl="https://www.24h.com.vn/upload/rss/tin-tuc-trong-ngay.rss" htmlUrl="https://www.24h.com.vn"/>
+            <outline type="rss" text="Báo Mới" title="Báo Mới" xmlUrl="https://baomoi.com/rss" htmlUrl="https://baomoi.com"/>
+            <outline type="rss" text="Tiền Phong" title="Tiền Phong" xmlUrl="https://tienphong.vn/rss/home.rss" htmlUrl="https://tienphong.vn"/>
+            <outline type="rss" text="VOV - Đài Tiếng nói Việt Nam" title="VOV" xmlUrl="https://vov.vn/rss/tin-moi-nhat.rss" htmlUrl="https://vov.vn"/>
+            <outline type="rss" text="Sài Gòn Giải Phóng" title="SGGP" xmlUrl="https://www.sggp.org.vn/rss/tin-moi-nhat.rss" htmlUrl="https://www.sggp.org.vn"/>
+            <outline type="rss" text="Nhân Dân Online" title="Nhân Dân" xmlUrl="https://nhandan.vn/rss/tin-moi-nhat.rss" htmlUrl="https://nhandan.vn"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Kinh doanh &amp; Tài chính)" title="Business &amp; Economy">
+            <outline type="rss" text="CafeF" title="CafeF" xmlUrl="https://cafef.vn/rss/home.rss" htmlUrl="https://cafef.vn"/>
+            <outline type="rss" text="Kinh tế &amp; Đô thị" xmlUrl="https://kinhtedothi.vn/rss/feed.rss" htmlUrl="https://kinhtedothi.vn"/>
+            <outline type="rss" text="Nhịp cầu Đầu tư" xmlUrl="https://nhipcaudautu.vn/rss/" htmlUrl="https://nhipcaudautu.vn"/>
+            <outline type="rss" text="VnEconomy" title="VnEconomy" xmlUrl="https://vneconomy.vn/rss/tin-moi-nhat.rss" htmlUrl="https://vneconomy.vn"/>
+            <outline type="rss" text="Vietstock" xmlUrl="https://vietstock.vn/rss/tin-moi-nhat.rss" htmlUrl="https://vietstock.vn"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Công nghệ)" title="Technology &amp; Science">
+            <outline type="rss" text="Tinhte.vn" title="Tinhte" xmlUrl="https://tinhte.vn/rss" htmlUrl="https://tinhte.vn"/>
+            <outline type="rss" text="GenK" title="GenK" xmlUrl="https://genk.vn/rss/home.rss" htmlUrl="https://genk.vn"/>
+            <outline type="rss" text="Số Hóa (VNExpress)" xmlUrl="https://vnexpress.net/rss/so-hoa.rss" htmlUrl="https://vnexpress.net/so-hoa"/>
+            <outline type="rss" text="ICTNews" title="ICTNews" xmlUrl="https://ictnews.vietnamnet.vn/rss/tin-moi-nhat.rss" htmlUrl="https://ictnews.vietnamnet.vn"/>
+            <outline type="rss" text="Techz.vn" xmlUrl="https://www.techz.vn/rss/feed.rss" htmlUrl="https://www.techz.vn"/>
+        </outline>
+
+        <outline text="Sports (Thể thao)" title="Sports">
+            <outline type="rss" text="Bóng Đá Plus" title="BongdaPlus" xmlUrl="https://bongdaplus.vn/rss/tin-moi-nhat.rss" htmlUrl="https://bongdaplus.vn"/>
+            <outline type="rss" text="Thethao247" xmlUrl="https://thethao247.vn/rss/tin-moi-nhat.rss" htmlUrl="https://thethao247.vn"/>
+            <outline type="rss" text="Thể thao &amp; Văn hóa" xmlUrl="https://thethaovanhoa.vn/rss/tin-moi-nhat.rss" htmlUrl="https://thethaovanhoa.vn"/>
+            <outline type="rss" text="Webthethao" xmlUrl="https://webthethao.vn/rss/tin-moi-nhat.rss" htmlUrl="https://webthethao.vn"/>
+        </outline>
+
+        <outline text="Regional News (Tin tức địa phương)" title="Regional News">
+            <outline type="rss" text="Hà Nội Mới" title="Hà Nội" xmlUrl="https://hanoimoi.com.vn/rss/tin-moi-nhat.rss" htmlUrl="https://hanoimoi.com.vn"/>
+            <outline type="rss" text="Hải Phòng News" title="Hải Phòng" xmlUrl="https://baohaiphong.com.vn/rss/tin-moi-nhat.rss" htmlUrl="https://baohaiphong.com.vn"/>
+            <outline type="rss" text="Đà Nẵng Online" title="Đà Nẵng" xmlUrl="https://baodanang.vn/rss/tin-moi-nhat.rss" htmlUrl="https://baodanang.vn"/>
+            <outline type="rss" text="Báo Cần Thơ" title="Cần Thơ" xmlUrl="https://baocantho.com.vn/rss/tin-moi-nhat.rss" htmlUrl="https://baocantho.com.vn"/>
+            <outline type="rss" text="Báo Nghệ An" xmlUrl="https://baonghean.vn/rss/tin-moi-nhat.rss" htmlUrl="https://baonghean.vn"/>
+            <outline type="rss" text="Báo Đồng Nai" xmlUrl="https://baodongnai.com.vn/rss/tin-moi-nhat.rss" htmlUrl="https://baodongnai.com.vn"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Văn hóa - Giải trí)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Kênh 14" title="Kênh 14" xmlUrl="https://kenh14.vn/rss/home.rss" htmlUrl="https://kenh14.vn"/>
+            <outline type="rss" text="Ngôi Sao" title="Ngôi Sao" xmlUrl="https://ngoisao.net/rss/tin-moi-nhat.rss" htmlUrl="https://ngoisao.net"/>
+            <outline type="rss" text="Zing News - Giải trí" xmlUrl="https://zingnews.vn/rss/giai-tri.rss" htmlUrl="https://zingnews.vn/giai-tri/"/>
+            <outline type="rss" text="VietNamNet - Giải trí" xmlUrl="https://vietnamnet.vn/rss/giai-tri.rss" htmlUrl="https://vietnamnet.vn/giai-tri/"/>
+        </outline>
+    </body>
+</opml>

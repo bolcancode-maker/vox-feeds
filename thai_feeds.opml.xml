@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Thai News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (ข่าวทั่วไป)" title="General News">
+            <outline type="rss" text="Thairath (ไทยรัฐ)" title="Thairath" xmlUrl="https://www.thairath.co.th/rss/news" htmlUrl="https://www.thairath.co.th"/>
+            <outline type="rss" text="Matichon (มติชน)" title="Matichon" xmlUrl="https://www.matichon.co.th/feed" htmlUrl="https://www.matichon.co.th"/>
+            <outline type="rss" text="Khaosod (ข่าวสด)" title="Khaosod" xmlUrl="https://www.khaosod.co.th/feed" htmlUrl="https://www.khaosod.co.th"/>
+            <outline type="rss" text="Daily News (เดลินิวส์)" title="Daily News" xmlUrl="https://www.dailynews.co.th/feed" htmlUrl="https://www.dailynews.co.th"/>
+            <outline type="rss" text="Thai PBS" title="Thai PBS" xmlUrl="https://www.thaipbs.or.th/rss/news" htmlUrl="https://www.thaipbs.or.th"/>
+            <outline type="rss" text="Manager Online" title="Manager" xmlUrl="https://mgronline.com/rss/home" htmlUrl="https://mgronline.com"/>
+            <outline type="rss" text="Sanook News" title="Sanook" xmlUrl="https://rssfeeds.sanook.com/rss/feeds/sanook/news.index.xml" htmlUrl="https://www.sanook.com/news/"/>
+            <outline type="rss" text="MThai News" title="MThai" xmlUrl="https://news.mthai.com/feed" htmlUrl="https://news.mthai.com"/>
+            <outline type="rss" text="Nation TV" title="Nation" xmlUrl="https://www.nationtv.tv/rss/news" htmlUrl="https://www.nationtv.tv"/>
+            <outline type="rss" text="Post Today" title="Post Today" xmlUrl="https://www.posttoday.com/rss/src/politic.xml" htmlUrl="https://www.posttoday.com"/>
+            <outline type="rss" text="Bangkok Post (English)" title="Bangkok Post" xmlUrl="https://www.bangkokpost.com/rss/data/most-recent.xml" htmlUrl="https://www.bangkokpost.com"/>
+            <outline type="rss" text="The Nation (English)" title="The Nation" xmlUrl="https://www.nationthailand.com/rss/news" htmlUrl="https://www.nationthailand.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (ธุรกิจและเศรษฐกิจ)" title="Business &amp; Economy">
+            <outline type="rss" text="Krungthep Turakij (กรุงเทพธุรกิจ)" xmlUrl="https://www.bangkokbiznews.com/rss/news/business" htmlUrl="https://www.bangkokbiznews.com"/>
+            <outline type="rss" text="Prachachat (ประชาชาติธุรกิจ)" xmlUrl="https://www.prachachat.net/feed" htmlUrl="https://www.prachachat.net"/>
+            <outline type="rss" text="Money and Banking" xmlUrl="https://www.moneyandbanking.co.th/feed" htmlUrl="https://www.moneyandbanking.co.th"/>
+            <outline type="rss" text="Thansettakij (ฐานเศรษฐกิจ)" xmlUrl="https://www.thansettakij.com/rss/business" htmlUrl="https://www.thansettakij.com"/>
+        </outline>
+
+        <outline text="Technology &amp; Gadgets (เทคโนโลยี)" title="Technology &amp; Science">
+            <outline type="rss" text="Blognone" title="Blognone" xmlUrl="https://www.blognone.com/atom.xml" htmlUrl="https://www.blognone.com"/>
+            <outline type="rss" text="Droidsans" title="Droidsans" xmlUrl="https://droidsans.com/feed/" htmlUrl="https://droidsans.com"/>
+            <outline type="rss" text="Tech Offside" title="Tech Offside" xmlUrl="https://www.techoffside.com/feed/" htmlUrl="https://www.techoffside.com"/>
+            <outline type="rss" text="SpecPhone" title="SpecPhone" xmlUrl="https://specphone.com/feed" htmlUrl="https://specphone.com"/>
+            <outline type="rss" text="แบไต๋ (Beartai)" title="Beartai" xmlUrl="https://www.beartai.com/feed" htmlUrl="https://www.beartai.com"/>
+            <outline type="rss" text="SiamPhone" title="SiamPhone" xmlUrl="https://www.siamphone.com/rss/news.xml" htmlUrl="https://www.siamphone.com"/>
+        </outline>
+
+        <outline text="Sports (กีฬา)" title="Sports">
+            <outline type="rss" text="Siam Sport" title="Siam Sport" xmlUrl="https://www.siamsport.co.th/rss/news" htmlUrl="https://www.siamsport.co.th"/>
+            <outline type="rss" text="SMMSPORT" title="SMMSPORT" xmlUrl="https://www.smmsport.com/feed" htmlUrl="https://www.smmsport.com"/>
+            <outline type="rss" text="Thairath Sport" xmlUrl="https://www.thairath.co.th/rss/sport" htmlUrl="https://www.thairath.co.th/sport"/>
+            <outline type="rss" text="Main Stand" xmlUrl="https://www.mainstand.co.th/feed" htmlUrl="https://www.mainstand.co.th"/>
+        </outline>
+
+        <outline text="Regional &amp; Local (ข่าวภูมิภาค)" title="Regional News">
+            <outline type="rss" text="Chiang Mai News" title="Chiang Mai" xmlUrl="https://www.chiangmainews.co.th/feed" htmlUrl="https://www.chiangmainews.co.th"/>
+            <outline type="rss" text="Phuket News" title="Phuket" xmlUrl="https://www.thephuketnews.com/rss/news.xml" htmlUrl="https://www.thephuketnews.com"/>
+            <outline type="rss" text="Korat Daily" title="Korat" xmlUrl="https://www.koratdaily.com/feed" htmlUrl="https://www.koratdaily.com"/>
+            <outline type="rss" text="Southern Focus (ภาคใต้)" xmlUrl="https://www.focusnews.online/feed" htmlUrl="https://www.focusnews.online"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (ไลฟ์สไตล์และวัฒนธรรม)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Pantip (Trending)" title="Pantip" xmlUrl="https://pantip.com/feed/trend" htmlUrl="https://pantip.com"/>
+            <outline type="rss" text="Kapook Lifestyle" xmlUrl="https://rssfeeds.kapook.com/rss/kapook/lifestyle.index.xml" htmlUrl="https://lifestyle.kapook.com"/>
+            <outline type="rss" text="GQ Thailand" xmlUrl="https://www.gqthailand.com/feed/rss" htmlUrl="https://www.gqthailand.com"/>
+            <outline type="rss" text="Vogue Thailand" xmlUrl="https://www.vogue.co.th/feed/rss" htmlUrl="https://www.vogue.co.th"/>
+        </outline>
+    </body>
+</opml>

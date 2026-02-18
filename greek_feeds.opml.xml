@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
+    <head>
+        <title>Greek News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="Kathimerini" title="Kathimerini" xmlUrl="https://www.kathimerini.gr/feed/" htmlUrl="https://www.kathimerini.gr"/>
+            <outline type="rss" text="To Vima" title="To Vima" xmlUrl="https://www.tovima.gr/feed/" htmlUrl="https://www.tovima.gr"/>
+            <outline type="rss" text="Proto Thema" title="Proto Thema" xmlUrl="https://www.protothema.gr/feed/" htmlUrl="https://www.protothema.gr"/>
+            <outline type="rss" text="Ethnos" title="Ethnos" xmlUrl="https://www.ethnos.gr/rss" htmlUrl="https://www.ethnos.gr"/>
+            <outline type="rss" text="Ta Nea" title="Ta Nea" xmlUrl="https://www.tanea.gr/feed/" htmlUrl="https://www.tanea.gr"/>
+            <outline type="rss" text="ERT News" title="ERT News" xmlUrl="https://www.ertnews.gr/feed/" htmlUrl="https://www.ertnews.gr"/>
+            <outline type="rss" text="In.gr" title="In.gr" xmlUrl="https://www.in.gr/feed/" htmlUrl="https://www.in.gr"/>
+            <outline type="rss" text="Newsit" title="Newsit" xmlUrl="https://www.newsit.gr/feed/" htmlUrl="https://www.newsit.gr"/>
+            <outline type="rss" text="Naftemporiki" title="Naftemporiki" xmlUrl="https://www.naftemporiki.gr/feed/" htmlUrl="https://www.naftemporiki.gr"/>
+            <outline type="rss" text="The Press Project" title="The Press Project" xmlUrl="https://thepressproject.gr/feed/rss/" htmlUrl="https://thepressproject.gr"/>
+            <outline type="rss" text="Efimerida ton Syntakton" title="EFSYN" xmlUrl="https://www.efsyn.gr/rss.xml" htmlUrl="https://www.efsyn.gr"/>
+            <outline type="rss" text="I Avgi" title="Avgi" xmlUrl="https://www.avgi.gr/rss.xml" htmlUrl="https://www.avgi.gr"/>
+            <outline type="rss" text="Rizospastis" title="Rizospastis" xmlUrl="https://www.rizospastis.gr/rss.do" htmlUrl="https://www.rizospastis.gr"/>
+            <outline type="rss" text="Athens Voice" title="Athens Voice" xmlUrl="https://www.athensvoice.gr/feed" htmlUrl="https://www.athensvoice.gr"/>
+            <outline type="rss" text="Lifo" title="Lifo" xmlUrl="https://www.lifo.gr/rss" htmlUrl="https://www.lifo.gr"/>
+            <outline type="rss" text="News247" title="News247" xmlUrl="https://www.news247.gr/?feed=rss2" htmlUrl="https://www.news247.gr"/>
+            <outline type="rss" text="HuffPost Greece" title="HuffPost" xmlUrl="https://www.huffingtonpost.gr/feeds/index.xml" htmlUrl="https://www.huffingtonpost.gr"/>
+            <outline type="rss" text="Documento" title="Documento" xmlUrl="https://www.documentonews.gr/feed/" htmlUrl="https://www.documentonews.gr"/>
+            <outline type="rss" text="The TOC" title="The TOC" xmlUrl="https://www.thetoc.gr/feed" htmlUrl="https://www.thetoc.gr"/>
+            <outline type="rss" text="CNN Greece" title="CNN Greece" xmlUrl="https://www.cnn.gr/feed" htmlUrl="https://www.cnn.gr"/>
+        </outline>
+
+        <outline text="Business &amp; Economy" title="Business &amp; Economy">
+            <outline type="rss" text="Capital.gr" title="Capital.gr" xmlUrl="https://www.capital.gr/rss" htmlUrl="https://www.capital.gr"/>
+            <outline type="rss" text="Euro2day" title="Euro2day" xmlUrl="https://www.euro2day.gr/rss" htmlUrl="https://www.euro2day.gr"/>
+            <outline type="rss" text="Imerisia" title="Imerisia" xmlUrl="https://www.imerisia.gr/rss" htmlUrl="https://www.imerisia.gr"/>
+            <outline type="rss" text="Banking News" title="Banking News" xmlUrl="https://bankingnews.gr/feed" htmlUrl="https://bankingnews.gr"/>
+            <outline type="rss" text="Reporter.gr" title="Reporter" xmlUrl="https://www.reporter.gr/rss" htmlUrl="https://www.reporter.gr"/>
+            <outline type="rss" text="Economistas" title="Economistas" xmlUrl="https://www.economistas.gr/feed" htmlUrl="https://www.economistas.gr"/>
+            <outline type="rss" text="Insider.gr" title="Insider" xmlUrl="https://www.insider.gr/feed" htmlUrl="https://www.insider.gr"/>
+            <outline type="rss" text="MoneyReview" title="MoneyReview" xmlUrl="https://www.moneyreview.gr/feed/" htmlUrl="https://www.moneyreview.gr"/>
+        </outline>
+
+        <outline text="Technology &amp; Science" title="Technology &amp; Science">
+            <outline type="rss" text="Techblog.gr" title="Techblog" xmlUrl="https://techblog.gr/feed/" htmlUrl="https://techblog.gr"/>
+            <outline type="rss" text="Insomnia.gr" title="Insomnia" xmlUrl="https://www.insomnia.gr/rss/index.xml/" htmlUrl="https://www.insomnia.gr"/>
+            <outline type="rss" text="Digitallife.gr" title="Digitallife" xmlUrl="https://www.digitallife.gr/feed" htmlUrl="https://www.digitallife.gr"/>
+            <outline type="rss" text="Goodbyte.gr" title="Goodbyte" xmlUrl="https://goodbyte.gr/feed/" htmlUrl="https://goodbyte.gr"/>
+            <outline type="rss" text="Techgear.gr" title="Techgear" xmlUrl="https://www.techgear.gr/feed" htmlUrl="https://www.techgear.gr"/>
+            <outline type="rss" text="Getitnow" title="Getitnow" xmlUrl="https://www.getitnow.gr/feed" htmlUrl="https://www.getitnow.gr"/>
+            <outline type="rss" text="Physics4u" title="Physics4u" xmlUrl="http://www.physics4u.gr/blog/?feed=rss2" htmlUrl="http://www.physics4u.gr"/>
+        </outline>
+
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="Gazzetta.gr" title="Gazzetta" xmlUrl="https://www.gazzetta.gr/rss" htmlUrl="https://www.gazzetta.gr"/>
+            <outline type="rss" text="Sport24" title="Sport24" xmlUrl="https://www.sport24.gr/rss" htmlUrl="https://www.sport24.gr"/>
+            <outline type="rss" text="Contra.gr" title="Contra" xmlUrl="https://www.contra.gr/rss" htmlUrl="https://www.contra.gr"/>
+            <outline type="rss" text="Novasports" title="Novasports" xmlUrl="https://www.novasports.gr/feed" htmlUrl="https://www.novasports.gr"/>
+            <outline type="rss" text="SDNA" title="SDNA" xmlUrl="https://www.sdna.gr/feed" htmlUrl="https://www.sdna.gr"/>
+            <outline type="rss" text="OnSports" title="OnSports" xmlUrl="https://www.onsports.gr/rss" htmlUrl="https://www.onsports.gr"/>
+            <outline type="rss" text="Sport-FM" title="Sport-FM" xmlUrl="https://www.sport-fm.gr/rss" htmlUrl="https://www.sport-fm.gr"/>
+            <outline type="rss" text="Filathlos" title="Filathlos" xmlUrl="https://www.filathlos.gr/feed" htmlUrl="https://www.filathlos.gr"/>
+        </outline>
+
+        <outline text="Regional News" title="Regional News">
+            <outline type="rss" text="Makedonia (Thessaloniki)" title="Makedonia" xmlUrl="https://www.makthes.gr/rss" htmlUrl="https://www.makthes.gr"/>
+            <outline type="rss" text="Cretalive (Crete)" title="Cretalive" xmlUrl="https://www.cretalive.gr/rss" htmlUrl="https://www.cretalive.gr"/>
+            <outline type="rss" text="Patris (Heraklion)" title="Patris" xmlUrl="https://www.patris.gr/feed" htmlUrl="https://www.patris.gr"/>
+            <outline type="rss" text="Peloponnisos (Patra)" title="Peloponnisos" xmlUrl="https://www.pelop.gr/feed" htmlUrl="https://www.pelop.gr"/>
+            <outline type="rss" text="Larissanet (Larissa)" title="Larissanet" xmlUrl="https://www.larissanet.gr/feed" htmlUrl="https://www.larissanet.gr"/>
+            <outline type="rss" text="Epirus Post (Ioannina)" title="Epirus Post" xmlUrl="https://www.epiruspost.gr/feed" htmlUrl="https://www.epiruspost.gr"/>
+            <outline type="rss" text="ThrakiToday (Thrace)" title="ThrakiToday" xmlUrl="https://www.thrakitoday.com/feed" htmlUrl="https://www.thrakitoday.com"/>
+            <outline type="rss" text="Rodiaki (Rhodes)" title="Rodiaki" xmlUrl="https://www.rodiaki.gr/rss" htmlUrl="https://www.rodiaki.gr"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="CultureNow" title="CultureNow" xmlUrl="https://www.culturenow.gr/feed" htmlUrl="https://www.culturenow.gr"/>
+            <outline type="rss" text="E-Radio Culture" title="E-Radio" xmlUrl="https://www.e-radio.gr/rss/culture.xml" htmlUrl="https://www.e-radio.gr"/>
+            <outline type="rss" text="MadamFigaro" title="MadamFigaro" xmlUrl="https://www.madamefigaro.gr/rss" htmlUrl="https://www.madamefigaro.gr"/>
+            <outline type="rss" text="Clickatlife" title="Clickatlife" xmlUrl="https://www.clickatlife.gr/rss" htmlUrl="https://www.clickatlife.gr"/>
+        </outline>
+    </body>
+</opml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Chinese News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (综合新闻)" title="General News">
+            <outline type="rss" text="新华网 (Xinhua)" title="Xinhua" xmlUrl="http://www.news.cn/rss/xinhuanet.xml" htmlUrl="http://www.news.cn"/>
+            <outline type="rss" text="人民网 (People's Daily)" title="People" xmlUrl="http://www.people.com.cn/rss/politics.xml" htmlUrl="http://www.people.com.cn"/>
+            <outline type="rss" text="百度新闻 (Baidu News)" title="Baidu" xmlUrl="http://news.baidu.com/n?cmd=1&amp;class=internews&amp;tn=rss" htmlUrl="http://news.baidu.com"/>
+            <outline type="rss" text="新浪新闻 (Sina)" title="Sina" xmlUrl="http://rss.sina.com.cn/news/allnews/index.xml" htmlUrl="http://news.sina.com.cn"/>
+            <outline type="rss" text="网易新闻 (NetEase)" title="163" xmlUrl="http://news.163.com/special/00011K6L/rss_newstop.xml" htmlUrl="http://news.163.com"/>
+            <outline type="rss" text="腾讯新闻 (Tencent)" title="QQ" xmlUrl="https://news.qq.com/rss.xml" htmlUrl="https://news.qq.com"/>
+            <outline type="rss" text="联合早报 (Zaobao)" title="Zaobao" xmlUrl="https://www.zaobao.com.sg/rss/realtime/china" htmlUrl="https://www.zaobao.com.sg"/>
+            <outline type="rss" text="凤凰网 (IFENG)" title="IFENG" xmlUrl="http://news.ifeng.com/rss/index.xml" htmlUrl="http://www.ifeng.com"/>
+            <outline type="rss" text="南华早报 (SCMP Chinese)" title="SCMP" xmlUrl="https://www.scmp.com/rss/318206/feed.xml" htmlUrl="https://www.scmp.com/chinese"/>
+            <outline type="rss" text="BBC News 中文" title="BBC Chinese" xmlUrl="https://feeds.bbci.co.uk/zhongwen/simp/rss.xml" htmlUrl="https://www.bbc.com/zhongwen"/>
+        </outline>
+
+        <outline text="Business &amp; Finance (财经新闻)" title="Business &amp; Economy">
+            <outline type="rss" text="财新网 (Caixin)" title="Caixin" xmlUrl="http://www.caixin.com/rss/all.xml" htmlUrl="http://www.caixin.com"/>
+            <outline type="rss" text="东方财富网" title="EastMoney" xmlUrl="http://rss.eastmoney.com/news.xml" htmlUrl="http://www.eastmoney.com"/>
+            <outline type="rss" text="华尔街见闻" title="WallStreetCN" xmlUrl="https://wallstreetcn.com/rss" htmlUrl="https://wallstreetcn.com"/>
+            <outline type="rss" text="新浪财经" xmlUrl="http://rss.sina.com.cn/news/china/finance.xml" htmlUrl="http://finance.sina.com.cn"/>
+            <outline type="rss" text="和讯网" xmlUrl="http://rss.hexun.com/market.xml" htmlUrl="http://www.hexun.com"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (科技新闻)" title="Technology &amp; Science">
+            <outline type="rss" text="36氪 (36Kr)" title="36Kr" xmlUrl="https://36kr.com/feed" htmlUrl="https://36kr.com"/>
+            <outline type="rss" text="爱范儿 (ifanr)" title="ifanr" xmlUrl="https://www.ifanr.com/feed" htmlUrl="https://www.ifanr.com"/>
+            <outline type="rss" text="cnBeta.com" title="cnBeta" xmlUrl="https://www.cnbeta.com/backend.php" htmlUrl="https://www.cnbeta.com"/>
+            <outline type="rss" text="少数派 (sspai)" title="sspai" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
+            <outline type="rss" text="威锋网 (Feng)" title="Feng" xmlUrl="https://www.feng.com/rss" htmlUrl="https://www.feng.com"/>
+            <outline type="rss" text="果壳网 (Guokr)" title="Guokr" xmlUrl="https://www.guokr.com/rss/" htmlUrl="https://www.guokr.com"/>
+            <outline type="rss" text="虎嗅网" title="Huxiu" xmlUrl="https://www.huxiu.com/rss/0.xml" htmlUrl="https://www.huxiu.com"/>
+        </outline>
+
+        <outline text="Sports (体育)" title="Sports">
+            <outline type="rss" text="新浪体育" xmlUrl="http://rss.sina.com.cn/sports/global/index.xml" htmlUrl="http://sports.sina.com.cn"/>
+            <outline type="rss" text="网易体育" xmlUrl="http://sports.163.com/special/00051K7V/rss_sports.xml" htmlUrl="http://sports.163.com"/>
+            <outline type="rss" text="搜狐体育" xmlUrl="http://it.sohu.com/rss/sports.xml" htmlUrl="http://sports.sohu.com"/>
+            <outline type="rss" text="虎扑体育 (Hupu)" xmlUrl="https://voice.hupu.com/rss" htmlUrl="https://www.hupu.com"/>
+        </outline>
+
+        <outline text="Regional News (地方新闻)" title="Regional News">
+            <outline type="rss" text="南方网 (Guangdong)" xmlUrl="http://www.southcn.com/rss/gd.xml" htmlUrl="http://www.southcn.com"/>
+            <outline type="rss" text="新民网 (Shanghai)" xmlUrl="http://news.xinmin.cn/rss/index.xml" htmlUrl="http://www.xinmin.cn"/>
+            <outline type="rss" text="大公网 (Hong Kong)" xmlUrl="http://www.takungpao.com/rss/index.xml" htmlUrl="http://www.takungpao.com"/>
+            <outline type="rss" text="中时新闻网 (Taiwan)" xmlUrl="https://www.chinatimes.com/rss/realtimenews.xml" htmlUrl="https://www.chinatimes.com"/>
+            <outline type="rss" text="ETtoday (Taiwan)" xmlUrl="https://feeds.feedburner.com/ettoday/realtime" htmlUrl="https://www.ettoday.net"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Entertainment (生活与娱乐)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="豆瓣最热话题" title="Douban" xmlUrl="https://www.douban.com/feed/explore/topic" htmlUrl="https://www.douban.com"/>
+            <outline type="rss" text="知乎精选" title="Zhihu" xmlUrl="https://www.zhihu.com/rss" htmlUrl="https://www.zhihu.com"/>
+            <outline type="rss" text="时尚网 (Trends)" xmlUrl="http://www.trends.com.cn/rss/fashion.xml" htmlUrl="http://www.trends.com.cn"/>
+            <outline type="rss" text="时光网 (Mtime)" xmlUrl="http://news.mtime.com/rss/" htmlUrl="http://www.mtime.com"/>
+        </outline>
+    </body>
+</opml>

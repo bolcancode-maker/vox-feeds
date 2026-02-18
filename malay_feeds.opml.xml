@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Malay News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Berita Utama)" title="General News">
+            <outline type="rss" text="Berita Harian" title="BHarian" xmlUrl="https://www.bharian.com.my/berita.xml" htmlUrl="https://www.bharian.com.my"/>
+            <outline type="rss" text="Harian Metro" title="HMetro" xmlUrl="https://www.hmetro.com.my/utama.xml" htmlUrl="https://www.hmetro.com.my"/>
+            <outline type="rss" text="Utusan Malaysia" title="Utusan" xmlUrl="https://www.utusan.com.my/feed/" htmlUrl="https://www.utusan.com.my"/>
+            <outline type="rss" text="Sinar Harian" title="Sinar Harian" xmlUrl="https://www.sinarharian.com.my/rss/terkini" htmlUrl="https://www.sinarharian.com.my"/>
+            <outline type="rss" text="Bernama - Berita Am" title="Bernama" xmlUrl="https://www.bernama.com/bm/rss/news.php" htmlUrl="https://www.bernama.com/bm/"/>
+            <outline type="rss" text="Kosmo!" title="Kosmo" xmlUrl="https://www.kosmo.com.my/feed/" htmlUrl="https://www.kosmo.com.my"/>
+            <outline type="rss" text="Astro Awani" title="Awani" xmlUrl="https://www.astroawani.com/rss/berita-utama" htmlUrl="https://www.astroawani.com"/>
+            <outline type="rss" text="Malaysiakini (Bahasa)" title="Malaysiakini" xmlUrl="https://www.malaysiakini.com/rss/my/news.rss" htmlUrl="https://www.malaysiakini.com/bm"/>
+            <outline type="rss" text="Free Malaysia Today (FMT)" title="FMT" xmlUrl="https://www.freemalaysiatoday.com/category/bahasa/feed/" htmlUrl="https://www.freemalaysiatoday.com/category/bahasa/"/>
+            <outline type="rss" text="Malaysia Gazette" title="MG" xmlUrl="https://malaysiagazette.com/category/berita/feed/" htmlUrl="https://malaysiagazette.com"/>
+            <outline type="rss" text="The Malaysian Insight (Bahasa)" title="TMI" xmlUrl="https://www.themalaysianinsight.com/bahasa/feed" htmlUrl="https://www.themalaysianinsight.com/bm"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Ekonomi &amp; Bisnes)" title="Business &amp; Economy">
+            <outline type="rss" text="Berita Harian - Bisnes" xmlUrl="https://www.bharian.com.my/bisnes.xml" htmlUrl="https://www.bharian.com.my/bisnes"/>
+            <outline type="rss" text="Dagang News" xmlUrl="https://www.dagangnews.com/feed" htmlUrl="https://www.dagangnews.com"/>
+            <outline type="rss" text="Bernama - Ekonomi" xmlUrl="https://www.bernama.com/bm/rss/news.php?cat=ek" htmlUrl="https://www.bernama.com/bm/ekonomi"/>
+            <outline type="rss" text="Utusan - Ekonomi" xmlUrl="https://www.utusan.com.my/ekonomi/feed/" htmlUrl="https://www.utusan.com.my/ekonomi"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Teknologi)" title="Technology &amp; Science">
+            <outline type="rss" text="Amanz" title="Amanz" xmlUrl="https://amanz.my/feed/" htmlUrl="https://amanz.my"/>
+            <outline type="rss" text="Wiser.my" title="Wiser" xmlUrl="https://wiser.my/feed/" htmlUrl="https://wiser.my"/>
+            <outline type="rss" text="SoyaCincau (Bahasa)" title="SoyaCincau" xmlUrl="https://bm.soyacincau.com/feed/" htmlUrl="https://bm.soyacincau.com"/>
+            <outline type="rss" text="TechNave (Bahasa)" title="TechNave" xmlUrl="https://bm.technave.com/feed/" htmlUrl="https://bm.technave.com"/>
+        </outline>
+
+        <outline text="Sports (Sukan)" title="Sports">
+            <outline type="rss" text="Berita Harian - Sukan" xmlUrl="https://www.bharian.com.my/sukan.xml" htmlUrl="https://www.bharian.com.my/sukan"/>
+            <outline type="rss" text="Harian Metro - Arena" xmlUrl="https://www.hmetro.com.my/arena.xml" htmlUrl="https://www.hmetro.com.my/arena"/>
+            <outline type="rss" text="Stadium Astro" xmlUrl="https://www.stadiumastro.com/rss/sukan" htmlUrl="https://www.stadiumastro.com"/>
+            <outline type="rss" text="Sukan Star" xmlUrl="https://sukanstar.com/feed/" htmlUrl="https://sukanstar.com"/>
+            <outline type="rss" text="Semuanya BOLA" xmlUrl="https://semuanyabola.com/feed/" htmlUrl="https://semuanyabola.com"/>
+        </outline>
+
+        <outline text="Regional News (Berita Wilayah)" title="Regional News">
+            <outline type="rss" text="Berita Harian - Wilayah" xmlUrl="https://www.bharian.com.my/berita/wilayah.xml" htmlUrl="https://www.bharian.com.my/berita/wilayah"/>
+            <outline type="rss" text="Sinar Harian - Edisi Utara" xmlUrl="https://www.sinarharian.com.my/rss/edisi/utara" htmlUrl="https://www.sinarharian.com.my/edisi/utara"/>
+            <outline type="rss" text="Sinar Harian - Edisi Tengah" xmlUrl="https://www.sinarharian.com.my/rss/edisi/tengah" htmlUrl="https://www.sinarharian.com.my/edisi/tengah"/>
+            <outline type="rss" text="Sinar Harian - Edisi Selatan" xmlUrl="https://www.sinarharian.com.my/rss/edisi/selatan" htmlUrl="https://www.sinarharian.com.my/edisi/selatan"/>
+            <outline type="rss" text="Sarawak Voice" xmlUrl="https://sarawakvoice.com/feed/" htmlUrl="https://sarawakvoice.com"/>
+            <outline type="rss" text="Sabah Media" xmlUrl="https://sabahmedia.com/feed/" htmlUrl="https://sabahmedia.com"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Entertainment (Hiburan &amp; Gaya Hidup)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Gempak" xmlUrl="https://gempak.com/rss/artikel" htmlUrl="https://gempak.com"/>
+            <outline type="rss" text="Murai.my" xmlUrl="https://murai.my/feed/" htmlUrl="https://murai.my"/>
+            <outline type="rss" text="BeautifulNara" xmlUrl="https://beautifulnara.com/feed/" htmlUrl="https://beautifulnara.com"/>
+            <outline type="rss" text="OHBULAN!" xmlUrl="https://ohbulan.com/feed/" htmlUrl="https://ohbulan.com"/>
+            <outline type="rss" text="VOCKET" xmlUrl="https://www.thevocket.com/feed/" htmlUrl="https://www.thevocket.com"/>
+        </outline>
+    </body>
+</opml>

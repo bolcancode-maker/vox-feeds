@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Estonian News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="ERR Uudised" xmlUrl="https://www.err.ee/rss" htmlUrl="https://www.err.ee"/>
+            <outline type="rss" text="Postimees" xmlUrl="https://www.postimees.ee/rss" htmlUrl="https://www.postimees.ee"/>
+            <outline type="rss" text="Delfi" xmlUrl="https://www.delfi.ee/rss" htmlUrl="https://www.delfi.ee"/>
+            <outline type="rss" text="Õhtuleht" xmlUrl="https://www.ohtuleht.ee/rss" htmlUrl="https://www.ohtuleht.ee"/>
+            <outline type="rss" text="Äripäev" xmlUrl="https://www.aripaev.ee/rss" htmlUrl="https://www.aripaev.ee"/>
+        </outline>
+        <outline text="Technology" title="Technology">
+            <outline type="rss" text="Geenius.ee" xmlUrl="https://geenius.ee/feed/" htmlUrl="https://geenius.ee"/>
+            <outline type="rss" text="Digitark" xmlUrl="https://digitark.ee/feed/" htmlUrl="https://digitark.ee"/>
+        </outline>
+        <outline text="Regional" title="Regional">
+            <outline type="rss" text="Tartu Postimees" xmlUrl="https://tartu.postimees.ee/rss" htmlUrl="https://tartu.postimees.ee"/>
+            <outline type="rss" text="Pärnu Postimees" xmlUrl="https://parnu.postimees.ee/rss" htmlUrl="https://parnu.postimees.ee"/>
+        </outline>
+    </body>
+</opml>

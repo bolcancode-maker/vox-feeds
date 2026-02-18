@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Korean News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (주요 뉴스)" title="General News">
+            <outline type="rss" text="Yonhap News (연합뉴스)" title="Yonhap" xmlUrl="https://www.yonhapnewstv.co.kr/browse/feed/" htmlUrl="https://www.yonhapnewstv.co.kr"/>
+            <outline type="rss" text="KBS News (KBS 뉴스)" title="KBS" xmlUrl="https://news.kbs.co.kr/rss/news.xml" htmlUrl="https://news.kbs.co.kr"/>
+            <outline type="rss" text="MBC News (MBC 뉴스)" title="MBC" xmlUrl="https://imnews.imbc.com/rss/news/news_00.xml" htmlUrl="https://imnews.imbc.com"/>
+            <outline type="rss" text="SBS News (SBS 뉴스)" title="SBS" xmlUrl="https://news.sbs.co.kr/news/rss/news.xml" htmlUrl="https://news.sbs.co.kr"/>
+            <outline type="rss" text="YTN News" title="YTN" xmlUrl="https://www.ytn.co.kr/_ln/rss/rss_all.xml" htmlUrl="https://www.ytn.co.kr"/>
+            <outline type="rss" text="Chosun Ilbo (조선일보)" title="Chosun" xmlUrl="https://www.chosun.com/arc/outboundfeeds/rss/category/all/" htmlUrl="https://www.chosun.com"/>
+            <outline type="rss" text="JoongAng Ilbo (중앙일보)" title="JoongAng" xmlUrl="https://rss.joins.com/joins_news_list.xml" htmlUrl="https://www.joongang.co.kr"/>
+            <outline type="rss" text="Dong-A Ilbo (동아일보)" title="Dong-A" xmlUrl="https://rss.donga.com/total.xml" htmlUrl="https://www.donga.com"/>
+            <outline type="rss" text="Hankyoreh (한겨레)" title="Hankyoreh" xmlUrl="https://www.hani.co.kr/rss/" htmlUrl="https://www.hani.co.kr"/>
+            <outline type="rss" text="Kyunghyang Shinmun (경향신문)" title="Kyunghyang" xmlUrl="https://www.khan.co.kr/rss/rssdata/total_news.xml" htmlUrl="https://www.khan.co.kr"/>
+            <outline type="rss" text="Maeil Business (매일경제)" title="Maeil Biz" xmlUrl="https://www.mk.co.kr/rss/30000001/" htmlUrl="https://www.mk.co.kr"/>
+            <outline type="rss" text="Korea Economic Daily (한국경제)" title="Hankyung" xmlUrl="https://rss.hankyung.com/feed/all.xml" htmlUrl="https://www.hankyung.com"/>
+        </outline>
+
+        <outline text="English News from Korea" title="English News">
+            <outline type="rss" text="The Korea Herald" title="Korea Herald" xmlUrl="https://www.koreaherald.com/common/rss.php?category=1" htmlUrl="https://www.koreaherald.com"/>
+            <outline type="rss" text="The Korea Times" title="Korea Times" xmlUrl="https://www.koreatimes.co.kr/www/rss/rss.xml" htmlUrl="https://www.koreatimes.co.kr"/>
+            <outline type="rss" text="Arirang News" title="Arirang" xmlUrl="https://www.arirang.com/v1/rss/news.xml" htmlUrl="https://www.arirang.com"/>
+            <outline type="rss" text="Yonhap News English" title="Yonhap English" xmlUrl="https://en.yna.co.kr/RSS/index" htmlUrl="https://en.yna.co.kr"/>
+            <outline type="rss" text="JoongAng Daily English" title="Korea JoongAng Daily" xmlUrl="https://koreajoongangdaily.joins.com/rss/news" htmlUrl="https://koreajoongangdaily.joins.com"/>
+        </outline>
+
+        <outline text="Technology &amp; IT (IT/과학)" title="Technology">
+            <outline type="rss" text="Bloter" title="Bloter" xmlUrl="https://www.bloter.net/rss" htmlUrl="https://www.bloter.net"/>
+            <outline type="rss" text="ZDNet Korea" title="ZDNet KR" xmlUrl="https://zdnet.co.kr/rss/all.xml" htmlUrl="https://zdnet.co.kr"/>
+            <outline type="rss" text="Electronic Times (전자신문)" title="ETNews" xmlUrl="https://www.etnews.com/rss/etnews_all.xml" htmlUrl="https://www.etnews.com"/>
+            <outline type="rss" text="ITWorld Korea" title="ITWorld" xmlUrl="https://www.itworld.co.kr/rss/news" htmlUrl="https://www.itworld.co.kr"/>
+            <outline type="rss" text="CIO Korea" title="CIO" xmlUrl="https://www.ciokorea.com/rss/news" htmlUrl="https://www.ciokorea.com"/>
+            <outline type="rss" text="Science Times" title="Science Times" xmlUrl="https://www.sciencetimes.co.kr/feed/" htmlUrl="https://www.sciencetimes.co.kr"/>
+        </outline>
+
+        <outline text="Sports &amp; Entertainment (연예/스포츠)" title="Sports &amp; Ent">
+            <outline type="rss" text="OSEN" title="OSEN" xmlUrl="https://osen.mt.co.kr/rss/total" htmlUrl="https://osen.mt.co.kr"/>
+            <outline type="rss" text="Sports Chosun" title="Sports Chosun" xmlUrl="https://sports.chosun.com/rss/news.xml" htmlUrl="https://sports.chosun.com"/>
+            <outline type="rss" text="Star News" title="Star News" xmlUrl="https://star.mt.co.kr/rss/star_total.xml" htmlUrl="https://star.mt.co.kr"/>
+            <outline type="rss" text="JoyNews24" title="JoyNews24" xmlUrl="https://www.joynews24.com/rss/news" htmlUrl="https://www.joynews24.com"/>
+            <outline type="rss" text="Xports News" title="Xports News" xmlUrl="https://www.xportsnews.com/rss/all.xml" htmlUrl="https://www.xportsnews.com"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Economy (생활/경제)" title="Lifestyle">
+            <outline type="rss" text="Herald Biz" title="Herald Biz" xmlUrl="http://biz.heraldcorp.com/common/rss.php" htmlUrl="http://biz.heraldcorp.com"/>
+            <outline type="rss" text="Money Today" title="Money Today" xmlUrl="https://news.mt.co.kr/rss/mt_all.xml" htmlUrl="https://news.mt.co.kr"/>
+            <outline type="rss" text="E-Daily" title="E-Daily" xmlUrl="https://www.edaily.co.kr/rss/edaily.xml" htmlUrl="https://www.edaily.co.kr"/>
+        </outline>
+    </body>
+</opml>

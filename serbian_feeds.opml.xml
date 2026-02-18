@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Serbian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Vesti)" title="General News">
+            <outline type="rss" text="B92 - Najnovije vesti" title="B92" xmlUrl="https://www.b92.net/info/rss/vesti.xml" htmlUrl="https://www.b92.net"/>
+            <outline type="rss" text="RTS - Najnovije" title="RTS" xmlUrl="https://www.rts.rs/rss/najnovije.html" htmlUrl="https://www.rts.rs"/>
+            <outline type="rss" text="Blic - Vesti" title="Blic" xmlUrl="https://www.blic.rs/rss/danasnje-vesti" htmlUrl="https://www.blic.rs"/>
+            <outline type="rss" text="Kurir - Vesti" title="Kurir" xmlUrl="https://www.kurir.rs/rss/vesti" htmlUrl="https://www.kurir.rs"/>
+            <outline type="rss" text="Večernje Novosti" title="Novosti" xmlUrl="https://www.novosti.rs/rss" htmlUrl="https://www.novosti.rs"/>
+            <outline type="rss" text="Politika" title="Politika" xmlUrl="https://www.politika.rs/rss/" htmlUrl="https://www.politika.rs"/>
+            <outline type="rss" text="Danas - Najnovije" title="Danas" xmlUrl="https://www.danas.rs/feed/" htmlUrl="https://www.danas.rs"/>
+            <outline type="rss" text="N1 Srbija" title="N1" xmlUrl="https://n1info.rs/feed/" htmlUrl="https://n1info.rs"/>
+            <outline type="rss" text="Nova.rs" title="Nova" xmlUrl="https://nova.rs/feed/" htmlUrl="https://nova.rs"/>
+            <outline type="rss" text="Telegraf - Vesti" title="Telegraf" xmlUrl="https://www.telegraf.rs/rss/vesti" htmlUrl="https://www.telegraf.rs"/>
+            <outline type="rss" text="021.rs (Novi Sad)" title="021" xmlUrl="https://www.021.rs/rss.xml" htmlUrl="https://www.021.rs"/>
+            <outline type="rss" text="Mondo" title="Mondo" xmlUrl="https://mondo.rs/rss/all" htmlUrl="https://mondo.rs"/>
+            <outline type="rss" text="Vreme" title="Vreme" xmlUrl="https://www.vreme.com/feed/" htmlUrl="https://www.vreme.com"/>
+            <outline type="rss" text="Beta News Agency" title="Beta" xmlUrl="https://beta.rs/rss" htmlUrl="https://beta.rs"/>
+            <outline type="rss" text="Belgrade Insight (English)" title="BI EN" xmlUrl="https://birn.eu.com/feed/" htmlUrl="https://birn.eu.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Biznis i Ekonomija)" title="Business &amp; Economy">
+            <outline type="rss" text="Biznis.rs" title="Biznis" xmlUrl="https://biznis.rs/feed/" htmlUrl="https://biznis.rs"/>
+            <outline type="rss" text="Kamatica" title="Kamatica" xmlUrl="https://www.kamatica.com/rss" htmlUrl="https://www.kamatica.com"/>
+            <outline type="rss" text="eKapija" title="eKapija" xmlUrl="https://www.ekapija.com/rss" htmlUrl="https://www.ekapija.com"/>
+            <outline type="rss" text="B92 - Biz" xmlUrl="https://www.b92.net/info/rss/biz.xml" htmlUrl="https://www.b92.net/biz/"/>
+            <outline type="rss" text="Nova Ekonomija" title="Nova Ekonomija" xmlUrl="https://novaekonomija.rs/feed" htmlUrl="https://novaekonomija.rs"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Tehnologija)" title="Technology &amp; Science">
+            <outline type="rss" text="Benchmark.rs" title="Benchmark" xmlUrl="https://www.benchmark.rs/feed/" htmlUrl="https://www.benchmark.rs"/>
+            <outline type="rss" text="Netokracija Srbija" title="Netokracija" xmlUrl="https://www.netokracija.rs/feed/" htmlUrl="https://www.netokracija.rs"/>
+            <outline type="rss" text="PC Press" title="PC Press" xmlUrl="https://pcpress.rs/feed/" htmlUrl="https://pcpress.rs"/>
+            <outline type="rss" text="B92 - Tehnopolis" xmlUrl="https://www.b92.net/info/rss/tehnopolis.xml" htmlUrl="https://www.b92.net/tehnopolis/"/>
+            <outline type="rss" text="Startit" title="Startit" xmlUrl="https://startit.rs/feed/" htmlUrl="https://startit.rs"/>
+        </outline>
+
+        <outline text="Sports (Sport)" title="Sports">
+            <outline type="rss" text="Mozzart Sport" title="Mozzart" xmlUrl="https://www.mozzartsport.com/rss" htmlUrl="https://www.mozzartsport.com"/>
+            <outline type="rss" text="Sportske.net" title="Sportske" xmlUrl="https://sportske.net/rss" htmlUrl="https://sportske.net"/>
+            <outline type="rss" text="HotSport" title="HotSport" xmlUrl="https://hotsport.rs/feed/" htmlUrl="https://hotsport.rs"/>
+            <outline type="rss" text="Sportski žurnal" title="Žurnal" xmlUrl="https://www.zurnal.rs/rss" htmlUrl="https://www.zurnal.rs"/>
+            <outline type="rss" text="Sportklub Srbija" title="Sportklub" xmlUrl="https://sportklub.n1info.rs/feed/" htmlUrl="https://sportklub.n1info.rs"/>
+        </outline>
+
+        <outline text="Regional News (Regionalne Vesti)" title="Regional News">
+            <outline type="rss" text="Južne Vesti (Niš)" title="Južne Vesti" xmlUrl="https://www.juznevesti.com/rss.xml" htmlUrl="https://www.juznevesti.com"/>
+            <outline type="rss" text="RTV (Vojvodina)" title="RTV" xmlUrl="https://rtv.rs/rss/sr_lat/vojvodina" htmlUrl="https://rtv.rs"/>
+            <outline type="rss" text="Subotica.com" title="Subotica" xmlUrl="https://www.subotica.com/rss/vesti/" htmlUrl="https://www.subotica.com"/>
+            <outline type="rss" text="Kragujevačke novine" title="Kragujevac" xmlUrl="https://kragujevacke.rs/feed/" htmlUrl="https://kragujevacke.rs"/>
+            <outline type="rss" text="Morava Info (Čačak)" title="Morava" xmlUrl="https://moravainfo.rs/feed/" htmlUrl="https://moravainfo.rs"/>
+            <outline type="rss" text="Vranje News" title="Vranje" xmlUrl="https://vranjenews.rs/feed/" htmlUrl="https://vranjenews.rs"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Kultura i Zabava)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="City Magazine" title="City Mag" xmlUrl="https://citymagazine.danas.rs/feed/" htmlUrl="https://citymagazine.danas.rs"/>
+            <outline type="rss" text="Seecult" title="Seecult" xmlUrl="https://www.seecult.org/rss.xml" htmlUrl="https://www.seecult.org"/>
+            <outline type="rss" text="Elle Srbija" xmlUrl="https://elle.rs/rss" htmlUrl="https://elle.rs"/>
+            <outline type="rss" text="Wannabe Magazine" xmlUrl="https://wannabemagazine.com/feed/" htmlUrl="https://wannabemagazine.com"/>
+        </outline>
+    </body>
+</opml>

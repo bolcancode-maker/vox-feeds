@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>French News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="Le Monde" title="Le Monde" xmlUrl="https://www.lemonde.fr/rss/une.xml" htmlUrl="https://www.lemonde.fr"/>
+            <outline type="rss" text="Le Figaro" title="Le Figaro" xmlUrl="https://www.lefigaro.fr/rss/figaro_actualites.xml" htmlUrl="https://www.lefigaro.fr"/>
+            <outline type="rss" text="Libération" title="Libération" xmlUrl="https://www.liberation.fr/arc/outboundfeeds/rss-une/collection/accueil-une/?outputType=xml" htmlUrl="https://www.liberation.fr"/> [24]
+            <outline type="rss" text="France 24" title="France 24" xmlUrl="https://www.france24.com/fr/rss" htmlUrl="https://www.france24.com/fr/"/>
+            <outline type="rss" text="France Info" title="France Info" xmlUrl="https://www.francetvinfo.fr/titres.rss" htmlUrl="https://www.francetvinfo.fr"/> [12]
+            <outline type="rss" text="20 Minutes" title="20 Minutes" xmlUrl="https://www.20minutes.fr/rss/une.xml" htmlUrl="https://www.20minutes.fr"/>
+            <outline type="rss" text="La Croix" title="La Croix" xmlUrl="https://www.la-croix.com/RSS/univers" htmlUrl="https://www.la-croix.com"/> [2]
+            <outline type="rss" text="RFI" title="RFI" xmlUrl="https://www.rfi.fr/fr/rss" htmlUrl="https://www.rfi.fr/fr/"/>
+        </outline>
+        <outline text="Business &amp; Economy" title="Business &amp; Economy">
+            <outline type="rss" text="Les Echos" title="Les Echos" xmlUrl="https://www.lesechos.fr/rss/rss_une.xml" htmlUrl="https://www.lesechos.fr"/>
+            <outline type="rss" text="La Tribune" title="La Tribune" xmlUrl="https://www.latribune.fr/feed.xml" htmlUrl="https://www.latribune.fr"/>
+            <outline type="rss" text="Capital.fr" title="Capital.fr" xmlUrl="https://www.capital.fr/rss" htmlUrl="https://www.capital.fr"/>
+            <outline type="rss" text="Le Monde - Économie" title="Le Monde - Économie" xmlUrl="https://www.lemonde.fr/economie/rss_full.xml" htmlUrl="https://www.lemonde.fr/economie/"/>
+        </outline>
+        <outline text="Technology &amp; Science" title="Technology &amp; Science">
+            <outline type="rss" text="01net" title="01net" xmlUrl="https://www.01net.com/actualites/feed/" htmlUrl="https://www.01net.com"/>
+            <outline type="rss" text="Le Monde Informatique" title="Le Monde Informatique" xmlUrl="https://www.lemondeinformatique.fr/flux-rss/thematique/all/rss.xml" htmlUrl="https://www.lemondeinformatique.fr"/> [28]
+            <outline type="rss" text="Numerama" title="Numerama" xmlUrl="https://www.numerama.com/feed/" htmlUrl="https://www.numerama.com"/>
+            <outline type="rss" text="Journal du Geek" title="Journal du Geek" xmlUrl="https://www.journaldugeek.com/feed/" htmlUrl="https://www.journaldugeek.com"/>
+            <outline type="rss" text="Le Monde - Pixels" title="Le Monde - Pixels" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml" htmlUrl="https://www.lemonde.fr/pixels/"/>
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="L'Équipe" title="L'Équipe" xmlUrl="https://www.lequipe.fr/rss/actu_rss.xml" htmlUrl="https://www.lequipe.fr"/>
+            <outline type="rss" text="Eurosport" title="Eurosport" xmlUrl="https://www.eurosport.fr/rss.xml" htmlUrl="https://www.eurosport.fr"/>
+            <outline type="rss" text="RMC Sport" title="RMC Sport" xmlUrl="https://rmcsport.bfmtv.com/rss/fil-sport/" htmlUrl="https://rmcsport.bfmtv.com"/>
+        </outline>
+        <outline text="Lifestyle &amp; Culture" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Le Figaro - Culture" title="Le Figaro - Culture" xmlUrl="https://www.lefigaro.fr/rss/figaro_culture.xml" htmlUrl="https://www.lefigaro.fr/culture"/>
+            <outline type="rss" text="Télérama" title="Télérama" xmlUrl="https://www.telerama.fr/rss" htmlUrl="https://www.telerama.fr"/>
+        </outline>
+    </body>
+</opml>

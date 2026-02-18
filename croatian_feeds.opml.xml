@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Croatian News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="Večernji list" title="Večernji list" xmlUrl="https://www.vecernji.hr/rss" htmlUrl="https://www.vecernji.hr"/>
+            <outline type="rss" text="Jutarnji list" title="Jutarnji list" xmlUrl="https://www.jutarnji.hr/rss" htmlUrl="https://www.jutarnji.hr"/>
+            <outline type="rss" text="Index.hr" title="Index.hr" xmlUrl="https://www.index.hr/rss" htmlUrl="https://www.index.hr"/>
+            <outline type="rss" text="24sata" title="24sata" xmlUrl="https://www.24sata.hr/feeds/aktualno.xml" htmlUrl="https://www.24sata.hr"/>
+            <outline type="rss" text="Tportal" title="Tportal" xmlUrl="https://www.tportal.hr/rss" htmlUrl="https://www.tportal.hr"/>
+            <outline type="rss" text="Hina" title="Hina" xmlUrl="https://www.hina.hr/rss" htmlUrl="https://www.hina.hr"/>
+            <outline type="rss" text="Slobodna Dalmacija" title="Slobodna Dalmacija" xmlUrl="https://slobodnadalmacija.hr/rss" htmlUrl="https://slobodnadalmacija.hr"/>
+            <outline type="rss" text="Novi list" title="Novi list" xmlUrl="https://www.novilist.hr/feed/" htmlUrl="https://www.novilist.hr"/>
+            <outline type="rss" text="Net.hr" title="Net.hr" xmlUrl="https://net.hr/feed/" htmlUrl="https://net.hr"/>
+        </outline>
+        <outline text="Business" title="Business">
+            <outline type="rss" text="Poslovni dnevnik" title="Poslovni" xmlUrl="https://www.poslovni.hr/feed" htmlUrl="https://www.poslovni.hr"/>
+            <outline type="rss" text="Lider Media" title="Lider" xmlUrl="https://lidermedia.hr/feed" htmlUrl="https://lidermedia.hr"/>
+        </outline>
+        <outline text="Technology" title="Technology">
+            <outline type="rss" text="Bug.hr" title="Bug" xmlUrl="https://www.bug.hr/rss" htmlUrl="https://www.bug.hr"/>
+            <outline type="rss" text="Zimo" title="Zimo" xmlUrl="https://zimo.dnevnik.hr/rss" htmlUrl="https://zimo.dnevnik.hr"/>
+            <outline type="rss" text="ICT Business" title="ICT Business" xmlUrl="https://www.ictbusiness.info/rss" htmlUrl="https://www.ictbusiness.info"/>
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="Sportske novosti" title="Sportske novosti" xmlUrl="https://sportske.jutarnji.hr/rss" htmlUrl="https://sportske.jutarnji.hr"/>
+            <outline type="rss" text="Sportnet" title="Sportnet" xmlUrl="https://sportnet.hr/rss" htmlUrl="https://sportnet.hr"/>
+        </outline>
+    </body>
+</opml>

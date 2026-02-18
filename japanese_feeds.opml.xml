@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Japanese News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (総合ニュース)" title="General News">
+            <outline type="rss" text="NHK News" title="NHK" xmlUrl="https://www.nhk.or.jp/rss/news/cat0.xml" htmlUrl="https://www.nhk.or.jp/news/"/>
+            <outline type="rss" text="Kyodo News" title="Kyodo News" xmlUrl="https://www.kyodonews.jp/rss/kyodo-news-major.xml" htmlUrl="https://www.kyodonews.jp/"/>
+            <outline type="rss" text="The Asahi Shimbun (朝日新聞)" title="Asahi Shimbun" xmlUrl="https://www.asahi.com/rss/asahi/newsheadlines.rdf" htmlUrl="https://www.asahi.com"/>
+            <outline type="rss" text="The Yomiuri Shimbun (読売新聞)" title="Yomiuri Shimbun" xmlUrl="https://www.yomiuri.co.jp/rss/yol/top" htmlUrl="https://www.yomiuri.co.jp"/>
+            <outline type="rss" text="Mainichi Shimbun (毎日新聞)" title="Mainichi Shimbun" xmlUrl="https://mainichi.jp/rss/etc/mainichi-flash.rss" htmlUrl="https://mainichi.jp"/>
+            <outline type="rss" text="Nikkei (日本経済新聞)" title="Nikkei" xmlUrl="https://www.nikkei.com/rss/index.rdf" htmlUrl="https://www.nikkei.com"/>
+            <outline type="rss" text="Jiji Press (時事通信)" title="Jiji Press" xmlUrl="https://www.jiji.com/rss/ranking.xml" htmlUrl="https://www.jiji.com/"/>
+            <outline type="rss" text="Sankei News (産経ニュース)" title="Sankei News" xmlUrl="https://www.sankei.com/main/feed/" htmlUrl="https://www.sankei.com"/>
+            <outline type="rss" text="HuffPost Japan" title="HuffPost Japan" xmlUrl="https://www.huffingtonpost.jp/feeds/index.xml" htmlUrl="https://www.huffingtonpost.jp/"/>
+            <outline type="rss" text="Livedoor News" title="Livedoor News" xmlUrl="http://news.livedoor.com/topics/rss/top.xml" htmlUrl="https://news.livedoor.com/"/>
+        </outline>
+
+        <outline text="English News from Japan" title="English News from Japan">
+            <outline type="rss" text="The Japan Times" title="The Japan Times" xmlUrl="https://www.japantimes.co.jp/feed" htmlUrl="https://www.japantimes.co.jp"/>
+            <outline type="rss" text="Kyodo News English" title="Kyodo News English" xmlUrl="https://english.kyodonews.net/rss/all.xml" htmlUrl="https://english.kyodonews.net/"/>
+            <outline type="rss" text="Nikkei Asia" title="Nikkei Asia" xmlUrl="https://asia.nikkei.com/rss/feed/nar" htmlUrl="https://asia.nikkei.com/"/>
+            <outline type="rss" text="Japan Today" title="Japan Today" xmlUrl="https://japantoday.com/feed/atom" htmlUrl="https://japantoday.com"/>
+            <outline type="rss" text="NHK World-Japan" title="NHK World" xmlUrl="https://www.nhk.or.jp/nhkworld/en/news/news_letter/index.xml" htmlUrl="https://www3.nhk.or.jp/nhkworld/en/news/"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (経済)" title="Business &amp; Economy">
+            <outline type="rss" text="Nikkei Business" title="Nikkei Business" xmlUrl="https://business.nikkei.com/rss/nb/nb.rdf" htmlUrl="https://business.nikkei.com/"/>
+            <outline type="rss" text="Toyo Keizai Online (東洋経済)" title="Toyo Keizai" xmlUrl="https://toyokeizai.net/list/feed/rss" htmlUrl="https://toyokeizai.net/"/>
+            <outline type="rss" text="Diamond Online (ダイヤモンド)" title="Diamond Online" xmlUrl="https://diamond.jp/rss/feed.rdf" htmlUrl="https://diamond.jp/"/>
+            <outline type="rss" text="Bloomberg Japan" title="Bloomberg Japan" xmlUrl="https://www.bloomberg.co.jp/feed/blog/index.xml" htmlUrl="https://www.bloomberg.co.jp/"/>
+            <outline type="rss" text="Reuters Japan" title="Reuters Japan" xmlUrl="https://jp.reuters.com/tools/rss" htmlUrl="https://jp.reuters.com/"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (テクノロジー・科学)" title="Technology &amp; Science">
+            <outline type="rss" text="ITmedia News" title="ITmedia" xmlUrl="https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml" htmlUrl="https://www.itmedia.co.jp/news/"/>
+            <outline type="rss" text="ASCII.jp" title="ASCII" xmlUrl="https://ascii.jp/rss.xml" htmlUrl="https://ascii.jp/"/>
+            <outline type="rss" text="Impress Watch" title="Impress Watch" xmlUrl="https://www.watch.impress.co.jp/headline/rss/release.rdf" htmlUrl="https://www.watch.impress.co.jp/"/>
+            <outline type="rss" text="Gigazine" title="Gigazine" xmlUrl="https://gigazine.net/news/rss_2.0/" htmlUrl="https://gigazine.net/"/>
+            <outline type="rss" text="Engadget Japan" title="Engadget Japan" xmlUrl="https://japanese.engadget.com/rss.xml" htmlUrl="https://japanese.engadget.com/"/>
+            <outline type="rss" text="MyNavi News - Tech" title="MyNavi Tech" xmlUrl="https://news.mynavi.jp/rss/tech" htmlUrl="https://news.mynavi.jp/tech/"/>
+            <outline type="rss" text="CNET Japan" title="CNET Japan" xmlUrl="https://japan.cnet.com/rss/index.rdf" htmlUrl="https://japan.cnet.com/"/>
+        </outline>
+
+        <outline text="Sports (スポーツ)" title="Sports">
+            <outline type="rss" text="Nikkan Sports (日刊スポーツ)" title="Nikkan Sports" xmlUrl="https://www.nikkansports.com/rss/baseball-mlb.rdf" htmlUrl="https://www.nikkansports.com/"/>
+            <outline type="rss" text="Sports Hochi (スポーツ報知)" title="Sports Hochi" xmlUrl="https://hochi.news/rss/baseball/index.xml" htmlUrl="https://hochi.news/"/>
+            <outline type="rss" text="Sponichi Annex (スポニチ)" title="Sponichi" xmlUrl="https://www.sponichi.co.jp/baseball/rss/central.xml" htmlUrl="https://www.sponichi.co.jp/"/>
+            <outline type="rss" text="Number Web" title="Number Web" xmlUrl="https://number.bunshun.jp/rss.xml" htmlUrl="https://number.bunshun.jp/"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (ライフスタイル・文化)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Fashion Press" title="Fashion Press" xmlUrl="https://www.fashion-press.net/rss" htmlUrl="https://www.fashion-press.net/"/>
+            <outline type="rss" text="Oricon News" title="Oricon" xmlUrl="https://www.oricon.co.jp/rss/scripts/pcnews_rss.xml" htmlUrl="https://www.oricon.co.jp/news/"/>
+            <outline type="rss" text="Anime News Network" title="ANN" xmlUrl="https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us" htmlUrl="https://www.animenewsnetwork.com/"/>
+            <outline type="rss" text="Famitsu (ファミ通)" title="Famitsu" xmlUrl="https://www.famitsu.com/rss/fcom_all.rdf" htmlUrl="https://www.famitsu.com/"/>
+            <outline type="rss" text="4Gamer.net" title="4Gamer" xmlUrl="https://www.4gamer.net/rss/index.xml" htmlUrl="https://www.4gamer.net/"/>
+        </outline>
+    </body>
+</opml>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Ukrainian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Головні новини)" title="General News">
+            <outline type="rss" text="Укрінформ" title="Ukrinform" xmlUrl="https://www.ukrinform.ua/block-lastnews" htmlUrl="https://www.ukrinform.ua"/>
+            <outline type="rss" text="Українська правда" title="UP" xmlUrl="https://www.pravda.com.ua/rss/" htmlUrl="https://www.pravda.com.ua"/>
+            <outline type="rss" text="РБК-Україна" title="RBC UA" xmlUrl="https://www.rbc.ua/static/rss/newsline.ukr.xml" htmlUrl="https://www.rbc.ua"/>
+            <outline type="rss" text="Кореспондент.net" title="Korrespondent" xmlUrl="https://ua.korrespondent.net/rss/all.xml" htmlUrl="https://ua.korrespondent.net"/>
+            <outline type="rss" text="УНІАН" title="UNIAN" xmlUrl="https://rss.unian.net/site/news_ukr.rss" htmlUrl="https://www.unian.ua"/>
+            <outline type="rss" text="ТСН (TSN.ua)" title="TSN" xmlUrl="https://tsn.ua/rss/full.rss" htmlUrl="https://tsn.ua"/>
+            <outline type="rss" text="NV (Новое Время)" title="NV" xmlUrl="https://nv.ua/ukr/rss/all.xml" htmlUrl="https://nv.ua"/>
+            <outline type="rss" text="Цензор.НЕТ" title="Censor" xmlUrl="https://censor.net/includes/news_uk.xml" htmlUrl="https://censor.net"/>
+            <outline type="rss" text="Інтерфакс-Україна" title="Interfax" xmlUrl="https://ua.interfax.com.ua/rss/last.xml" htmlUrl="https://ua.interfax.com.ua"/>
+            <outline type="rss" text="Zaxid.net" title="Zaxid" xmlUrl="https://zaxid.net/rss/all.xml" htmlUrl="https://zaxid.net"/>
+            <outline type="rss" text="Дзеркало тижня (ZN.ua)" title="ZN" xmlUrl="https://zn.ua/rss/full.xml" htmlUrl="https://zn.ua"/>
+            <outline type="rss" text="Kyiv Post (English)" title="Kyiv Post" xmlUrl="https://www.kyivpost.com/feed" htmlUrl="https://www.kyivpost.com"/>
+            <outline type="rss" text="The Kyiv Independent (English)" title="TKI" xmlUrl="https://kyivindependent.com/feed/" htmlUrl="https://kyivindependent.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Бізнес та Економіка)" title="Business &amp; Economy">
+            <outline type="rss" text="Економічна правда" xmlUrl="https://www.epravda.com.ua/rss/" htmlUrl="https://www.epravda.com.ua"/>
+            <outline type="rss" text="Finance.ua" xmlUrl="https://news.finance.ua/ua/rss" htmlUrl="https://finance.ua"/>
+            <outline type="rss" text="Ліга.Бізнес" xmlUrl="https://biz.liga.net/ua/rss/all/index.xml" htmlUrl="https://biz.liga.net"/>
+            <outline type="rss" text="Мінфін" xmlUrl="https://minfin.com.ua/rss/news/" htmlUrl="https://minfin.com.ua"/>
+            <outline type="rss" text="Forbes Ukraine" xmlUrl="https://forbes.ua/feed" htmlUrl="https://forbes.ua"/>
+        </outline>
+
+        <outline text="Technology &amp; IT (Технології)" title="Technology &amp; Science">
+            <outline type="rss" text="ITC.ua" title="ITC" xmlUrl="https://itc.ua/feed/" htmlUrl="https://itc.ua"/>
+            <outline type="rss" text="DOU.ua" title="DOU" xmlUrl="https://dou.ua/feed/" htmlUrl="https://dou.ua"/>
+            <outline type="rss" text="Mezha.Media" title="Mezha" xmlUrl="https://mezha.media/feed/" htmlUrl="https://mezha.media"/>
+            <outline type="rss" text="Root Nation" xmlUrl="https://root-nation.com/ua/feed/" htmlUrl="https://root-nation.com/ua/"/>
+            <outline type="rss" text="Gagadget.com" xmlUrl="https://gagadget.com/uk/rss/" htmlUrl="https://gagadget.com"/>
+            <outline type="rss" text="AIN.ua" xmlUrl="https://ain.ua/feed/" htmlUrl="https://ain.ua"/>
+        </outline>
+
+        <outline text="Sports (Спорт)" title="Sports">
+            <outline type="rss" text="Sport.ua" xmlUrl="https://sport.ua/rss/all" htmlUrl="https://sport.ua"/>
+            <outline type="rss" text="Tribuna.com" xmlUrl="https://ua.tribuna.com/rss/all/" htmlUrl="https://ua.tribuna.com"/>
+            <outline type="rss" text="Football.ua" xmlUrl="https://football.ua/rss/news.xml" htmlUrl="https://football.ua"/>
+            <outline type="rss" text="Terrikon" xmlUrl="https://terrikon.com/rss/ukr-all.xml" htmlUrl="https://terrikon.com"/>
+        </outline>
+
+        <outline text="Regional News (Регіональні новини)" title="Regional News">
+            <outline type="rss" text="Київ - Вечірній Київ" xmlUrl="https://vechirniy.kyiv.ua/rss" htmlUrl="https://vechirniy.kyiv.ua"/>
+            <outline type="rss" text="Харків - Об'єктив" xmlUrl="https://www.objectiv.tv/feed/" htmlUrl="https://www.objectiv.tv"/>
+            <outline type="rss" text="Львів - Твоє Місто" xmlUrl="https://tvoemisto.tv/rss/all.xml" htmlUrl="https://tvoemisto.tv"/>
+            <outline type="rss" text="Одеса - Думська" xmlUrl="https://dumskaya.net/rss/" htmlUrl="https://dumskaya.net"/>
+            <outline type="rss" text="Дніпро - Informator" xmlUrl="https://dp.informator.ua/feed/" htmlUrl="https://dp.informator.ua"/>
+            <outline type="rss" text="Запоріжжя - 061.ua" xmlUrl="https://www.061.ua/rss" htmlUrl="https://www.061.ua"/>
+            <outline type="rss" text="Миколаїв - Преступности.НЕТ" xmlUrl="https://news.pn/uk/rss" htmlUrl="https://news.pn"/>
+            <outline type="rss" text="Вінниця - 20 хвилин" xmlUrl="https://vn.20minut.ua/rss" htmlUrl="https://vn.20minut.ua"/>
+            <outline type="rss" text="Полтава - Полтавщина" xmlUrl="https://poltava.to/rss/all/" htmlUrl="https://poltava.to"/>
+            <outline type="rss" text="Чернігів - Чeline" xmlUrl="https://cheline.com.ua/feed" htmlUrl="https://cheline.com.ua"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Культура та Життя)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Vogue Ukraine" xmlUrl="https://vogue.ua/uk/rss" htmlUrl="https://vogue.ua"/>
+            <outline type="rss" text="Elle Ukraine" xmlUrl="https://elle.ua/rss" htmlUrl="https://elle.ua"/>
+            <outline type="rss" text="DTF Magazine" xmlUrl="https://donttakefake.com/feed/" htmlUrl="https://donttakefake.com"/>
+            <outline type="rss" text="Liroom (Музика)" xmlUrl="https://liroom.com.ua/feed/" htmlUrl="https://liroom.com.ua"/>
+        </outline>
+    </body>
+</opml>

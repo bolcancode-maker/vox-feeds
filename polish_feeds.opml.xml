@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Polish News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Wiadomości)" title="General News">
+            <outline type="rss" text="Onet.pl - Wiadomości" title="Onet" xmlUrl="https://wiadomosci.onet.pl/.feed" htmlUrl="https://wiadomosci.onet.pl"/>
+            <outline type="rss" text="WP.pl - Wiadomości" title="WP" xmlUrl="https://wiadomosci.wp.pl/rss.xml" htmlUrl="https://wiadomosci.wp.pl"/>
+            <outline type="rss" text="Interia.pl - Fakty" title="Interia" xmlUrl="https://fakty.interia.pl/feed" htmlUrl="https://fakty.interia.pl"/>
+            <outline type="rss" text="TVN24 - Najnowsze" title="TVN24" xmlUrl="https://tvn24.pl/najnowsze.xml" htmlUrl="https://tvn24.pl"/>
+            <outline type="rss" text="Rzeczpospolita" title="Rzeczpospolita" xmlUrl="https://www.rp.pl/rss" htmlUrl="https://www.rp.pl"/>
+            <outline type="rss" text="Gazeta Wyborcza" title="Wyborcza" xmlUrl="https://wyborcza.pl/pub/rss/najnowsze.xml" htmlUrl="https://wyborcza.pl"/>
+            <outline type="rss" text="Gazeta.pl" title="Gazeta.pl" xmlUrl="https://wiadomosci.gazeta.pl/pub/rss/wiadomosci.xml" htmlUrl="https://www.gazeta.pl"/>
+            <outline type="rss" text="Polska Agencja Prasowa (PAP)" title="PAP" xmlUrl="https://www.pap.pl/rss" htmlUrl="https://www.pap.pl"/>
+            <outline type="rss" text="Dziennik.pl" title="Dziennik" xmlUrl="https://wiadomosci.dziennik.pl/rss.xml" htmlUrl="https://wiadomosci.dziennik.pl"/>
+            <outline type="rss" text="Wprost" title="Wprost" xmlUrl="https://www.wprost.pl/rss" htmlUrl="https://www.wprost.pl"/>
+            <outline type="rss" text="Do Rzeczy" title="Do Rzeczy" xmlUrl="https://dorzeczy.pl/feed" htmlUrl="https://dorzeczy.pl"/>
+            <outline type="rss" text="Polskie Radio" title="Polskie Radio" xmlUrl="https://www.polskieradio.pl/stati/rss/1.xml" htmlUrl="https://www.polskieradio.pl"/>
+            <outline type="rss" text="Notes from Poland (English)" title="NfP" xmlUrl="https://notesfrompoland.com/feed/" htmlUrl="https://notesfrompoland.com"/>
+            <outline type="rss" text="The First News (English)" title="TFN" xmlUrl="https://www.thefirstnews.com/rss" htmlUrl="https://www.thefirstnews.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Biznes i Gospodarka)" title="Business &amp; Economy">
+            <outline type="rss" text="Money.pl" xmlUrl="https://www.money.pl/rss/glowna.xml" htmlUrl="https://www.money.pl"/>
+            <outline type="rss" text="Bankier.pl" xmlUrl="https://www.bankier.pl/rss/wiadomosci.xml" htmlUrl="https://www.bankier.pl"/>
+            <outline type="rss" text="Business Insider Polska" xmlUrl="https://businessinsider.com.pl/.feed" htmlUrl="https://businessinsider.com.pl"/>
+            <outline type="rss" text="Forsal.pl" xmlUrl="https://forsal.pl/rss.xml" htmlUrl="https://forsal.pl"/>
+            <outline type="rss" text="Puls Biznesu" xmlUrl="https://www.pb.pl/rss" htmlUrl="https://www.pb.pl"/>
+            <outline type="rss" text="WNP.pl" xmlUrl="https://www.wnp.pl/rss/" htmlUrl="https://www.wnp.pl"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Technologia i Nauka)" title="Technology &amp; Science">
+            <outline type="rss" text="Dobreprogramy" xmlUrl="https://www.dobreprogramy.pl/rss.xml" htmlUrl="https://www.dobreprogramy.pl"/>
+            <outline type="rss" text="Antyweb" xmlUrl="https://antyweb.pl/feed" htmlUrl="https://antyweb.pl"/>
+            <outline type="rss" text="Spider's Web" xmlUrl="https://spidersweb.pl/feed" htmlUrl="https://spidersweb.pl"/>
+            <outline type="rss" text="PurePC" xmlUrl="https://www.purepc.pl/rss.xml" htmlUrl="https://www.purepc.pl"/>
+            <outline type="rss" text="Komputer Świat" xmlUrl="https://www.komputerswiat.pl/.feed" htmlUrl="https://www.komputerswiat.pl"/>
+            <outline type="rss" text="Benchmark.pl" xmlUrl="https://www.benchmark.pl/rss" htmlUrl="https://www.benchmark.pl"/>
+            <outline type="rss" text="Elektroda.pl" xmlUrl="https://www.elektroda.pl/rss.php" htmlUrl="https://www.elektroda.pl"/>
+            <outline type="rss" text="Nauka w Polsce" xmlUrl="https://naukawpolsce.pap.pl/rss" htmlUrl="https://naukawpolsce.pap.pl"/>
+        </outline>
+
+        <outline text="Sports (Sport)" title="Sports">
+            <outline type="rss" text="Przegląd Sportowy" xmlUrl="https://przegladsportowy.onet.pl/.feed" htmlUrl="https://przegladsportowy.onet.pl"/>
+            <outline type="rss" text="Sport.pl" xmlUrl="https://www.sport.pl/pub/rss/sport.xml" htmlUrl="https://www.sport.pl"/>
+            <outline type="rss" text="WP SportoweFakty" xmlUrl="https://sportowefakty.wp.pl/rss.xml" htmlUrl="https://sportowefakty.wp.pl"/>
+            <outline type="rss" text="Meczyki.pl" xmlUrl="https://www.meczyki.pl/rss" htmlUrl="https://www.meczyki.pl"/>
+            <outline type="rss" text="TVP Sport" xmlUrl="https://sport.tvp.pl/rss" htmlUrl="https://sport.tvp.pl"/>
+        </outline>
+
+        <outline text="Regional News (Wiadomości Regionalne)" title="Regional News">
+            <outline type="rss" text="Gazeta Wrocławska" xmlUrl="https://gazetawroclawska.pl/rss/" htmlUrl="https://gazetawroclawska.pl"/>
+            <outline type="rss" text="Gazeta Krakowska" xmlUrl="https://gazetakrakowska.pl/rss/" htmlUrl="https://gazetakrakowska.pl"/>
+            <outline type="rss" text="Głos Wielkopolski (Poznań)" xmlUrl="https://gloswielkopolski.pl/rss/" htmlUrl="https://gloswielkopolski.pl"/>
+            <outline type="rss" text="Dziennik Bałtycki (Gdańsk)" xmlUrl="https://dziennikbaltycki.pl/rss/" htmlUrl="https://dziennikbaltycki.pl"/>
+            <outline type="rss" text="Dziennik Zachodni (Katowice)" xmlUrl="https://dziennikzachodni.pl/rss/" htmlUrl="https://dziennikzachodni.pl"/>
+            <outline type="rss" text="Dziennik Łódzki" xmlUrl="https://dzienniklodzki.pl/rss/" htmlUrl="https://dzienniklodzki.pl"/>
+            <outline type="rss" text="Kurier Lubelski" xmlUrl="https://kurierlubelski.pl/rss/" htmlUrl="https://kurierlubelski.pl"/>
+            <outline type="rss" text="Express Ilustrowany" xmlUrl="https://expressilustrowany.pl/rss/" htmlUrl="https://expressilustrowany.pl"/>
+            <outline type="rss" text="Gazeta Lubuska" xmlUrl="https://gazetalubuska.pl/rss/" htmlUrl="https://gazetalubuska.pl"/>
+            <outline type="rss" text="Gazeta Pomorska" xmlUrl="https://pomorska.pl/rss/" htmlUrl="https://pomorska.pl"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Kultura i Rozrywka)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Plejada" xmlUrl="https://plejada.pl/.feed" htmlUrl="https://plejada.pl"/>
+            <outline type="rss" text="Kultura Liberalna" xmlUrl="https://kulturaliberalna.pl/feed/" htmlUrl="https://kulturaliberalna.pl"/>
+            <outline type="rss" text="Filmweb" xmlUrl="https://www.filmweb.pl/feed" htmlUrl="https://www.filmweb.pl"/>
+            <outline type="rss" text="Pudelek" xmlUrl="https://www.pudelek.pl/rss.xml" htmlUrl="https://www.pudelek.pl"/>
+        </outline>
+    </body>
+</opml>

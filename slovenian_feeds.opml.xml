@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
+    <head>
+        <title>Slovenian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Splošne novice)" title="General News">
+            <outline type="rss" text="RTV Slovenija - Najnovejše" title="RTV SLO" xmlUrl="https://www.rtvslo.si/feed/novice" htmlUrl="https://www.rtvslo.si"/>
+            <outline type="rss" text="24ur.com - Naslovnica" title="24ur" xmlUrl="https://www.24ur.com/rss" htmlUrl="https://www.24ur.com"/>
+            <outline type="rss" text="Delo - Naslovnica" title="Delo" xmlUrl="https://www.delo.si/rss/" htmlUrl="https://www.delo.si"/>
+            <outline type="rss" text="Siol.net - Novice" title="Siol" xmlUrl="https://siol.net/rss/novice" htmlUrl="https://siol.net"/>
+            <outline type="rss" text="Dnevnik - Novice" title="Dnevnik" xmlUrl="https://www.dnevnik.si/rss" htmlUrl="https://www.dnevnik.si"/>
+            <outline type="rss" text="Večer - Naslovnica" title="Večer" xmlUrl="https://www.vecer.com/rss" htmlUrl="https://www.vecer.com"/>
+            <outline type="rss" text="Slovenske novice" title="Slovenske novice" xmlUrl="https://www.slovenskenovice.si/rss/" htmlUrl="https://www.slovenskenovice.si"/>
+            <outline type="rss" text="STA - Angleški servis" title="STA EN" xmlUrl="https://english.sta.si/rss" htmlUrl="https://english.sta.si"/>
+            <outline type="rss" text="Žurnal24" title="Žurnal24" xmlUrl="https://www.zurnal24.si/rss" htmlUrl="https://www.zurnal24.si"/>
+            <outline type="rss" text="N1 Slovenija" title="N1" xmlUrl="https://n1info.si/feed/" htmlUrl="https://n1info.si"/>
+            <outline type="rss" text="Svet24" title="Svet24" xmlUrl="https://svet24.si/rss" htmlUrl="https://svet24.si"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Gospodarstvo)" title="Business &amp; Economy">
+            <outline type="rss" text="Finance.si" title="Finance" xmlUrl="https://www.finance.si/rss" htmlUrl="https://www.finance.si"/>
+            <outline type="rss" text="RTV SLO - Gospodarstvo" xmlUrl="https://www.rtvslo.si/feed/gospodarstvo" htmlUrl="https://www.rtvslo.si/gospodarstvo"/>
+            <outline type="rss" text="Delo - Gospodarstvo" xmlUrl="https://www.delo.si/rss/gospodarstvo" htmlUrl="https://www.delo.si/gospodarstvo"/>
+            <outline type="rss" text="Siol - Posel danes" xmlUrl="https://siol.net/rss/posel-danes" htmlUrl="https://siol.net/posel-danes"/>
+            <outline type="rss" text="Izvoznik.si" xmlUrl="https://www.izvoznik.si/rss" htmlUrl="https://www.izvoznik.si"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Tehnologija)" title="Technology &amp; Science">
+            <outline type="rss" text="Monitor" title="Monitor" xmlUrl="https://www.monitor.si/rss" htmlUrl="https://www.monitor.si"/>
+            <outline type="rss" text="Slo-Tech" title="Slo-Tech" xmlUrl="https://slo-tech.com/rss/" htmlUrl="https://slo-tech.com"/>
+            <outline type="rss" text="Računalniške novice" title="RN" xmlUrl="https://racunalniske-novice.com/feed/" htmlUrl="https://racunalniske-novice.com"/>
+            <outline type="rss" text="Siol - Digisvet" xmlUrl="https://siol.net/rss/digisvet" htmlUrl="https://siol.net/digisvet"/>
+            <outline type="rss" text="RTV SLO - Znanost" xmlUrl="https://www.rtvslo.si/feed/znanost-in-tehnologija" htmlUrl="https://www.rtvslo.si/znanost-in-tehnologija"/>
+        </outline>
+
+        <outline text="Sports (Šport)" title="Sports">
+            <outline type="rss" text="Ekipa24" title="Ekipa" xmlUrl="https://ekipa.svet24.si/rss" htmlUrl="https://ekipa.svet24.si"/>
+            <outline type="rss" text="RTV SLO - Šport" xmlUrl="https://www.rtvslo.si/feed/sport" htmlUrl="https://www.rtvslo.si/sport"/>
+            <outline type="rss" text="Siol - Sportal" xmlUrl="https://siol.net/rss/sportal" htmlUrl="https://siol.net/sportal"/>
+            <outline type="rss" text="Nogomania" title="Nogomania" xmlUrl="https://www.nogomania.com/rss" htmlUrl="https://www.nogomania.com"/>
+            <outline type="rss" text="Sportklub SLO" title="Sportklub" xmlUrl="https://sportklub.n1info.si/feed/" htmlUrl="https://sportklub.n1info.si"/>
+        </outline>
+
+        <outline text="Regional News (Lokalne novice)" title="Regional News">
+            <outline type="rss" text="Ljubljana.si" title="Ljubljana" xmlUrl="https://www.ljubljana.si/sl/aktualno/novice/rss" htmlUrl="https://www.ljubljana.si"/>
+            <outline type="rss" text="Maribor24" title="Maribor" xmlUrl="https://maribor24.si/feed" htmlUrl="https://maribor24.si"/>
+            <outline type="rss" text="Primorske novice" title="Primorska" xmlUrl="https://www.primorske.si/rss" htmlUrl="https://www.primorske.si"/>
+            <outline type="rss" text="Dolenjski list" title="Dolenjska" xmlUrl="https://www.dolenjskilist.si/rss" htmlUrl="https://www.dolenjskilist.si"/>
+            <outline type="rss" text="Pomurec.com" title="Pomurje" xmlUrl="https://www.pomurec.com/rss" htmlUrl="https://www.pomurec.com"/>
+            <outline type="rss" text="Gorenjski glas" title="Gorenjska" xmlUrl="https://www.gorenjskiglas.si/rss" htmlUrl="https://www.gorenjskiglas.si"/>
+            <outline type="rss" text="Štajerski tednik" title="Štajerska" xmlUrl="https://www.tednik.si/rss" htmlUrl="https://www.tednik.si"/>
+            <outline type="rss" text="Koroške novice" title="Koroška" xmlUrl="https://www.koroskenovice.si/feed/" htmlUrl="https://www.koroskenovice.si"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Kultura и Prost čas)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="RTV SLO - Kultura" xmlUrl="https://www.rtvslo.si/feed/kultura" htmlUrl="https://www.rtvslo.si/kultura"/>
+            <outline type="rss" text="City Magazine" title="City Mag" xmlUrl="https://citymagazine.si/feed/" htmlUrl="https://citymagazine.si"/>
+            <outline type="rss" text="Elle Slovenija" xmlUrl="https://elle.metropolitan.si/rss" htmlUrl="https://elle.metropolitan.si"/>
+            <outline type="rss" text="Metropolitan" xmlUrl="https://www.metropolitan.si/rss" htmlUrl="https://www.metropolitan.si"/>
+            <outline type="rss" text="Cosmopolitan SLO" xmlUrl="https://cosmopolitan.metropolitan.si/rss" htmlUrl="https://cosmopolitan.metropolitan.si"/>
+        </outline>
+    </body>
+</opml>

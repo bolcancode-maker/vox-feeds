@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Icelandic News Feeds - Full Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Aðalfréttir)" title="General News">
+            <outline type="rss" text="RÚV - Allar fréttir" title="RÚV" xmlUrl="https://www.ruv.is/rss/frettir" htmlUrl="https://www.ruv.is"/>
+            <outline type="rss" text="Morgunblaðið (mbl.is)" title="Mbl.is" xmlUrl="https://www.mbl.is/feeds/latest/" htmlUrl="https://www.mbl.is"/>
+            <outline type="rss" text="Vísir.is - Allt" title="Vísir" xmlUrl="https://www.visir.is/rss/allt" htmlUrl="https://www.visir.is"/>
+            <outline type="rss" text="Kjarninn" title="Kjarninn" xmlUrl="https://kjarninn.is/feed/" htmlUrl="https://kjarninn.is"/>
+            <outline type="rss" text="Stundin" title="Stundin" xmlUrl="https://stundin.is/feed/" htmlUrl="https://stundin.is"/>
+            <outline type="rss" text="Bæjarins Besta" title="BB.is" xmlUrl="https://www.bb.is/feed/" htmlUrl="https://www.bb.is"/>
+            <outline type="rss" text="DV" title="DV" xmlUrl="https://www.dv.is/feed/" htmlUrl="https://www.dv.is"/>
+            <outline type="rss" text="Hringbraut" title="Hringbraut" xmlUrl="https://www.hringbraut.is/feed/" htmlUrl="https://www.hringbraut.is"/>
+            <outline type="rss" text="Viljinn" title="Viljinn" xmlUrl="https://viljinn.is/feed/" htmlUrl="https://viljinn.is"/>
+        </outline>
+
+        <outline text="English News from Iceland" title="English News">
+            <outline type="rss" text="Reykjavík Grapevine" title="Grapevine" xmlUrl="https://grapevine.is/feed/" htmlUrl="https://grapevine.is"/>
+            <outline type="rss" text="Iceland Review" title="Iceland Review" xmlUrl="https://www.icelandreview.com/feed/" htmlUrl="https://www.icelandreview.com"/>
+            <outline type="rss" text="RÚV English" title="RÚV English" xmlUrl="https://www.ruv.is/rss/english" htmlUrl="https://www.ruv.is/english"/>
+            <outline type="rss" text="Iceland Monitor" title="Monitor" xmlUrl="https://icelandmonitor.mbl.is/feeds/latest/" htmlUrl="https://icelandmonitor.mbl.is"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Viðskipti)" title="Business &amp; Economy">
+            <outline type="rss" text="Viðskiptablaðið" title="VB.is" xmlUrl="https://www.vb.is/rss/" htmlUrl="https://www.vb.is"/>
+            <outline type="rss" text="Vísir - Viðskipti" title="Vísir Viðskipti" xmlUrl="https://www.visir.is/rss/vidskipti" htmlUrl="https://www.visir.is/vidskipti"/>
+            <outline type="rss" text="Mbl.is - Viðskipti" title="Mbl Viðskipti" xmlUrl="https://www.mbl.is/feeds/vidskipti/" htmlUrl="https://www.mbl.is/vidskipti/"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Tækni)" title="Technology &amp; Science">
+            <outline type="rss" text="Tæknifrjettir" title="Tæknifrjettir" xmlUrl="https://taeknifrjettir.is/feed/" htmlUrl="https://taeknifrjettir.is"/>
+            <outline type="rss" text="Vísir - Tækni" title="Vísir Tækni" xmlUrl="https://www.visir.is/rss/taekni" htmlUrl="https://www.visir.is/taekni"/>
+            <outline type="rss" text="RÚV - Vísindi" title="RÚV Vísindi" xmlUrl="https://www.ruv.is/rss/visindi" htmlUrl="https://www.ruv.is/visindi"/>
+        </outline>
+
+        <outline text="Sports (Íþróttir)" title="Sports">
+            <outline type="rss" text="Fótbolti.net" title="Fótbolti.net" xmlUrl="https://fotbolti.net/rss.xml" htmlUrl="https://fotbolti.net"/>
+            <outline type="rss" text="Vísir - Íþróttir" title="Vísir Sport" xmlUrl="https://www.visir.is/rss/ithrottir" htmlUrl="https://www.visir.is/ithrottir"/>
+            <outline type="rss" text="Mbl.is - Íþróttir" title="Mbl Sport" xmlUrl="https://www.mbl.is/feeds/ithrottir/" htmlUrl="https://www.mbl.is/sport/"/>
+            <outline type="rss" text="Karfan.is" title="Karfan" xmlUrl="https://www.karfan.is/feed/" htmlUrl="https://www.karfan.is"/>
+        </outline>
+
+        <outline text="Regional News (Landsbyggðin)" title="Regional News">
+            <outline type="rss" text="Víkurfréttir (Suðurnes)" title="VF.is" xmlUrl="https://www.vf.is/feed/" htmlUrl="https://www.vf.is"/>
+            <outline type="rss" text="Skessuhorn (Vesturland)" title="Skessuhorn" xmlUrl="https://skessuhorn.is/feed/" htmlUrl="https://skessuhorn.is"/>
+            <outline type="rss" text="Feykir (Norðurland vestra)" title="Feykir" xmlUrl="https://www.feykir.is/feed/" htmlUrl="https://www.feykir.is"/>
+            <outline type="rss" text="Austurfrétt (Austurland)" title="Austurfrétt" xmlUrl="https://www.austurfrett.is/feed/" htmlUrl="https://www.austurfrett.is"/>
+            <outline type="rss" text="Sunnlenska (Suðurland)" title="Sunnlenska" xmlUrl="https://www.sunnlenska.is/feed/" htmlUrl="https://www.sunnlenska.is"/>
+            <outline type="rss" text="Akureyri.net" title="Akureyri.net" xmlUrl="https://akureyri.net/feed/" htmlUrl="https://akureyri.net"/>
+        </outline>
+    </body>
+</opml>

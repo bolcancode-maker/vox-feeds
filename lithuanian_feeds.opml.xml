@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Lithuanian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Pagrindinės naujienos)" title="General News">
+            <outline type="rss" text="Delfi.lt" title="Delfi" xmlUrl="https://www.delfi.lt/rss/feeds/lithuania.xml" htmlUrl="https://www.delfi.lt"/>
+            <outline type="rss" text="15min.lt" title="15min" xmlUrl="https://www.15min.lt/rss" htmlUrl="https://www.15min.lt"/>
+            <outline type="rss" text="LRT.lt - Naujienos" title="LRT" xmlUrl="https://www.lrt.lt/statiniai/rss/lrt.xml" htmlUrl="https://www.lrt.lt"/>
+            <outline type="rss" text="Lrytas.lt" title="Lrytas" xmlUrl="https://www.lrytas.lt/rss/" htmlUrl="https://www.lrytas.lt"/>
+            <outline type="rss" text="TV3.lt" title="TV3" xmlUrl="https://www.tv3.lt/rss" htmlUrl="https://www.tv3.lt"/>
+            <outline type="rss" text="Alfa.lt" title="Alfa" xmlUrl="https://www.alfa.lt/rss/" htmlUrl="https://www.alfa.lt"/>
+            <outline type="rss" text="Bernardinai.lt" title="Bernardinai" xmlUrl="https://www.bernardinai.lt/feed/" htmlUrl="https://www.bernardinai.lt"/>
+            <outline type="rss" text="Respublika.lt" title="Respublika" xmlUrl="https://www.respublika.lt/rss/" htmlUrl="https://www.respublika.lt"/>
+            <outline type="rss" text="Kauno diena" title="Kauno diena" xmlUrl="https://kauno.diena.lt/rss" htmlUrl="https://kauno.diena.lt"/>
+            <outline type="rss" text="Klaipėda" title="Klaipėda" xmlUrl="https://klaipeda.diena.lt/rss" htmlUrl="https://klaipeda.diena.lt"/>
+            <outline type="rss" text="Vakarų ekspresas" title="VE.lt" xmlUrl="https://ve.lt/rss" htmlUrl="https://ve.lt"/>
+        </outline>
+
+        <outline text="English News from Lithuania" title="English News">
+            <outline type="rss" text="LRT English" title="LRT EN" xmlUrl="https://www.lrt.lt/en/statiniai/rss/lrt.xml" htmlUrl="https://www.lrt.lt/en/"/>
+            <outline type="rss" text="Delfi English" title="Delfi EN" xmlUrl="https://en.delfi.lt/rss/" htmlUrl="https://en.delfi.lt/"/>
+            <outline type="rss" text="Lithuania Tribune" title="LT Tribune" xmlUrl="https://lithuaniatribune.com/feed/" htmlUrl="https://lithuaniatribune.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Verslas ir Ekonomika)" title="Business &amp; Economy">
+            <outline type="rss" text="Verslo žinios" title="VŽ" xmlUrl="https://www.vz.lt/rss" htmlUrl="https://www.vz.lt"/>
+            <outline type="rss" text="Delfi Verslas" title="Delfi Verslas" xmlUrl="https://www.delfi.lt/rss/feeds/business.xml" htmlUrl="https://www.delfi.lt/verslas/"/>
+            <outline type="rss" text="15min Verslas" title="15min Verslas" xmlUrl="https://www.15min.lt/rss/verslas" htmlUrl="https://www.15min.lt/verslas/"/>
+            <outline type="rss" text="LRT Verslas" title="LRT Verslas" xmlUrl="https://www.lrt.lt/statiniai/rss/verslas.xml" htmlUrl="https://www.lrt.lt/naujienos/verslas/"/>
+        </outline>
+
+        <outline text="Technology &amp; IT (Technologijos)" title="Technology &amp; Science">
+            <outline type="rss" text="Technologijos.lt" title="Technologijos" xmlUrl="https://www.technologijos.lt/rss.php" htmlUrl="https://www.technologijos.lt"/>
+            <outline type="rss" text="Delfi Mokslas" title="Delfi Mokslas" xmlUrl="https://www.delfi.lt/rss/feeds/science.xml" htmlUrl="https://www.delfi.lt/mokslas/"/>
+            <outline type="rss" text="Lrytas IT" title="Lrytas IT" xmlUrl="https://www.lrytas.lt/rss/it" htmlUrl="https://www.lrytas.lt/it/"/>
+            <outline type="rss" text="Balsas IT" title="Balsas IT" xmlUrl="https://www.balsas.lt/rss" htmlUrl="https://www.balsas.lt"/>
+        </outline>
+
+        <outline text="Sports (Sportas)" title="Sports">
+            <outline type="rss" text="Delfi Sportas" title="Delfi Sportas" xmlUrl="https://www.delfi.lt/rss/feeds/sport.xml" htmlUrl="https://www.delfi.lt/sportas/"/>
+            <outline type="rss" text="15min Sportas" title="15min Sportas" xmlUrl="https://www.15min.lt/rss/sportas" htmlUrl="https://www.15min.lt/sportas/"/>
+            <outline type="rss" text="Lrytas Sportas" title="Lrytas Sportas" xmlUrl="https://www.lrytas.lt/rss/sportas" htmlUrl="https://www.lrytas.lt/sportas/"/>
+            <outline type="rss" text="Sportas.lt" title="Sportas.lt" xmlUrl="https://www.sportas.lt/rss" htmlUrl="https://www.sportas.lt"/>
+            <outline type="rss" text="Basketnews.lt" title="Basketnews" xmlUrl="https://www.basketnews.lt/rss" htmlUrl="https://www.basketnews.lt"/>
+        </outline>
+
+        <outline text="Regional News (Regionai)" title="Regional News">
+            <outline type="rss" text="Šiaulių kraštas" title="Šiaulių kraštas" xmlUrl="https://www.skrastas.lt/rss" htmlUrl="https://www.skrastas.lt"/>
+            <outline type="rss" text="Panevėžio balsas" title="Panevėžio balsas" xmlUrl="https://naujienos.lt/rss" htmlUrl="https://naujienos.lt"/>
+            <outline type="rss" text="Alytaus gidas" title="Alytaus gidas" xmlUrl="https://alytausgidas.lt/feed/" htmlUrl="https://alytausgidas.lt"/>
+            <outline type="rss" text="Atvira Klaipėda" title="Atvira Klaipėda" xmlUrl="https://www.atviraklaipeda.lt/feed/" htmlUrl="https://www.atviraklaipeda.lt"/>
+        </outline>
+    </body>
+</opml>

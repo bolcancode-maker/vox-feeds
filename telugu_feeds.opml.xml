@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Telugu News Feeds (తెలుగు వార్తలు)</title>
+    </head>
+    <body>
+        <outline text="General News (ప్రధాన వార్తలు)" title="General News">
+            <outline type="rss" text="Eenadu" title="Eenadu" xmlUrl="https://www.eenadu.net/rss/rssfeeds.xml" htmlUrl="https://www.eenadu.net"/>
+            <outline type="rss" text="Sakshi News" title="Sakshi" xmlUrl="https://www.sakshi.com/rss/home.xml" htmlUrl="https://www.sakshi.com"/>
+            <outline type="rss" text="Andhra Jyothy" title="Andhra Jyothy" xmlUrl="https://www.andhrajyothy.com/rss/latest-news" htmlUrl="https://www.andhrajyothy.com"/>
+            <outline type="rss" text="BBC News తెలుగు" title="BBC Telugu" xmlUrl="https://feeds.bbci.co.uk/telugu/rss.xml" htmlUrl="https://www.bbc.com/telugu"/>
+            <outline type="rss" text="Samayam Telugu" title="Samayam" xmlUrl="https://telugu.samayam.com/rssfeedmostrecent.cms" htmlUrl="https://telugu.samayam.com"/>
+            <outline type="rss" text="News18 Telugu" title="News18" xmlUrl="https://telugu.news18.com/rss/news.xml" htmlUrl="https://telugu.news18.com"/>
+            <outline type="rss" text="Oneindia Telugu" title="Oneindia" xmlUrl="https://telugu.oneindia.com/rss/telugu-news-fb.xml" htmlUrl="https://telugu.oneindia.com"/>
+            <outline type="rss" text="Namasthe Telangana" title="Namasthe Telangana" xmlUrl="https://www.ntnews.com/feed" htmlUrl="https://www.ntnews.com"/>
+            <outline type="rss" text="V6 Velugu" title="V6 Velugu" xmlUrl="https://www.v6velugu.com/feed" htmlUrl="https://www.v6velugu.com"/>
+            <outline type="rss" text="Vaartha" title="Vaartha" xmlUrl="https://www.vaartha.com/feed" htmlUrl="https://www.vaartha.com"/>
+            <outline type="rss" text="Zee News Telugu" title="Zee Telugu" xmlUrl="https://zeenews.india.com/telugu/rss.xml" htmlUrl="https://zeenews.india.com/telugu"/>
+            <outline type="rss" text="Prajasakti" title="Prajasakti" xmlUrl="https://www.prajasakti.com/feed" htmlUrl="https://www.prajasakti.com"/>
+            <outline type="rss" text="Asianet News Telugu" title="Asianet" xmlUrl="https://telugu.asianetnews.com/rss" htmlUrl="https://telugu.asianetnews.com"/>
+            <outline type="rss" text="10TV News" title="10TV" xmlUrl="https://10tv.in/feed" htmlUrl="https://10tv.in"/>
+            <outline type="rss" text="TV5 News" title="TV5" xmlUrl="https://www.tv5news.in/feed" htmlUrl="https://www.tv5news.in"/>
+        </outline>
+
+        <outline text="Business &amp; Tech (వ్యాపారం మరియు సాంకేతికత)" title="Business &amp; Tech">
+            <outline type="rss" text="Goodreturns Telugu" xmlUrl="https://telugu.goodreturns.in/rss/telugu-news-fb.xml" htmlUrl="https://telugu.goodreturns.in"/>
+            <outline type="rss" text="Gizbot Telugu" xmlUrl="https://telugu.gizbot.com/rss/telugu-news-fb.xml" htmlUrl="https://telugu.gizbot.com"/>
+            <outline type="rss" text="DriveSpark Telugu" xmlUrl="https://telugu.drivespark.com/rss/telugu-news-fb.xml" htmlUrl="https://telugu.drivespark.com"/>
+            <outline type="rss" text="Eenadu Business" xmlUrl="https://www.eenadu.net/rss/business.xml" htmlUrl="https://www.eenadu.net/business"/>
+        </outline>
+
+        <outline text="Sports (క్రీడలు)" title="Sports">
+            <outline type="rss" text="Eenadu Sports" xmlUrl="https://www.eenadu.net/rss/sports.xml" htmlUrl="https://www.eenadu.net/sports"/>
+            <outline type="rss" text="Sakshi Sports" xmlUrl="https://www.sakshi.com/rss/sports.xml" htmlUrl="https://www.sakshi.com/sports"/>
+            <outline type="rss" text="MyKhel Telugu" xmlUrl="https://telugu.mykhel.com/rss/telugu-news-fb.xml" htmlUrl="https://telugu.mykhel.com"/>
+            <outline type="rss" text="Samayam Sports" xmlUrl="https://telugu.samayam.com/sports/rssfeed.cms" htmlUrl="https://telugu.samayam.com/sports/"/>
+        </outline>
+
+        <outline text="Entertainment &amp; Lifestyle (సినిమా మరియు జీవనశైలి)" title="Entertainment">
+            <outline type="rss" text="Tollywood.net" title="Tollywood.net" xmlUrl="https://www.tollywood.net/feed" htmlUrl="https://www.tollywood.net"/>
+            <outline type="rss" text="Filmibeat Telugu" xmlUrl="https://telugu.filmibeat.com/rss/telugu-news-fb.xml" htmlUrl="https://telugu.filmibeat.com"/>
+            <outline type="rss" text="Gulte" title="Gulte" xmlUrl="https://www.gulte.com/feed" htmlUrl="https://www.gulte.com"/>
+            <outline type="rss" text="GreatAndhra" title="GreatAndhra" xmlUrl="https://www.greatandhra.com/rss.php" htmlUrl="https://www.greatandhra.com"/>
+            <outline type="rss" text="123Telugu" title="123Telugu" xmlUrl="https://www.123telugu.com/feed" htmlUrl="https://www.123telugu.com"/>
+            <outline type="rss" text="Telugu Filmibeat" xmlUrl="https://telugu.filmibeat.com/rss/telugu-cinema-fb.xml" htmlUrl="https://telugu.filmibeat.com/cinema/"/>
+        </outline>
+
+        <outline text="Regional (ప్రాంతీయ వార్తలు)" title="Regional">
+            <outline type="rss" text="Eenadu Andhra Pradesh" xmlUrl="https://www.eenadu.net/rss/andhra-pradesh.xml" htmlUrl="https://www.eenadu.net/andhra-pradesh"/>
+            <outline type="rss" text="Eenadu Telangana" xmlUrl="https://www.eenadu.net/rss/telangana.xml" htmlUrl="https://www.eenadu.net/telangana"/>
+            <outline type="rss" text="Sakshi Districts" xmlUrl="https://www.sakshi.com/rss/districts.xml" htmlUrl="https://www.sakshi.com/districts"/>
+        </outline>
+    </body>
+</opml>

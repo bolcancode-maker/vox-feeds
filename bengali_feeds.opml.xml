@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Bengali News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="Anandabazar Patrika" title="Anandabazar Patrika" xmlUrl="https://www.anandabazar.com/rssfeed" htmlUrl="https://www.anandabazar.com"/>
+            <outline type="rss" text="Bartaman Patrika" title="Bartaman Patrika" xmlUrl="https://bartamanpatrika.com/feed" htmlUrl="https://bartamanpatrika.com"/>
+            <outline type="rss" text="Sangbad Pratidin" title="Sangbad Pratidin" xmlUrl="https://www.sangbadpratidin.in/feed" htmlUrl="https://www.sangbadpratidin.in"/>
+            <outline type="rss" text="BBC News Bengali" title="BBC News Bengali" xmlUrl="https://feeds.bbci.co.uk/bengali/rss.xml" htmlUrl="https://www.bbc.com/bengali"/>
+            <outline type="rss" text="Prothom Alo" title="Prothom Alo" xmlUrl="https://www.prothomalo.com/feed" htmlUrl="https://www.prothomalo.com"/>
+            <outline type="rss" text="Ei Samay" title="Ei Samay" xmlUrl="https://eisamay.com/rssfeedsection/15819618.cms" htmlUrl="https://eisamay.com"/>
+            <outline type="rss" text="Zee News Bangla" title="Zee News Bangla" xmlUrl="https://zeenews.india.com/bengali/rss.xml" htmlUrl="https://zeenews.india.com/bengali"/>
+            <outline type="rss" text="Deutsche Welle Bengali" title="Deutsche Welle Bengali" xmlUrl="https://rss.dw.com/rdf/rss-ben-all" htmlUrl="https://www.dw.com/bn"/>
+            <outline type="rss" text="Kaler Kantho" title="Kaler Kantho" xmlUrl="https://www.kalerkantho.com/rss.xml" htmlUrl="https://www.kalerkantho.com"/>
+            <outline type="rss" text="Jugantor" title="Jugantor" xmlUrl="https://www.jugantor.com/rss.xml" htmlUrl="https://www.jugantor.com"/>
+        </outline>
+        <outline text="Business &amp; Economy" title="Business &amp; Economy">
+            <outline type="rss" text="Anandabazar Business" title="Anandabazar Business" xmlUrl="https://www.anandabazar.com/business/rssfeed" htmlUrl="https://www.anandabazar.com/business"/>
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="Anandabazar Sports" title="Anandabazar Sports" xmlUrl="https://www.anandabazar.com/sport/rssfeed" htmlUrl="https://www.anandabazar.com/sport"/>
+            <outline type="rss" text="Prothom Alo Khela" title="Prothom Alo Khela" xmlUrl="https://www.prothomalo.com/topic/খেলা/feed" htmlUrl="https://www.prothomalo.com/sports"/>
+        </outline>
+    </body>
+</opml>

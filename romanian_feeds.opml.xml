@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Romanian News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (Știri Generale)" title="General News">
+            <outline type="rss" text="HotNews.ro" title="HotNews" xmlUrl="https://www.hotnews.ro/rss" htmlUrl="https://www.hotnews.ro"/>
+            <outline type="rss" text="Digi24 - Ultimele Știri" title="Digi24" xmlUrl="https://www.digi24.ro/rss" htmlUrl="https://www.digi24.ro"/>
+            <outline type="rss" text="Mediafax - Știri de ultimă oră" title="Mediafax" xmlUrl="https://www.mediafax.ro/rss" htmlUrl="https://www.mediafax.ro"/>
+            <outline type="rss" text="Adevărul" title="Adevărul" xmlUrl="https://adevarul.ro/rss/" htmlUrl="https://adevarul.ro"/>
+            <outline type="rss" text="Libertatea" title="Libertatea" xmlUrl="https://www.libertatea.ro/feed" htmlUrl="https://www.libertatea.ro"/>
+            <outline type="rss" text="Stirile ProTV" title="ProTV" xmlUrl="https://stirileprotv.ro/rss" htmlUrl="https://stirileprotv.ro"/>
+            <outline type="rss" text="G4Media" title="G4Media" xmlUrl="https://www.g4media.ro/feed" htmlUrl="https://www.g4media.ro"/>
+            <outline type="rss" text="Antena 3" title="Antena 3" xmlUrl="https://www.antena3.ro/rss" htmlUrl="https://www.antena3.ro"/>
+            <outline type="rss" text="Evenimentul Zilei" title="EVZ" xmlUrl="https://evz.ro/feed" htmlUrl="https://evz.ro"/>
+            <outline type="rss" text="Jurnalul Național" title="Jurnalul" xmlUrl="https://jurnalul.ro/rss" htmlUrl="https://jurnalul.ro"/>
+            <outline type="rss" text="B1 TV" title="B1" xmlUrl="https://www.b1tv.ro/feed" htmlUrl="https://www.b1tv.ro"/>
+            <outline type="rss" text="RFI România" title="RFI" xmlUrl="https://www.rfi.ro/rss" htmlUrl="https://www.rfi.ro"/>
+            <outline type="rss" text="Romania Insider (English)" title="RI EN" xmlUrl="https://www.romania-insider.com/rss" htmlUrl="https://www.romania-insider.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (Business și Economie)" title="Business &amp; Economy">
+            <outline type="rss" text="Ziarul Financiar" title="ZF.ro" xmlUrl="https://www.zf.ro/rss" htmlUrl="https://www.zf.ro"/>
+            <outline type="rss" text="Economica.net" title="Economica" xmlUrl="https://www.economica.net/rss" htmlUrl="https://www.economica.net"/>
+            <outline type="rss" text="Profit.ro" title="Profit.ro" xmlUrl="https://www.profit.ro/rss" htmlUrl="https://www.profit.ro"/>
+            <outline type="rss" text="Wall-Street.ro" title="Wall-Street" xmlUrl="https://www.wall-street.ro/rss" htmlUrl="https://www.wall-street.ro"/>
+            <outline type="rss" text="Bursa.ro" title="Bursa" xmlUrl="https://www.bursa.ro/rss" htmlUrl="https://www.bursa.ro"/>
+            <outline type="rss" text="Forbes România" title="Forbes" xmlUrl="https://www.forbes.ro/feed" htmlUrl="https://www.forbes.ro"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (Tehnologie și Știință)" title="Technology &amp; Science">
+            <outline type="rss" text="Go4IT" title="Go4IT" xmlUrl="https://www.go4it.ro/rss" htmlUrl="https://www.go4it.ro"/>
+            <outline type="rss" text="Start-up.ro" title="Start-up" xmlUrl="https://www.start-up.ro/feed" htmlUrl="https://www.start-up.ro"/>
+            <outline type="rss" text="Yoda.ro" title="Yoda" xmlUrl="https://www.yoda.ro/rss" htmlUrl="https://www.yoda.ro"/>
+            <outline type="rss" text="Gadget.ro" title="Gadget" xmlUrl="https://www.gadget.ro/feed/" htmlUrl="https://www.gadget.ro"/>
+            <outline type="rss" text="ComputerWorld România" title="CW" xmlUrl="https://www.computerworld.ro/feed/" htmlUrl="https://www.computerworld.ro"/>
+            <outline type="rss" text="Stiinta si Tehnica" title="S&amp;T" xmlUrl="https://stiintasitehnica.com/feed/" htmlUrl="https://stiintasitehnica.com"/>
+        </outline>
+
+        <outline text="Sports (Sport)" title="Sports">
+            <outline type="rss" text="Gazeta Sporturilor (GSP)" title="GSP" xmlUrl="https://www.gsp.ro/rss" htmlUrl="https://www.gsp.ro"/>
+            <outline type="rss" text="ProSport" title="ProSport" xmlUrl="https://www.prosport.ro/rss" htmlUrl="https://www.prosport.ro"/>
+            <outline type="rss" text="DigiSport" title="DigiSport" xmlUrl="https://www.digisport.ro/rss" htmlUrl="https://www.digisport.ro"/>
+            <outline type="rss" text="Fanatik Sport" title="Fanatik" xmlUrl="https://www.fanatik.ro/sport/feed" htmlUrl="https://www.fanatik.ro/sport"/>
+            <outline type="rss" text="Sport.ro" title="Sport.ro" xmlUrl="https://www.sport.ro/rss" htmlUrl="https://www.sport.ro"/>
+        </outline>
+
+        <outline text="Regional News (Știri Regionale)" title="Regional News">
+            <outline type="rss" text="Ziarul de Iași" title="Iași" xmlUrl="https://www.ziaruldeiasi.ro/rss" htmlUrl="https://www.ziaruldeiasi.ro"/>
+            <outline type="rss" text="Monitorul de Cluj" title="Cluj" xmlUrl="https://www.monitorulcj.ro/rss" htmlUrl="https://www.monitorulcj.ro"/>
+            <outline type="rss" text="Opinia Timișoarei" title="Timișoara" xmlUrl="https://www.opiniatimisoarei.ro/feed" htmlUrl="https://www.opiniatimisoarei.ro"/>
+            <outline type="rss" text="Gazeta de Sud (Craiova)" title="GdS" xmlUrl="https://www.gds.ro/feed/" htmlUrl="https://www.gds.ro"/>
+            <outline type="rss" text="Buna Ziua Brasov" title="Brașov" xmlUrl="https://bzb.ro/rss" htmlUrl="https://bzb.ro"/>
+            <outline type="rss" text="Aradon (Arad)" title="Arad" xmlUrl="https://www.aradon.ro/feed" htmlUrl="https://www.aradon.ro"/>
+            <outline type="rss" text="Ziua de Constanța" title="Constanța" xmlUrl="https://www.ziuaconstanta.ro/stiri.rss" htmlUrl="https://www.ziuaconstanta.ro"/>
+            <outline type="rss" text="Bihoreanul" title="Oradea" xmlUrl="https://www.ebihoreanul.ro/rss" htmlUrl="https://www.ebihoreanul.ro"/>
+            <outline type="rss" text="Monitorul de Suceava" title="Suceava" xmlUrl="https://www.monitorulsv.ro/rss" htmlUrl="https://www.monitorulsv.ro"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (Timp liber и Cultură)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Elle România" title="Elle" xmlUrl="https://www.elle.ro/feed" htmlUrl="https://www.elle.ro"/>
+            <outline type="rss" text="Viva!" title="Viva" xmlUrl="https://www.viva.ro/feed" htmlUrl="https://www.viva.ro"/>
+            <outline type="rss" text="Dilema Veche" title="Dilema" xmlUrl="https://dilemaveche.ro/rss" htmlUrl="https://dilemaveche.ro"/>
+            <outline type="rss" text="Catchy" title="Catchy" xmlUrl="https://www.catchy.ro/feed" htmlUrl="https://www.catchy.ro"/>
+        </outline>
+    </body>
+</opml>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Hindi News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="Dainik Jagran" title="Dainik Jagran" xmlUrl="https://www.jagran.com/rss/news.xml" htmlUrl="https://www.jagran.com"/>
+            <outline type="rss" text="Navbharat Times" title="Navbharat Times" xmlUrl="https://navbharattimes.indiatimes.com/rssfeedmostrecent.cms" htmlUrl="https://navbharattimes.indiatimes.com"/>
+            <outline type="rss" text="Hindustan" title="Hindustan" xmlUrl="https://www.livehindustan.com/rss" htmlUrl="https://www.livehindustan.com"/>
+            <outline type="rss" text="Amar Ujala" title="Amar Ujala" xmlUrl="https://www.amarujala.com/rss/news.xml" htmlUrl="https://www.amarujala.com"/>
+            <outline type="rss" text="BBC Hindi" title="BBC Hindi" xmlUrl="https://feeds.bbci.co.uk/hindi/rss.xml" htmlUrl="https://www.bbc.com/hindi"/>
+            <outline type="rss" text="Aaj Tak" title="Aaj Tak" xmlUrl="https://www.aajtak.in/rssfeed.xml" htmlUrl="https://www.aajtak.in"/>
+            <outline type="rss" text="OneIndia Hindi" title="OneIndia Hindi" xmlUrl="https://hindi.oneindia.com/rss/hindi-news-fb.xml" htmlUrl="https://hindi.oneindia.com"/>
+            <outline type="rss" text="Zee News Hindi" title="Zee News Hindi" xmlUrl="https://zeenews.india.com/hindi/rss.xml" htmlUrl="https://zeenews.india.com/hindi"/>
+            <outline type="rss" text="DW Hindi" title="DW Hindi" xmlUrl="https://rss.dw.com/rdf/rss-hin-all" htmlUrl="https://www.dw.com/hi/"/>
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="Aaj Tak Sports" title="Aaj Tak Sports" xmlUrl="https://www.aajtak.in/rss/sports-news-rss-feed.xml" htmlUrl="https://www.aajtak.in/sports"/>
+            <outline type="rss" text="NDTV Sports Hindi" title="NDTV Sports" xmlUrl="https://feeds.feedburner.com/ndtvkhabar-sports" htmlUrl="https://ndtv.in/sports"/>
+        </outline>
+    </body>
+</opml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
+    <head>
+        <title>Czech News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News" title="General News">
+            <outline type="rss" text="iDNES.cz" title="iDNES.cz" xmlUrl="https://servis.idnes.cz/rss.aspx?c=zpravodaj" htmlUrl="https://www.idnes.cz"/>
+            <outline type="rss" text="Aktuálně.cz" title="Aktuálně.cz" xmlUrl="https://www.aktualne.cz/rss/" htmlUrl="https://www.aktualne.cz"/> [3]
+            <outline type="rss" text="ČT24" title="ČT24" xmlUrl="https://ct24.ceskatelevize.cz/rss/vsechny-zpravy" htmlUrl="https://ct24.ceskatelevize.cz"/> [7]
+            <outline type="rss" text="Novinky.cz" title="Novinky.cz" xmlUrl="https://www.novinky.cz/rss" htmlUrl="https://www.novinky.cz"/>
+            <outline type="rss" text="Lidovky.cz" title="Lidovky.cz" xmlUrl="https://servis.lidovky.cz/rss.aspx?c=ln_noviny" htmlUrl="https://www.lidovky.cz"/>
+            <outline type="rss" text="České noviny" title="České noviny (ČTK)" xmlUrl="https://www.ceskenoviny.cz/sluzby/rss/cr.php" htmlUrl="https://www.ceskenoviny.cz"/>
+            <outline type="rss" text="Blesk.cz" title="Blesk.cz" xmlUrl="https://www.blesk.cz/rss" htmlUrl="https://www.blesk.cz"/>
+            <outline type="rss" text="Prague Morning" title="Prague Morning" xmlUrl="https://www.praguemorning.cz/feed/" htmlUrl="https://www.praguemorning.cz"/> [3]
+            <outline type="rss" text="Radio Prague International" title="Radio Prague International" xmlUrl="https://www.radio.cz/en/rss/news" htmlUrl="https://www.radio.cz/en"/>
+        </outline>
+        <outline text="Business &amp; Economy" title="Business &amp; Economy">
+            <outline type="rss" text="Hospodářské noviny (HN.cz)" title="Hospodářské noviny" xmlUrl="https://hn.cz/rss/" htmlUrl="https://hn.cz/"/> [8]
+            <outline type="rss" text="E15.cz" title="E15.cz" xmlUrl="https://www.e15.cz/rss" htmlUrl="https://www.e15.cz"/>
+            <outline type="rss" text="iDNES.cz Ekonomika" title="iDNES.cz Ekonomika" xmlUrl="https://servis.idnes.cz/rss.aspx?c=ekonomika" htmlUrl="https://www.idnes.cz/ekonomika"/>
+            <outline type="rss" text="Aktuálně.cz Ekonomika" title="Aktuálně.cz Ekonomika" xmlUrl="https://www.aktualne.cz/rss/ekonomika/" htmlUrl="https://www.aktualne.cz/ekonomika/"/> [9]
+            <outline type="rss" text="ČT24 Ekonomika" title="ČT24 Ekonomika" xmlUrl="https://ct24.ceskatelevize.cz/rss/ekonomika" htmlUrl="https://ct24.ceskatelevize.cz/ekonomika"/>
+        </outline>
+        <outline text="Technology &amp; Science" title="Technology &amp; Science">
+            <outline type="rss" text="Živě.cz" title="Živě.cz" xmlUrl="https://www.zive.cz/rss/sc-47/" htmlUrl="https://www.zive.cz"/>
+            <outline type="rss" text="MobilMania.cz" title="MobilMania.cz" xmlUrl="https://www.mobilmania.cz/rss/sc-47/" htmlUrl="https://www.mobilmania.cz"/>
+            <outline type="rss" text="Cnews.cz" title="Cnews.cz" xmlUrl="https://www.cnews.cz/feed" htmlUrl="https://www.cnews.cz"/>
+            <outline type="rss" text="Lupa.cz" title="Lupa.cz" xmlUrl="https://www.lupa.cz/rss/" htmlUrl="https://www.lupa.cz"/>
+            <outline type="rss" text="iDNES.cz Technet" title="iDNES.cz Technet" xmlUrl="https://servis.idnes.cz/rss.aspx?c=technet" htmlUrl="https://www.idnes.cz/technet"/>
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="iSport.cz" title="iSport.cz" xmlUrl="https://isport.blesk.cz/rss" htmlUrl="https://isport.blesk.cz"/>
+            <outline type="rss" text="Sport.cz" title="Sport.cz" xmlUrl="https://www.sport.cz/rss" htmlUrl="https://www.sport.cz"/>
+            <outline type="rss" text="ČT sport" title="ČT sport" xmlUrl="https://ct24.ceskatelevize.cz/rss/sport" htmlUrl="https://sport.ceskatelevize.cz/"/> [7, 24]
+            <outline type="rss" text="iDNES.cz Sport" title="iDNES.cz Sport" xmlUrl="https://servis.idnes.cz/rss.aspx?c=sport" htmlUrl="https://www.idnes.cz/sport"/>
+            <outline type="rss" text="Aktuálně.cz Sport" title="Aktuálně.cz Sport" xmlUrl="https://www.aktualne.cz/rss/sport/" htmlUrl="https://www.aktualne.cz/sport/"/> [9]
+        </outline>
+        <outline text="Lifestyle &amp; Culture" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="iDNES.cz Kultura" title="iDNES.cz Kultura" xmlUrl="https://servis.idnes.cz/rss.aspx?c=kultura" htmlUrl="https://www.idnes.cz/kultura"/>
+            <outline type="rss" text="Aktuálně.cz Kultura" title="Aktuálně.cz Kultura" xmlUrl="https://www.aktualne.cz/rss/kultura/" htmlUrl="https://www.aktualne.cz/kultura/"/> [9]
+            <outline type="rss" text="ČT24 Kultura" title="ČT24 Kultura" xmlUrl="https://ct24.ceskatelevize.cz/rss/kultura" htmlUrl="https://ct24.ceskatelevize.cz/kultura"/>
+        </outline>
+    </body>
+</opml>

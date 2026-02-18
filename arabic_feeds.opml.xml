@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Arabic News Feeds</title>
+    </head>
+    <body>
+        <outline text="General News (أخبار عامة)" title="General News">
+            <outline type="rss" text="Al Jazeera" title="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com"/> [2, 11]
+            <outline type="rss" text="Sky News Arabia" title="Sky News Arabia" xmlUrl="https://www.skynewsarabia.com/rss.xml" htmlUrl="https://www.skynewsarabia.com"/> [2]
+            <outline type="rss" text="Al Arabiya" title="Al Arabiya" xmlUrl="https://www.alarabiya.net/.mrss/ar.xml" htmlUrl="https://www.alarabiya.net"/>
+            <outline type="rss" text="CNN Arabic" title="CNN Arabic" xmlUrl="https://arabic.cnn.com/api/v1/rss/rss.xml" htmlUrl="https://arabic.cnn.com"/> [3]
+            <outline type="rss" text="BBC News عربي" title="BBC News عربي" xmlUrl="https://feeds.bbci.co.uk/arabic/rss.xml" htmlUrl="https://www.bbc.com/arabic"/>
+            <outline type="rss" text="The New Arab" title="The New Arab" xmlUrl="https://www.alaraby.co.uk/rss" htmlUrl="https://www.alaraby.co.uk"/>
+            <outline type="rss" text="Asharq Al-Awsat" title="Asharq Al-Awsat" xmlUrl="https://aawsat.com/feed" htmlUrl="https://aawsat.com"/> [9]
+            <outline type="rss" text="Al-Masry Al-Youm" title="Al-Masry Al-Youm" xmlUrl="https://www.almasryalyoum.com/rss/news" htmlUrl="https://www.almasryalyoum.com"/> [2]
+            <outline type="rss" text="Al Khaleej" title="Al Khaleej" xmlUrl="https://www.alkhaleej.ae/rss" htmlUrl="https://www.alkhaleej.ae"/> [2]
+            <outline type="rss" text="Okaz" title="Okaz" xmlUrl="https://www.okaz.com.sa/rss" htmlUrl="https://www.okaz.com.sa"/> [2]
+            <outline type="rss" text="Al-Sharq" title="Al-Sharq" xmlUrl="https://www.al-sharq.com/rss/latestNews" htmlUrl="https://www.al-sharq.com"/> [2]
+            <outline type="rss" text="All Arab News" title="All Arab News" xmlUrl="https://allarab.news/feed" htmlUrl="https://allarab.news"/> [2]
+            <outline type="rss" text="Al Bawaba" title="Al Bawaba" xmlUrl="https://www.albawaba.com/rss/ar-all" htmlUrl="https://www.albawaba.com/ar"/> [2]
+        </outline>
+        <outline text="Business &amp; Economy (أعمال واقتصاد)" title="Business &amp; Economy">
+            <outline type="rss" text="Al-Arabiya Business" title="Al-Arabiya Business" xmlUrl="https://www.alarabiya.net/.mrss/ar/business.xml" htmlUrl="https://www.alarabiya.net/business"/>
+            <outline type="rss" text="MENAFN Business" title="MENAFN Business" xmlUrl="https://menafn.com/rss/menafn_Business_Finance.xml" htmlUrl="https://menafn.com"/> [7]
+            <outline type="rss" text="Asharq Al-Awsat Economy" title="Asharq Al-Awsat Economy" xmlUrl="https://aawsat.com/feed/economy" htmlUrl="https://aawsat.com/economy"/> [9]
+            <outline type="rss" text="Argaam" title="Argaam" xmlUrl="https://www.argaam.com/ar/rss" htmlUrl="https://www.argaam.com"/>
+            <outline type="rss" text="Al Eqtisadiah" title="Al Eqtisadiah" xmlUrl="https://www.aleqt.com/rss" htmlUrl="https://www.aleqt.com"/> [16]
+        </outline>
+        <outline text="Technology &amp; Science (تكنولوجيا وعلوم)" title="Technology &amp; Science">
+            <outline type="rss" text="CNN Arabic Tech" title="CNN Arabic Tech" xmlUrl="https://arabic.cnn.com/api/v1/rss/tech.xml" htmlUrl="https://arabic.cnn.com/tech"/> [3]
+            <outline type="rss" text="3sri.net" title="3sri.net" xmlUrl="https://3sri.net/feed" htmlUrl="https://3sri.net"/> [2]
+            <outline type="rss" text="Asharq Al-Awsat Tech" title="Asharq Al-Awsat Tech" xmlUrl="https://aawsat.com/feed/information-technology" htmlUrl="https://aawsat.com/information-technology"/> [9]
+            <outline type="rss" text="Al-Arabiya Tech" title="Al-Arabiya Tech" xmlUrl="https://www.alarabiya.net/.mrss/ar/technology.xml" htmlUrl="https://www.alarabiya.net/technology"/>
+        </outline>
+        <outline text="Sports (رياضة)" title="Sports">
+            <outline type="rss" text="beIN Sports" title="beIN Sports" xmlUrl="https://www.beinsports.com/ar/rss/news" htmlUrl="https://www.beinsports.com/ar"/>
+            <outline type="rss" text="Yalla Kora" title="Yalla Kora" xmlUrl="https://www.yallakora.com/rss/news" htmlUrl="https://www.yallakora.com"/>
+            <outline type="rss" text="FilGoal" title="FilGoal" xmlUrl="https://www.filgoal.com/rss" htmlUrl="https://www.filgoal.com"/>
+            <outline type="rss" text="Arriyadiyah" title="Arriyadiyah" xmlUrl="https://arriyadiyah.com/rss" htmlUrl="https://arriyadiyah.com"/>
+            <outline type="rss" text="Asharq Al-Awsat Sport" title="Asharq Al-Awsat Sport" xmlUrl="https://aawsat.com/feed/sport" htmlUrl="https://aawsat.com/sport"/> [9]
+            <outline type="rss" text="Al Ahram Al Riyadi" title="Al Ahram Al Riyadi" xmlUrl="https://sport.ahram.org.eg/News/Rss/4.aspx" htmlUrl="https://sport.ahram.org.eg"/> [2]
+            <outline type="rss" text="Arab News Sport" title="Arab News Sport" xmlUrl="https://www.arabnews.com/sport/feed" htmlUrl="https://www.arabnews.com/sport"/> [4]
+        </outline>
+        <outline text="Lifestyle &amp; Culture (لايف ستايل وثقافة)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Sayidaty" title="Sayidaty" xmlUrl="https://www.sayidaty.net/rss" htmlUrl="https://www.sayidaty.net"/>
+            <outline type="rss" text="Marie Claire Arabia" title="Marie Claire Arabia" xmlUrl="https://www.marieclairearabia.com/rss" htmlUrl="https://www.marieclairearabia.com"/> [2]
+            <outline type="rss" text="Hia Magazine" title="Hia Magazine" xmlUrl="https://www.hiamag.com/rss.xml" htmlUrl="https://www.hiamag.com"/>
+            <outline type="rss" text="Asharq Al-Awsat Culture" title="Asharq Al-Awsat Culture" xmlUrl="httpsaawsat.com/feed/culture" htmlUrl="https://aawsat.com/culture"/> [9]
+            <outline type="rss" text="CNN Arabic Style" title="CNN Arabic Style" xmlUrl="https://arabic.cnn.com/api/v1/rss/style.xml" htmlUrl="https://arabic.cnn.com/style"/> [3]
+        </outline>
+        <outline text="Regional News (أخبار إقليمية)" title="Regional News">
+            <outline type="rss" text="Doha News" title="Doha News" xmlUrl="https://dohanews.co/feed/" htmlUrl="https://dohanews.co"/> [2]
+            <outline type="rss" text="Qatar News Agency" title="Qatar News Agency" xmlUrl="https://www.qna.org.qa/Rss" htmlUrl="https://www.qna.org.qa"/>
+            <outline type="rss" text="Egypt Today" title="Egypt Today" xmlUrl="https://www.egypttoday.com/RSS/news" htmlUrl="https://www.egypttoday.com"/>
+            <outline type="rss" text="Morocco World News" title="Morocco World News" xmlUrl="https://www.moroccoworldnews.com/feed" htmlUrl="https://www.moroccoworldnews.com"/>
+            <outline type="rss" text="Jordan Times" title="Jordan Times" xmlUrl="https://www.jordantimes.com/rss" htmlUrl="https://www.jordantimes.com"/>
+        </outline>
+    </body>
+</opml>

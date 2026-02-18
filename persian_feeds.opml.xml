@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Persian News Feeds (خبرهای فارسی) - Full Collection</title>
+    </head>
+    <body>
+        <outline text="General News (اخبار عمومی)" title="General News">
+            <outline type="rss" text="BBC News فارسی" title="BBC Persian" xmlUrl="https://feeds.bbci.co.uk/persian/rss.xml" htmlUrl="https://www.bbc.com/persian"/>
+            <outline type="rss" text="ایسنا (ISNA)" title="ISNA" xmlUrl="https://www.isna.ir/rss" htmlUrl="https://www.isna.ir"/>
+            <outline type="rss" text="فارس نیوز (Fars News)" title="Fars" xmlUrl="https://www.farsnews.ir/rss" htmlUrl="https://www.farsnews.ir"/>
+            <outline type="rss" text="تسنیم (Tasnim)" title="Tasnim" xmlUrl="https://www.tasnimnews.com/fa/rss/feed/0/7/0" htmlUrl="https://www.tasnimnews.com"/>
+            <outline type="rss" text="ایرنا (IRNA)" title="IRNA" xmlUrl="https://www.irna.ir/rss" htmlUrl="https://www.irna.ir"/>
+            <outline type="rss" text="صدای آمریکا (VOA Farsi)" title="VOA" xmlUrl="https://ir.voanews.com/api/z$ome_vq_j" htmlUrl="https://ir.voanews.com"/>
+            <outline type="rss" text="رادیو فردا (Radio Farda)" title="Radio Farda" xmlUrl="https://www.radiofarda.com/api/z-gve_iqgt" htmlUrl="https://www.radiofarda.com"/>
+            <outline type="rss" text="دویچه وله (DW Persian)" title="DW" xmlUrl="https://rss.dw.com/rdf/rss-per-all" htmlUrl="https://www.dw.com/fa/"/>
+            <outline type="rss" text="تابناک (Tabnak)" title="Tabnak" xmlUrl="https://www.tabnak.ir/fa/rss/allnews" htmlUrl="https://www.tabnak.ir"/>
+            <outline type="rss" text="خبرآنلاین (Khabar Online)" title="Khabar" xmlUrl="https://www.khabaronline.ir/rss" htmlUrl="https://www.khabaronline.ir"/>
+            <outline type="rss" text="یورونیوز (Euronews Farsi)" title="Euronews" xmlUrl="https://per.euronews.com/rss?level=vertical&amp;name=news" htmlUrl="https://per.euronews.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (اقتصاد و بازار)" title="Business &amp; Economy">
+            <outline type="rss" text="دنیای اقتصاد" title="Donya-e-Eqtesad" xmlUrl="https://www.donya-e-eqtesad.com/rss/" htmlUrl="https://www.donya-e-eqtesad.com"/>
+            <outline type="rss" text="اقتصادنیوز" title="Eghtesad News" xmlUrl="https://www.eghtesadnews.com/rss" htmlUrl="https://www.eghtesadnews.com"/>
+            <outline type="rss" text="بورس نیوز" title="Bourse News" xmlUrl="https://www.boursenews.ir/fa/rss/allnews" htmlUrl="https://www.boursenews.ir"/>
+            <outline type="rss" text="تجارت‌نیوز" title="Tejarat News" xmlUrl="https://tejaratnews.com/feed" htmlUrl="https://tejaratnews.com"/>
+        </outline>
+
+        <outline text="Technology &amp; IT (تکنولوژی و آی‌تی)" title="Technology">
+            <outline type="rss" text="زومیت (Zoomit)" title="Zoomit" xmlUrl="https://www.zoomit.ir/feed/" htmlUrl="https://www.zoomit.ir"/>
+            <outline type="rss" text="دیجیاتو (Digiato)" title="Digiato" xmlUrl="https://digiato.com/feed" htmlUrl="https://digiato.com"/>
+            <outline type="rss" text="ترنجی (Toranji)" title="Toranji" xmlUrl="https://toranji.ir/feed/" htmlUrl="https://toranji.ir"/>
+            <outline type="rss" text="آیتی‌رسان" title="ITResan" xmlUrl="https://itresan.com/feed/" htmlUrl="https://itresan.com"/>
+        </outline>
+
+        <outline text="Sports (ورزش)" title="Sports">
+            <outline type="rss" text="ورزش سه (Varzesh3)" title="Varzesh3" xmlUrl="https://www.varzesh3.com/rss/all" htmlUrl="https://www.varzesh3.com"/>
+            <outline type="rss" text="طرفداری (Tarafdari)" title="Tarafdari" xmlUrl="https://www.tarafdari.com/rss.xml" htmlUrl="https://www.tarafdari.com"/>
+            <outline type="rss" text="خبر ورزشی" title="Khabar Varzeshi" xmlUrl="https://www.khabarvarzeshi.com/rss" htmlUrl="https://www.khabarvarzeshi.com"/>
+            <outline type="rss" text="نود (90tv)" title="90tv" xmlUrl="https://90tv.ir/rss/news" htmlUrl="https://90tv.ir"/>
+        </outline>
+
+        <outline text="Regional News (اخبار استان‌ها)" title="Regional News">
+            <outline type="rss" text="ایسنا - خراسان" xmlUrl="https://khorasan.isna.ir/rss" htmlUrl="https://khorasan.isna.ir"/>
+            <outline type="rss" text="ایسنا - اصفهان" xmlUrl="https://isfahan.isna.ir/rss" htmlUrl="https://isfahan.isna.ir"/>
+            <outline type="rss" text="ایسنا - آذربایجان شرقی" xmlUrl="https://eastazerbaijan.isna.ir/rss" htmlUrl="https://eastazerbaijan.isna.ir"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (سبک زندگی و فرهنگ)" title="Lifestyle">
+            <outline type="rss" text="مجله اینترنتی برترین‌ها" xmlUrl="https://www.bartarinha.ir/fa/rss/allnews" htmlUrl="https://www.bartarinha.ir"/>
+            <outline type="rss" text="سیمرغ (Seemorgh)" xmlUrl="https://seemorgh.com/rss" htmlUrl="https://seemorgh.com"/>
+            <outline type="rss" text="تبیان (Tebyan)" xmlUrl="https://article.tebyan.net/rss" htmlUrl="https://www.tebyan.net"/>
+        </outline>
+    </body>
+</opml>

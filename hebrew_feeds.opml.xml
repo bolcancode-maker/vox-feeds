@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Hebrew News Feeds - Comprehensive Collection</title>
+    </head>
+    <body>
+        <outline text="General News (חדשות כלליות)" title="General News">
+            <outline type="rss" text="Ynet" title="Ynet" xmlUrl="https://www.ynet.co.il/Integration/StoryRss1854.xml" htmlUrl="https://www.ynet.co.il"/>
+            <outline type="rss" text="Walla! News" title="Walla!" xmlUrl="https://rss.walla.co.il/feed/22" htmlUrl="https://news.walla.co.il"/>
+            <outline type="rss" text="N12 (Mako)" title="N12" xmlUrl="https://rcs.mako.co.il/rss/news-military-and-security.xml" htmlUrl="https://www.n12.co.il"/>
+            <outline type="rss" text="Haaretz" title="Haaretz" xmlUrl="https://www.haaretz.co.il/cmlink/1.146" htmlUrl="https://www.haaretz.co.il"/>
+            <outline type="rss" text="Israel Hayom" title="Israel Hayom" xmlUrl="https://www.israelhayom.co.il/feed" htmlUrl="https://www.israelhayom.co.il"/>
+            <outline type="rss" text="Maariv" title="Maariv" xmlUrl="https://www.maariv.co.il/rss/all" htmlUrl="https://www.maariv.co.il"/>
+            <outline type="rss" text="Kan News" title="Kan" xmlUrl="https://www.kan.org.il/rss/all-news.xml" htmlUrl="https://www.kan.org.il/news/"/>
+            <outline type="rss" text="Channel 7 (Arutz Sheva)" title="Arutz Sheva" xmlUrl="https://www.inn.co.il/rss/main.xml" htmlUrl="https://www.inn.co.il"/>
+            <outline type="rss" text="Davar" title="Davar" xmlUrl="https://www.davar1.co.il/feed/" htmlUrl="https://www.davar1.co.il"/>
+            <outline type="rss" text="Srugim" title="Srugim" xmlUrl="https://www.srugim.co.il/feed" htmlUrl="https://www.srugim.co.il"/>
+            <outline type="rss" text="Bhol" title="Bhol" xmlUrl="https://www.bhol.co.il/rss/all" htmlUrl="https://www.bhol.co.il"/>
+        </outline>
+
+        <outline text="English News from Israel" title="English News from Israel">
+            <outline type="rss" text="The Jerusalem Post" title="Jerusalem Post" xmlUrl="https://www.jpost.com/rss/rss.aspx" htmlUrl="https://www.jpost.com"/>
+            <outline type="rss" text="Times of Israel" title="Times of Israel" xmlUrl="https://www.timesofisrael.com/feed/" htmlUrl="https://www.timesofisrael.com"/>
+            <outline type="rss" text="Haaretz English" title="Haaretz English" xmlUrl="https://www.haaretz.com/cmlink/1.442" htmlUrl="https://www.haaretz.com"/>
+            <outline type="rss" text="Ynetnews" title="Ynetnews" xmlUrl="https://www.ynetnews.com/Integration/StoryRss279.xml" htmlUrl="https://www.ynetnews.com"/>
+            <outline type="rss" text="Channel 7 English" title="Arutz Sheva English" xmlUrl="https://www.israelnationalnews.com/rss/rss.xml" htmlUrl="https://www.israelnationalnews.com"/>
+        </outline>
+
+        <outline text="Business &amp; Economy (כלכלה ועסקים)" title="Business &amp; Economy">
+            <outline type="rss" text="Globes" title="Globes" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/imprort/715" htmlUrl="https://www.globes.co.il"/>
+            <outline type="rss" text="TheMarker" title="TheMarker" xmlUrl="https://www.themarker.com/cmlink/1.350" htmlUrl="https://www.themarker.com"/>
+            <outline type="rss" text="Calcalist" title="Calcalist" xmlUrl="https://www.calcalist.co.il/GeneralRSS/0,7340,L-3531,00.xml" htmlUrl="https://www.calcalist.co.il"/>
+            <outline type="rss" text="Bizportal" title="Bizportal" xmlUrl="https://www.bizportal.co.il/rss" htmlUrl="https://www.bizportal.co.il"/>
+            <outline type="rss" text="ICE (Israel financial news)" title="ICE" xmlUrl="https://www.ice.co.il/rss" htmlUrl="https://www.ice.co.il"/>
+        </outline>
+
+        <outline text="Technology &amp; Science (טכנולוגיה ומדע)" title="Technology &amp; Science">
+            <outline type="rss" text="Geektime" title="Geektime" xmlUrl="https://www.geektime.co.il/feed/" htmlUrl="https://www.geektime.co.il"/>
+            <outline type="rss" text="PC Magazine Israel" title="PCMag" xmlUrl="https://il.pcmag.com/rss" htmlUrl="https://il.pcmag.com"/>
+            <outline type="rss" text="Hometheater" title="Hometheater" xmlUrl="https://www.htmag.co.il/xml-feed/articles.xml" htmlUrl="https://www.htmag.co.il"/>
+            <outline type="rss" text="Gadgety" title="Gadgety" xmlUrl="https://www.gadgety.co.il/feed/" htmlUrl="https://www.gadgety.co.il"/>
+            <outline type="rss" text="CTech by Calcalist" title="CTech" xmlUrl="https://www.calcalistech.com/ctech/rss.xml" htmlUrl="https://www.calcalistech.com"/>
+            <outline type="rss" text="PC.co.il" title="PC.co.il" xmlUrl="https://pc.co.il/feed/" htmlUrl="https://pc.co.il"/>
+        </outline>
+
+        <outline text="Sports (ספורט)" title="Sports">
+            <outline type="rss" text="Sport5" title="Sport5" xmlUrl="https://www.sport5.co.il/Sip_Storage/LINEUPS/rss/main_rss.xml" htmlUrl="https://www.sport5.co.il"/>
+            <outline type="rss" text="ONE" title="ONE" xmlUrl="https://www.one.co.il/cat/coop/xml/rss/news.aspx" htmlUrl="https://www.one.co.il"/>
+            <outline type="rss" text="Ynet Sport" title="Ynet Sport" xmlUrl="https://www.ynet.co.il/Integration/StoryRss538.xml" htmlUrl="https://www.ynet.co.il/sport"/>
+            <outline type="rss" text="Walla! Sports" title="Walla Sports" xmlUrl="https://rss.walla.co.il/feed/3" htmlUrl="https://sports.walla.co.il"/>
+        </outline>
+
+        <outline text="Lifestyle &amp; Culture (פנאי ותרבות)" title="Lifestyle &amp; Culture">
+            <outline type="rss" text="Mako" title="Mako" xmlUrl="https://rcs.mako.co.il/rss/Main.xml" htmlUrl="https://www.mako.co.il"/>
+            <outline type="rss" text="Walla! Culture" title="Walla Culture" xmlUrl="https://rss.walla.co.il/feed/5" htmlUrl="https://e.walla.co.il"/>
+            <outline type="rss" text="Time Out Tel Aviv" title="Time Out" xmlUrl="https://timeout.co.il/feed" htmlUrl="https://timeout.co.il"/>
+        </outline>
+    </body>
+</opml>

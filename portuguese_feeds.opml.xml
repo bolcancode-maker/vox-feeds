@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Portuguese &amp; Brazilian News Feeds</title>
+    </head>
+    <body>
+        <!-- PORTUGAL SECTION -->
+        <outline text="Portugal - Notícias Gerais" title="Portugal General News">
+            <outline type="rss" text="Público" title="Público" xmlUrl="https://www.publico.pt/feed" htmlUrl="https://www.publico.pt"/>
+            <outline type="rss" text="Diário de Notícias" title="DN" xmlUrl="https://www.dn.pt/rss/feed.xml" htmlUrl="https://www.dn.pt"/>
+            <outline type="rss" text="Jornal de Notícias" title="JN" xmlUrl="https://www.jn.pt/rss/feed.xml" htmlUrl="https://www.jn.pt"/>
+            <outline type="rss" text="Expresso" title="Expresso" xmlUrl="https://expresso.pt/feed" htmlUrl="https://expresso.pt"/>
+            <outline type="rss" text="Observador" title="Observador" xmlUrl="https://observador.pt/feed/" htmlUrl="https://observador.pt"/>
+            <outline type="rss" text="Correio da Manhã" title="CM" xmlUrl="https://www.cmjornal.pt/rss" htmlUrl="https://www.cmjornal.pt"/>
+            <outline type="rss" text="SIC Notícias" title="SIC" xmlUrl="https://sicnoticias.pt/feed" htmlUrl="https://sicnoticias.pt"/>
+            <outline type="rss" text="RTP Notícias" title="RTP" xmlUrl="https://www.rtp.pt/noticias/index.php?rss=yes" htmlUrl="https://www.rtp.pt/noticias"/>
+            <outline type="rss" text="TVI Notícias" title="TVI" xmlUrl="https://tvi.iol.pt/noticias/rss" htmlUrl="https://tvi.iol.pt/noticias"/>
+            <outline type="rss" text="Sapo Notícias" title="Sapo" xmlUrl="https://noticias.sapo.pt/rss" htmlUrl="https://noticias.sapo.pt"/>
+        </outline>
+
+        <!-- BRAZIL SECTION -->
+        <outline text="Brasil - Notícias Gerais" title="Brazil General News">
+            <outline type="rss" text="G1 - Globo" title="G1" xmlUrl="https://g1.globo.com/rss/g1/" htmlUrl="https://g1.globo.com"/>
+            <outline type="rss" text="Folha de S.Paulo" title="Folha" xmlUrl="https://feeds.folha.uol.com.br/emcimadahora/rss091.xml" htmlUrl="https://www.folha.uol.com.br"/>
+            <outline type="rss" text="Estadão" title="Estadão" xmlUrl="https://www.estadao.com.br/arc/outboundfeeds/rss/category/brasil/" htmlUrl="https://www.estadao.com.br"/>
+            <outline type="rss" text="UOL Notícias" title="UOL" xmlUrl="http://rss.uol.com.br/feed/noticias.xml" htmlUrl="https://noticias.uol.com.br"/>
+            <outline type="rss" text="CNN Brasil" title="CNN BR" xmlUrl="https://www.cnnbrasil.com.br/feed/" htmlUrl="https://www.cnnbrasil.com.br"/>
+            <outline type="rss" text="R7 Notícias" title="R7" xmlUrl="https://noticias.r7.com/feed.xml" htmlUrl="https://noticias.r7.com"/>
+            <outline type="rss" text="BBC Brasil" title="BBC BR" xmlUrl="https://feeds.bbci.co.uk/portuguese/rss.xml" htmlUrl="https://www.bbc.com/portuguese"/>
+            <outline type="rss" text="Jovem Pan" title="Jovem Pan" xmlUrl="https://jovempan.com.br/feed" htmlUrl="https://jovempan.com.br"/>
+            <outline type="rss" text="Metrópoles" title="Metrópoles" xmlUrl="https://www.metropoles.com/feed" htmlUrl="https://www.metropoles.com"/>
+            <outline type="rss" text="Correio Braziliense" title="Correio" xmlUrl="https://www.correiobraziliense.com.br/rss/feed.xml" htmlUrl="https://www.correiobraziliense.com.br"/>
+        </outline>
+
+        <outline text="Economia e Negócios (PT/BR)" title="Business">
+            <outline type="rss" text="Jornal de Negócios (Portugal)" xmlUrl="https://www.jornaldenegocios.pt/rss" htmlUrl="https://www.jornaldenegocios.pt"/>
+            <outline type="rss" text="Eco (Portugal)" xmlUrl="https://eco.sapo.pt/feed/" htmlUrl="https://eco.sapo.pt"/>
+            <outline type="rss" text="Valor Econômico (Brasil)" xmlUrl="https://valor.globo.com/rss/valor/" htmlUrl="https://valor.globo.com"/>
+            <outline type="rss" text="Infomoney (Brasil)" xmlUrl="https://www.infomoney.com.br/feed/" htmlUrl="https://www.infomoney.com.br"/>
+            <outline type="rss" text="Exame (Brasil)" xmlUrl="https://exame.com/feed/" htmlUrl="https://exame.com"/>
+        </outline>
+
+        <outline text="Tecnologia (PT/BR)" title="Technology">
+            <outline type="rss" text="Pplware (Portugal)" xmlUrl="https://pplware.sapo.pt/feed/" htmlUrl="https://pplware.sapo.pt"/>
+            <outline type="rss" text="TekGenius (Portugal)" xmlUrl="https://tekgenius.pt/feed/" htmlUrl="https://tekgenius.pt"/>
+            <outline type="rss" text="TecMundo (Brasil)" xmlUrl="https://www.tecmundo.com.br/rss" htmlUrl="https://www.tecmundo.com.br"/>
+            <outline type="rss" text="Canaltech (Brasil)" xmlUrl="https://canaltech.com.br/rss/" htmlUrl="https://canaltech.com.br"/>
+            <outline type="rss" text="Olhar Digital (Brasil)" xmlUrl="https://olhardigital.com.br/feed/" htmlUrl="https://olhardigital.com.br"/>
+            <outline type="rss" text="Gizmodo Brasil" xmlUrl="https://gizmodo.uol.com.br/feed/" htmlUrl="https://gizmodo.uol.com.br"/>
+        </outline>
+
+        <outline text="Desporto / Esportes" title="Sports">
+            <outline type="rss" text="A Bola (Portugal)" xmlUrl="https://www.abola.pt/rss/feed.xml" htmlUrl="https://www.abola.pt"/>
+            <outline type="rss" text="Record (Portugal)" xmlUrl="https://www.record.pt/rss" htmlUrl="https://www.record.pt"/>
+            <outline type="rss" text="O Jogo (Portugal)" xmlUrl="https://www.ojogo.pt/rss/feed.xml" htmlUrl="https://www.ojogo.pt"/>
+            <outline type="rss" text="Globo Esporte (Brasil)" xmlUrl="https://ge.globo.com/rss/ge/" htmlUrl="https://ge.globo.com"/>
+            <outline type="rss" text="Lance! (Brasil)" xmlUrl="https://www.lance.com.br/rss" htmlUrl="https://www.lance.com.br"/>
+            <outline type="rss" text="Gazeta Esportiva (Brasil)" xmlUrl="https://www.gazetaesportiva.com/feed/" htmlUrl="https://www.gazetaesportiva.com"/>
+        </outline>
+
+        <outline text="Regional Portugal" title="Regional Portugal">
+            <outline type="rss" text="Açoriano Oriental (Açores)" xmlUrl="https://www.acorianooriental.pt/rss" htmlUrl="https://www.acorianooriental.pt"/>
+            <outline type="rss" text="Diário de Notícias da Madeira" xmlUrl="https://www.dnoticias.pt/rss/feed.xml" htmlUrl="https://www.dnoticias.pt"/>
+            <outline type="rss" text="Jornal do Algarve" xmlUrl="https://jornaldoalgarve.pt/feed/" htmlUrl="https://jornaldoalgarve.pt"/>
+            <outline type="rss" text="Região de Leiria" xmlUrl="https://www.regiaodeleiria.pt/feed/" htmlUrl="https://www.regiaodeleiria.pt"/>
+        </outline>
+
+        <outline text="Regional Brasil" title="Regional Brazil">
+            <outline type="rss" text="Zero Hora (RS)" xmlUrl="https://gauchazh.clicrbs.com.br/rss" htmlUrl="https://gauchazh.clicrbs.com.br"/>
+            <outline type="rss" text="Estado de Minas (MG)" xmlUrl="https://www.em.com.br/rss/noticia/gerais/feed.xml" htmlUrl="https://www.em.com.br"/>
+            <outline type="rss" text="A Tarde (BA)" xmlUrl="https://atarde.com.br/rss/feed.xml" htmlUrl="https://atarde.com.br"/>
+            <outline type="rss" text="O Povo (CE)" xmlUrl="https://www.opovo.com.br/rss" htmlUrl="https://www.opovo.com.br"/>
+            <outline type="rss" text="Jornal do Commercio (PE)" xmlUrl="https://jc.ne10.uol.com.br/rss/feed.xml" htmlUrl="https://jc.ne10.uol.com.br"/>
+        </outline>
+    </body>
+</opml>
