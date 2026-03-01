@@ -7,7 +7,7 @@
     <outline text="ТОП" title="ТОП">
       <outline type="rss" text="Investor" xmlUrl="https://www.investor.bg/rss/c/578-top-novini" htmlUrl="https://www.investor.bg"/>
       <outline type="rss" text="Dnevnik - Индекс" xmlUrl="https://www.dnevnik.bg/rss/?page=index" htmlUrl="https://www.dnevnik.bg"/>
-      <outline type="rss" text="BNT News - Водещи" xmlUrl="https://bntnews.bg/rss/news.xml" htmlUrl="https://bntnews.bg"/>
+      <outline type="rss" text="BNT News - Водещи" xmlUrl="https://bntnews.bg/bg/rss/news.xml" htmlUrl="https://bntnews.bg"/>
     </outline>
     <outline text="НОВИНИ" title="НОВИНИ">
       <outline type="rss" text="mediapool.bg" xmlUrl="https://www.mediapool.bg/rss" htmlUrl="https://www.mediapool.bg"/>
