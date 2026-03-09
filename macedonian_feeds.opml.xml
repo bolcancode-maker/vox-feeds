@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+    <title>Macedonian RSS Feeds</title>
+</head>
+<body>
+
+    <outline text="General News">
+        <outline text="Makfax" type="rss" xmlUrl="https://makfax.com.mk/feed/" />
+        <outline text="A1on" type="rss" xmlUrl="https://a1on.mk/feed/" />
+        <outline text="Plusinfo" type="rss" xmlUrl="https://plusinfo.mk/feed/" />
+        <outline text="Press24" type="rss" xmlUrl="https://press24.mk/feed/" />
+        <outline text="Centar" type="rss" xmlUrl="https://centar.mk/feed/" />
+        <outline text="Meta" type="rss" xmlUrl="https://meta.mk/feed/" />
+        <outline text="Denesen" type="rss" xmlUrl="https://denesen.mk/feed/" />
+        <outline text="24info" type="rss" xmlUrl="https://24info.mk/feed/" />
+        <outline text="Skopje1" type="rss" xmlUrl="https://skopje1.mk/feed/" />
+        <outline text="MKD" type="rss" xmlUrl="https://mkd.mk/feed/" />
+    </outline>
+
+    <outline text="Newspapers">
+        <outline text="Nova Makedonija" type="rss" xmlUrl="https://novamakedonija.com.mk/feed/" />
+        <outline text="Vecer" type="rss" xmlUrl="https://vecer.press/feed/" />
+        <outline text="Sloboden Pecat" type="rss" xmlUrl="https://slobodenpecat.mk/feed/" />
+        <outline text="Nezavisen" type="rss" xmlUrl="https://nezavisen.mk/feed/" />
+        <outline text="Utrinski" type="rss" xmlUrl="https://utriski.mk/feed/" />
+    </outline>
+
+    <outline text="Politics">
+        <outline text="Fokus" type="rss" xmlUrl="https://fokus.mk/feed/" />
+        <outline text="Libertas" type="rss" xmlUrl="https://libertas.mk/feed/" />
+        <outline text="Expres" type="rss" xmlUrl="https://expres.mk/feed/" />
+        <outline text="Infomax" type="rss" xmlUrl="https://infomax.mk/feed/" />
+        <outline text="Republika" type="rss" xmlUrl="https://republika.mk/feed/" />
+        <outline text="Kurir" type="rss" xmlUrl="https://kurir.mk/feed/" />
+    </outline>
+
+    <outline text="Television">
+        <outline text="Kanal5" type="rss" xmlUrl="https://kanal5.com.mk/rss.aspx?id=1" />
+        <outline text="Telma" type="rss" xmlUrl="https://telma.com.mk/feed/" />
+        <outline text="Sitel" type="rss" xmlUrl="https://sitel.com.mk/feed/" />
+        <outline text="Alfa" type="rss" xmlUrl="https://alfa.mk/feed/" />
+        <outline text="MRT" type="rss" xmlUrl="https://mrt.com.mk/feed/" />
+    </outline>
+
+    <outline text="Lifestyle">
+        <outline text="Kajgana" type="rss" xmlUrl="https://kajgana.com/rss.xml" />
+        <outline text="Tocka" type="rss" xmlUrl="https://tocka.com.mk/feed/" />
+        <outline text="OffNet" type="rss" xmlUrl="https://off.net.mk/rss.xml" />
+        <outline text="IDividi" type="rss" xmlUrl="https://idividi.com.mk/feed/" />
+    </outline>
+
+    <outline text="Business">
+        <outline text="Kapital" type="rss" xmlUrl="https://kapital.mk/feed/" />
+        <outline text="Faktor" type="rss" xmlUrl="https://faktor.mk/feed/" />
+        <outline text="Pari" type="rss" xmlUrl="https://pari.com.mk/feed/" />
+    </outline>
+
+    <outline text="Technology">
+        <outline text="IT" type="rss" xmlUrl="https://it.mk/feed/" />
+        <outline text="Smartportal" type="rss" xmlUrl="https://smartportal.mk/feed/" />
+        <outline text="Webmind" type="rss" xmlUrl="https://webmind.mk/feed/" />
+    </outline>
+
+    <outline text="Sport">
+        <outline text="Sportmedia" type="rss" xmlUrl="https://sportmedia.mk/feed/" />
+        <outline text="Gol" type="rss" xmlUrl="https://gol.mk/rss.xml" />
+        <outline text="Sport1" type="rss" xmlUrl="https://sport1.mk/feed/" />
+        <outline text="Ekipa" type="rss" xmlUrl="https://ekipa.mk/feed/" />
+    </outline>
+
+    <outline text="Regional">
+        <outline text="Skopje Info" type="rss" xmlUrl="https://skopjeinfo.mk/feed/" />
+        <outline text="Ohrid News" type="rss" xmlUrl="https://ohridnews.com/feed/" />
+        <outline text="Bitola News" type="rss" xmlUrl="https://bitolanews.mk/feed/" />
+        <outline text="Tetovasot" type="rss" xmlUrl="https://tetovasot.com/feed/" />
+        <outline text="Gostivar Press" type="rss" xmlUrl="https://gostivarpress.mk/feed/" />
+    </outline>
+
+</body>
+</opml>
