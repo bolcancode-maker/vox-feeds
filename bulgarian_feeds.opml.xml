@@ -19,7 +19,6 @@
       <outline type="rss" text="standartnews.com" xmlUrl="https://www.standartnews.com/rss" htmlUrl="https://www.standartnews.com"/>
       <outline type="rss" text="btvnovinite.bg" xmlUrl="https://btvnovinite.bg/lbin/v3/rss.php" htmlUrl="https://btvnovinite.bg"/>
       <outline type="rss" text="nova.bg" xmlUrl="https://nova.bg/rss/latest" htmlUrl="https://nova.bg"/>
-      <outline type="rss" text="Свободна Европа" xmlUrl="https://www.svobodnaevropa.bg/rss" htmlUrl="https://www.svobodnaevropa.bg"/>
     </outline>
     <outline text="ФИНАНСИ И БИЗНЕС" title="ФИНАНСИ И БИЗНЕС">
       <outline type="rss" text="Investor" xmlUrl="https://www.investor.bg/rss/c/536-finansi" htmlUrl="https://www.investor.bg"/>
