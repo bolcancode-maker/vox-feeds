@@ -67,11 +67,7 @@
       <outline type="rss" text="Reddit r/BulgariaPics" xmlUrl="https://www.reddit.com/r/BulgariaPics/.rss" htmlUrl="https://www.reddit.com/r/BulgariaPics/"/>
       <outline type="rss" text="Reddit r/BulgarianMusic" xmlUrl="https://www.reddit.com/r/BulgarianMusic/.rss" htmlUrl="https://www.reddit.com/r/BulgarianMusic/"/>
       <outline type="rss" text="Reddit r/GamingBulgaria" xmlUrl="https://www.reddit.com/r/GamingBulgaria/.rss" htmlUrl="https://www.reddit.com/r/GamingBulgaria/"/>
-      <outline type="rss" text="HardwareBG Форуми" xmlUrl="https://hardwarebg.com/forum/external.php?type=RSS2" htmlUrl="https://hardwarebg.com/forum/"/>
-      <outline type="rss" text="Kaldata Форум" xmlUrl="https://www.kaldata.com/forums/rss/forums/1-kaldata-forum-rss/" htmlUrl="https://www.kaldata.com/forums/"/>
       <outline type="rss" text="BG-Mamma Нови теми" xmlUrl="https://www.bg-mamma.com/rss/topics" htmlUrl="https://www.bg-mamma.com/"/>
-      <outline type="rss" text="VW Club Форум" xmlUrl="https://forum.vwclub.bg/app.php/feed" htmlUrl="https://forum.vwclub.bg/"/>
-      <outline type="rss" text="BMW Club Форум" xmlUrl="https://bmwpower-bg.net/forums/app.php/feed" htmlUrl="https://bmwpower-bg.net/forums/"/>
     </outline>
     <outline text="YOU TUBE" title="YOU TUBE">
       <outline type="rss" text="DEEPDISCO" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0wT3T3U8tzg7CxcwlH3Tfg" htmlUrl="https://www.youtube.com"/>
