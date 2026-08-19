@@ -76,10 +76,6 @@
       <outline type="rss" text="The Clashers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ40ytnFrzko0B1Kqb5AvdQ" htmlUrl="https://www.youtube.com"/>
       <outline type="rss" text="CHOKO" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKYVRKlEbpeFRFN300sunCg" htmlUrl="https://www.youtube.com"/>
       <outline type="rss" text="Atanas Tchobanov" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjyldIeUfwYJQwBfwrc9A" htmlUrl="https://www.youtube.com"/>
-      <outline type="rss" text="Прикаченият подкаст" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn-w9PjJvU6YcW7XQkFw7FA" htmlUrl="https://www.youtube.com"/>
-      <outline type="rss" text="Българска История" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6_f6479sTUp1i8sS8I83CA" htmlUrl="https://www.youtube.com"/>
-      <outline type="rss" text="Andy Studio" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrJ5I2eAn8lPylsLq-O2pSg" htmlUrl="https://www.youtube.com"/>
-      <outline type="rss" text="7/8 TV Official" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvQj3yX2046i88i91SgLw9Q" htmlUrl="https://www.youtube.com"/>
       <outline type="rss" text="Съзнание" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5-o6jNH5TC1lOeG82oRkRQ" htmlUrl="https://www.youtube.com"/>
       <outline type="rss" text="&apos;Айде БГ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXtO9EJCxTlyWE6Pb7QW4mQ" htmlUrl="https://www.youtube.com"/>
       <outline type="rss" text="Честно казано" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRFvf0f1A2oBWv10XvboB_A" htmlUrl="https://www.youtube.com"/>
@@ -130,8 +126,6 @@
     <outline text="ЗДРАВЕ" title="ЗДРАВЕ">
       <outline type="rss" text="Offnews Здраве" xmlUrl="https://offnews.bg/rss/Zdrave_18753" htmlUrl="https://offnews.bg"/>
       <outline type="rss" text="Лекува нет" xmlUrl="https://lekuva.net/feed" htmlUrl="https://lekuva.net"/>
-      <outline type="rss" text="Mamita-BG" xmlUrl="https://mamita-bg.com/category/zdrave/feed/" htmlUrl="https://mamita-bg.com"/>
-      <outline type="rss" text="Puls.bg" xmlUrl="https://www.puls.bg/rss" htmlUrl="https://www.puls.bg"/>
     </outline>
     <outline text="КИНО" title="КИНО">
       <outline type="rss" text="actualno.com Cinema" xmlUrl="https://www.actualno.com/cinema" htmlUrl="https://www.actualno.com"/>
