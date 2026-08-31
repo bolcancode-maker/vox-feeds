@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generated": "2026-08-31",
-  "totalFeeds": 1750,
+  "totalFeeds": 1767,
   "totalLanguages": 49,
   "feeds": [
     {
@@ -3899,7 +3899,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "CRYPTO"
+      "category": "CRYPTO (Krypto & Blockchain)"
     },
     {
       "name": "BTC-ECHO",
@@ -3908,7 +3908,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "CRYPTO"
+      "category": "CRYPTO (Krypto & Blockchain)"
     },
     {
       "name": "Coinkurier",
@@ -3917,7 +3917,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "CRYPTO"
+      "category": "CRYPTO (Krypto & Blockchain)"
     },
     {
       "name": "CoinPro.ch",
@@ -3926,16 +3926,16 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "CRYPTO"
+      "category": "CRYPTO (Krypto & Blockchain)"
     },
     {
       "name": "Boerse.de",
-      "rssUrl": "https://www.boerse.de/rss/aktien-news.xml",
+      "rssUrl": "https://www.boerse.de/rss/boersennews.xml",
       "websiteUrl": "https://www.boerse.de",
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "FINANCE"
+      "category": "FINANCE (Finanzen & Wirtschaft)"
     },
     {
       "name": "Finanzen.net",
@@ -3944,16 +3944,16 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "FINANCE"
+      "category": "FINANCE (Finanzen & Wirtschaft)"
     },
     {
-      "name": "Handelsblatt",
+      "name": "Handelsblatt Top-Themen",
       "rssUrl": "https://www.handelsblatt.com/contentexport/feed/top-themen/",
       "websiteUrl": "https://www.handelsblatt.com",
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "FINANCE"
+      "category": "FINANCE (Finanzen & Wirtschaft)"
     },
     {
       "name": "Manager Magazin",
@@ -3962,7 +3962,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "FINANCE"
+      "category": "FINANCE (Finanzen & Wirtschaft)"
     },
     {
       "name": "Wall Street Online",
@@ -3971,7 +3971,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "FINANCE"
+      "category": "FINANCE (Finanzen & Wirtschaft)"
     },
     {
       "name": "WirtschaftsWoche",
@@ -3980,7 +3980,124 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "FINANCE"
+      "category": "FINANCE (Finanzen & Wirtschaft)"
+    },
+    {
+      "name": "Berliner Zeitung",
+      "rssUrl": "https://www.berliner-zeitung.de/feed.xml",
+      "websiteUrl": "https://www.berliner-zeitung.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "BR24 (Bayern)",
+      "rssUrl": "https://www.br.de/nachrichten/rss",
+      "websiteUrl": "https://www.br.de/nachrichten",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "Hamburger Abendblatt",
+      "rssUrl": "https://www.abendblatt.de/rss",
+      "websiteUrl": "https://www.abendblatt.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "HAZ (Niedersachsen)",
+      "rssUrl": "https://www.haz.de/rss.xml",
+      "websiteUrl": "https://www.haz.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "Hessenschau (Hessen)",
+      "rssUrl": "https://www.hessenschau.de/index.rss",
+      "websiteUrl": "https://www.hessenschau.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "Kölner Stadt-Anzeiger",
+      "rssUrl": "https://www.ksta.de/feed/rss",
+      "websiteUrl": "https://www.ksta.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "MDR Aktuell (Sachsen, Thüringen, Sachsen-Anhalt)",
+      "rssUrl": "https://www.mdr.de/nachrichten/mdr-homepage-100-rss.xml",
+      "websiteUrl": "https://www.mdr.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "NDR Info (Norddeutschland)",
+      "rssUrl": "https://www.ndr.de/nachrichten/index-rss.xml",
+      "websiteUrl": "https://www.ndr.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "rbb24 (Berlin & Brandenburg)",
+      "rssUrl": "https://www.rbb24.de/aktuell/index.xml/feed=rss.xml",
+      "websiteUrl": "https://www.rbb24.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "Stuttgarter Zeitung",
+      "rssUrl": "https://www.stuttgarter-zeitung.de/rss",
+      "websiteUrl": "https://www.stuttgarter-zeitung.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "SWR Aktuell (Baden-Württemberg & RLP)",
+      "rssUrl": "https://www.swr.de/swraktuell/feed-swraktuell-100.xml",
+      "websiteUrl": "https://www.swr.de/swraktuell",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "Sächsische.de (Dresden)",
+      "rssUrl": "https://www.saechsische.de/rss",
+      "websiteUrl": "https://www.saechsische.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
+    },
+    {
+      "name": "WDR Aktuell (Nordrhein-Westfalen)",
+      "rssUrl": "https://www1.wdr.de/uebersicht-100.feed",
+      "websiteUrl": "https://www1.wdr.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "REGIONAL & BUNDESLÄNDER"
     },
     {
       "name": "11FREUNDE",
@@ -3989,16 +4106,16 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "SPORTS"
+      "category": "SPORTS (Sport & Auto)"
     },
     {
       "name": "Auto Bild",
-      "rssUrl": "https://www.autobild.de/rss/2240213.xml",
+      "rssUrl": "https://www.autobild.de/rss/2222222.xml",
       "websiteUrl": "https://www.autobild.de",
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "SPORTS"
+      "category": "SPORTS (Sport & Auto)"
     },
     {
       "name": "Kicker",
@@ -4007,7 +4124,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "SPORTS"
+      "category": "SPORTS (Sport & Auto)"
     },
     {
       "name": "Sport1",
@@ -4016,7 +4133,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "SPORTS"
+      "category": "SPORTS (Sport & Auto)"
     },
     {
       "name": "Sportschau",
@@ -4025,7 +4142,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "SPORTS"
+      "category": "SPORTS (Sport & Auto)"
     },
     {
       "name": "Chip.de",
@@ -4034,7 +4151,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TECHNOLOGY"
+      "category": "TECHNOLOGY & GAMING"
     },
     {
       "name": "ComputerBase",
@@ -4043,7 +4160,16 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TECHNOLOGY"
+      "category": "TECHNOLOGY & GAMING"
+    },
+    {
+      "name": "GameStar",
+      "rssUrl": "https://www.gamestar.de/news/rss/news.rss",
+      "websiteUrl": "https://www.gamestar.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "TECHNOLOGY & GAMING"
     },
     {
       "name": "Golem.de",
@@ -4052,7 +4178,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TECHNOLOGY"
+      "category": "TECHNOLOGY & GAMING"
     },
     {
       "name": "Heise Online",
@@ -4061,7 +4187,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TECHNOLOGY"
+      "category": "TECHNOLOGY & GAMING"
     },
     {
       "name": "Netzwelt",
@@ -4070,34 +4196,61 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TECHNOLOGY"
+      "category": "TECHNOLOGY & GAMING"
+    },
+    {
+      "name": "PC Games",
+      "rssUrl": "https://www.pcgames.de/rss/news.xml",
+      "websiteUrl": "https://www.pcgames.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "TECHNOLOGY & GAMING"
     },
     {
       "name": "PC-WELT",
-      "rssUrl": "https://www.pcwelt.de/feed",
+      "rssUrl": "https://www.pcwelt.de/feed/rss",
       "websiteUrl": "https://www.pcwelt.de",
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TECHNOLOGY"
+      "category": "TECHNOLOGY & GAMING"
     },
     {
       "name": "t3n",
-      "rssUrl": "https://t3n.de/rss.xml",
+      "rssUrl": "https://t3n.de/feed/",
       "websiteUrl": "https://t3n.de",
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TECHNOLOGY"
+      "category": "TECHNOLOGY & GAMING"
     },
     {
       "name": "WinFuture",
-      "rssUrl": "https://winfuture.de/wfrss.php?cat=1",
+      "rssUrl": "https://winfuture.de/rss/news.xml",
       "websiteUrl": "https://winfuture.de",
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TECHNOLOGY"
+      "category": "TECHNOLOGY & GAMING"
+    },
+    {
+      "name": "Bild.de - Schlagzeilen",
+      "rssUrl": "https://www.bild.de/rss/vw/news.xml",
+      "websiteUrl": "https://www.bild.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "TOP NEWS (Hauptnachrichten)"
+    },
+    {
+      "name": "Cicero Magazine",
+      "rssUrl": "https://www.cicero.de/rss.xml",
+      "websiteUrl": "https://www.cicero.de",
+      "language": "german",
+      "languageName": "German",
+      "country": "Germany / Austria / Switzerland",
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "Der Spiegel",
@@ -4106,7 +4259,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "Die Welt",
@@ -4115,7 +4268,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "Focus Online",
@@ -4124,7 +4277,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "Frankfurter Allgemeine (FAZ)",
@@ -4133,7 +4286,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "Handelsblatt Politik",
@@ -4142,7 +4295,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "n-tv.de",
@@ -4151,7 +4304,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "Stern.de",
@@ -4160,7 +4313,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "Süddeutsche Zeitung",
@@ -4169,7 +4322,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "Tagesschau",
@@ -4178,7 +4331,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "Zeit Online",
@@ -4187,7 +4340,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "TOP NEWS"
+      "category": "TOP NEWS (Hauptnachrichten)"
     },
     {
       "name": "AlexiBexi",
@@ -4196,7 +4349,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "YOU TUBE"
+      "category": "YOUTUBE"
     },
     {
       "name": "Computer Bild",
@@ -4205,7 +4358,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "YOU TUBE"
+      "category": "YOUTUBE"
     },
     {
       "name": "Gronkh",
@@ -4214,7 +4367,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "YOU TUBE"
+      "category": "YOUTUBE"
     },
     {
       "name": "Kurzgesagt – German",
@@ -4223,7 +4376,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "YOU TUBE"
+      "category": "YOUTUBE"
     },
     {
       "name": "MrWissen2go",
@@ -4232,7 +4385,7 @@
       "language": "german",
       "languageName": "German",
       "country": "Germany / Austria / Switzerland",
-      "category": "YOU TUBE"
+      "category": "YOUTUBE"
     },
     {
       "name": "Banking News",
