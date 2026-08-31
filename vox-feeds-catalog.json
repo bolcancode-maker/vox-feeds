@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generated": "2026-08-31",
-  "totalFeeds": 1726,
+  "totalFeeds": 1727,
   "totalLanguages": 49,
   "feeds": [
     {
@@ -9914,22 +9914,22 @@
       "category": "Technology & IT (تکنولوژی و آی‌تی)"
     },
     {
-      "name": "Bankier.pl",
+      "name": "Bankier.pl - Wiadomości",
       "rssUrl": "https://www.bankier.pl/rss/wiadomosci.xml",
       "websiteUrl": "https://www.bankier.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Business & Economy (Biznes i Gospodarka)"
+      "category": "Biznes i Gospodarka (Business & Economy)"
     },
     {
       "name": "Business Insider Polska",
-      "rssUrl": "https://businessinsider.com.pl/.feed",
+      "rssUrl": "https://businessinsider.com.pl/rss",
       "websiteUrl": "https://businessinsider.com.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Business & Economy (Biznes i Gospodarka)"
+      "category": "Biznes i Gospodarka (Business & Economy)"
     },
     {
       "name": "Forsal.pl",
@@ -9938,7 +9938,7 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Business & Economy (Biznes i Gospodarka)"
+      "category": "Biznes i Gospodarka (Business & Economy)"
     },
     {
       "name": "Money.pl",
@@ -9947,7 +9947,7 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Business & Economy (Biznes i Gospodarka)"
+      "category": "Biznes i Gospodarka (Business & Economy)"
     },
     {
       "name": "Puls Biznesu",
@@ -9956,151 +9956,34 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Business & Economy (Biznes i Gospodarka)"
+      "category": "Biznes i Gospodarka (Business & Economy)"
     },
     {
-      "name": "WNP.pl",
+      "name": "Wirtualne Media",
+      "rssUrl": "https://www.wirtualnemedia.pl/rss",
+      "websiteUrl": "https://www.wirtualnemedia.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Biznes i Gospodarka (Business & Economy)"
+    },
+    {
+      "name": "WNP.pl - WNP Gospodarka",
       "rssUrl": "https://www.wnp.pl/rss/",
       "websiteUrl": "https://www.wnp.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Business & Economy (Biznes i Gospodarka)"
+      "category": "Biznes i Gospodarka (Business & Economy)"
     },
     {
-      "name": "Do Rzeczy",
-      "rssUrl": "https://dorzeczy.pl/feed",
-      "websiteUrl": "https://dorzeczy.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Dziennik.pl",
-      "rssUrl": "https://wiadomosci.dziennik.pl/rss.xml",
-      "websiteUrl": "https://wiadomosci.dziennik.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Gazeta Wyborcza",
-      "rssUrl": "https://wyborcza.pl/pub/rss/najnowsze.xml",
-      "websiteUrl": "https://wyborcza.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Gazeta.pl",
-      "rssUrl": "https://wiadomosci.gazeta.pl/pub/rss/wiadomosci.xml",
-      "websiteUrl": "https://www.gazeta.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Interia.pl - Fakty",
-      "rssUrl": "https://fakty.interia.pl/feed",
-      "websiteUrl": "https://fakty.interia.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Notes from Poland (English)",
-      "rssUrl": "https://notesfrompoland.com/feed/",
-      "websiteUrl": "https://notesfrompoland.com",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Onet.pl - Wiadomości",
-      "rssUrl": "https://wiadomosci.onet.pl/.feed",
-      "websiteUrl": "https://wiadomosci.onet.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Polska Agencja Prasowa (PAP)",
-      "rssUrl": "https://www.pap.pl/rss",
-      "websiteUrl": "https://www.pap.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Polskie Radio",
-      "rssUrl": "https://www.polskieradio.pl/stati/rss/1.xml",
-      "websiteUrl": "https://www.polskieradio.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Rzeczpospolita",
-      "rssUrl": "https://www.rp.pl/rss",
-      "websiteUrl": "https://www.rp.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "The First News (English)",
-      "rssUrl": "https://www.thefirstnews.com/rss",
-      "websiteUrl": "https://www.thefirstnews.com",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "TVN24 - Najnowsze",
-      "rssUrl": "https://tvn24.pl/najnowsze.xml",
-      "websiteUrl": "https://tvn24.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "WP.pl - Wiadomości",
-      "rssUrl": "https://wiadomosci.wp.pl/rss.xml",
-      "websiteUrl": "https://wiadomosci.wp.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Wprost",
-      "rssUrl": "https://www.wprost.pl/rss",
-      "websiteUrl": "https://www.wprost.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "General News (Wiadomości)"
-    },
-    {
-      "name": "Filmweb",
-      "rssUrl": "https://www.filmweb.pl/feed",
+      "name": "Filmweb - Newsy",
+      "rssUrl": "https://www.filmweb.pl/feed/news",
       "websiteUrl": "https://www.filmweb.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Lifestyle & Culture (Kultura i Rozrywka)"
+      "category": "Kultura i Rozrywka (Lifestyle & Culture)"
     },
     {
       "name": "Kultura Liberalna",
@@ -10109,115 +9992,34 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Lifestyle & Culture (Kultura i Rozrywka)"
+      "category": "Kultura i Rozrywka (Lifestyle & Culture)"
     },
     {
-      "name": "Plejada",
-      "rssUrl": "https://plejada.pl/.feed",
+      "name": "Onet Kultura",
+      "rssUrl": "https://kultura.onet.pl/rss",
+      "websiteUrl": "https://kultura.onet.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Kultura i Rozrywka (Lifestyle & Culture)"
+    },
+    {
+      "name": "Plejada.pl",
+      "rssUrl": "https://plejada.pl/rss",
       "websiteUrl": "https://plejada.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Lifestyle & Culture (Kultura i Rozrywka)"
+      "category": "Kultura i Rozrywka (Lifestyle & Culture)"
     },
     {
-      "name": "Pudelek",
+      "name": "Pudelek.pl",
       "rssUrl": "https://www.pudelek.pl/rss.xml",
       "websiteUrl": "https://www.pudelek.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Lifestyle & Culture (Kultura i Rozrywka)"
-    },
-    {
-      "name": "Dziennik Bałtycki (Gdańsk)",
-      "rssUrl": "https://dziennikbaltycki.pl/rss/",
-      "websiteUrl": "https://dziennikbaltycki.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
-    },
-    {
-      "name": "Dziennik Zachodni (Katowice)",
-      "rssUrl": "https://dziennikzachodni.pl/rss/",
-      "websiteUrl": "https://dziennikzachodni.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
-    },
-    {
-      "name": "Dziennik Łódzki",
-      "rssUrl": "https://dzienniklodzki.pl/rss/",
-      "websiteUrl": "https://dzienniklodzki.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
-    },
-    {
-      "name": "Express Ilustrowany",
-      "rssUrl": "https://expressilustrowany.pl/rss/",
-      "websiteUrl": "https://expressilustrowany.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
-    },
-    {
-      "name": "Gazeta Krakowska",
-      "rssUrl": "https://gazetakrakowska.pl/rss/",
-      "websiteUrl": "https://gazetakrakowska.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
-    },
-    {
-      "name": "Gazeta Lubuska",
-      "rssUrl": "https://gazetalubuska.pl/rss/",
-      "websiteUrl": "https://gazetalubuska.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
-    },
-    {
-      "name": "Gazeta Pomorska",
-      "rssUrl": "https://pomorska.pl/rss/",
-      "websiteUrl": "https://pomorska.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
-    },
-    {
-      "name": "Gazeta Wrocławska",
-      "rssUrl": "https://gazetawroclawska.pl/rss/",
-      "websiteUrl": "https://gazetawroclawska.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
-    },
-    {
-      "name": "Głos Wielkopolski (Poznań)",
-      "rssUrl": "https://gloswielkopolski.pl/rss/",
-      "websiteUrl": "https://gloswielkopolski.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
-    },
-    {
-      "name": "Kurier Lubelski",
-      "rssUrl": "https://kurierlubelski.pl/rss/",
-      "websiteUrl": "https://kurierlubelski.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Regional News (Wiadomości Regionalne)"
+      "category": "Kultura i Rozrywka (Lifestyle & Culture)"
     },
     {
       "name": "Meczyki.pl",
@@ -10226,16 +10028,16 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Sports (Sport)"
+      "category": "Sport (Sports)"
     },
     {
       "name": "Przegląd Sportowy",
-      "rssUrl": "https://przegladsportowy.onet.pl/.feed",
+      "rssUrl": "https://przegladsportowy.onet.pl/rss",
       "websiteUrl": "https://przegladsportowy.onet.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Sports (Sport)"
+      "category": "Sport (Sports)"
     },
     {
       "name": "Sport.pl",
@@ -10244,7 +10046,7 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Sports (Sport)"
+      "category": "Sport (Sports)"
     },
     {
       "name": "TVP Sport",
@@ -10253,7 +10055,7 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Sports (Sport)"
+      "category": "Sport (Sports)"
     },
     {
       "name": "WP SportoweFakty",
@@ -10262,7 +10064,7 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Sports (Sport)"
+      "category": "Sport (Sports)"
     },
     {
       "name": "Antyweb",
@@ -10271,7 +10073,7 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Technology & Science (Technologia i Nauka)"
+      "category": "Technologia i Nauka (Technology & Science)"
     },
     {
       "name": "Benchmark.pl",
@@ -10280,52 +10082,34 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Technology & Science (Technologia i Nauka)"
+      "category": "Technologia i Nauka (Technology & Science)"
     },
     {
-      "name": "Dobreprogramy",
-      "rssUrl": "https://www.dobreprogramy.pl/rss.xml",
-      "websiteUrl": "https://www.dobreprogramy.pl",
+      "name": "CyberDefence24",
+      "rssUrl": "https://cyberdefence24.pl/rss",
+      "websiteUrl": "https://cyberdefence24.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Technology & Science (Technologia i Nauka)"
-    },
-    {
-      "name": "Elektroda.pl",
-      "rssUrl": "https://www.elektroda.pl/rss.php",
-      "websiteUrl": "https://www.elektroda.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Technology & Science (Technologia i Nauka)"
+      "category": "Technologia i Nauka (Technology & Science)"
     },
     {
       "name": "Komputer Świat",
-      "rssUrl": "https://www.komputerswiat.pl/.feed",
+      "rssUrl": "https://www.komputerswiat.pl/rss",
       "websiteUrl": "https://www.komputerswiat.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Technology & Science (Technologia i Nauka)"
+      "category": "Technologia i Nauka (Technology & Science)"
     },
     {
       "name": "Nauka w Polsce",
-      "rssUrl": "https://naukawpolsce.pap.pl/rss",
-      "websiteUrl": "https://naukawpolsce.pap.pl",
+      "rssUrl": "https://naukawpolsce.pl/rss.xml",
+      "websiteUrl": "https://naukawpolsce.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Technology & Science (Technologia i Nauka)"
-    },
-    {
-      "name": "PurePC",
-      "rssUrl": "https://www.purepc.pl/rss.xml",
-      "websiteUrl": "https://www.purepc.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Technology & Science (Technologia i Nauka)"
+      "category": "Technologia i Nauka (Technology & Science)"
     },
     {
       "name": "Spider's Web",
@@ -10334,7 +10118,232 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Technology & Science (Technologia i Nauka)"
+      "category": "Technologia i Nauka (Technology & Science)"
+    },
+    {
+      "name": "Do Rzeczy",
+      "rssUrl": "https://dorzeczy.pl/feed",
+      "websiteUrl": "https://dorzeczy.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Dziennik.pl - Wiadomości",
+      "rssUrl": "https://wiadomosci.dziennik.pl/rss.xml",
+      "websiteUrl": "https://wiadomosci.dziennik.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Gazeta Wyborcza",
+      "rssUrl": "https://wyborcza.pl/pub/rss/najnowsze.xml",
+      "websiteUrl": "https://wyborcza.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Gazeta.pl - Wiadomości",
+      "rssUrl": "https://wiadomosci.gazeta.pl/pub/rss/wiadomosci.xml",
+      "websiteUrl": "https://www.gazeta.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Interia.pl - Fakty",
+      "rssUrl": "https://fakty.interia.pl/feed",
+      "websiteUrl": "https://fakty.interia.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Notes from Poland (English)",
+      "rssUrl": "https://notesfrompoland.com/feed/",
+      "websiteUrl": "https://notesfrompoland.com",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Onet.pl - Wiadomości",
+      "rssUrl": "https://wiadomosci.onet.pl/rss",
+      "websiteUrl": "https://wiadomosci.onet.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "PAP - Polska Agencja Prasowa",
+      "rssUrl": "https://www.pap.pl/rss.xml",
+      "websiteUrl": "https://www.pap.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Polsat News",
+      "rssUrl": "https://www.polsatnews.pl/rss/wszystkie.xml",
+      "websiteUrl": "https://www.polsatnews.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Polskie Radio - Informacje",
+      "rssUrl": "https://www.polskieradio.pl/stati/rss/1.xml",
+      "websiteUrl": "https://www.polskieradio.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "RMF24 - Najważniejsze Fakty",
+      "rssUrl": "https://www.rmf24.pl/feed",
+      "websiteUrl": "https://www.rmf24.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Rzeczpospolita",
+      "rssUrl": "https://www.rp.pl/rss/subkanal/10",
+      "websiteUrl": "https://www.rp.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "TVN24 - Najnowsze",
+      "rssUrl": "https://tvn24.pl/najnowsze.xml",
+      "websiteUrl": "https://tvn24.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "WP.pl - Wiadomości",
+      "rssUrl": "https://wiadomosci.wp.pl/rss.xml",
+      "websiteUrl": "https://wiadomosci.wp.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Wprost",
+      "rssUrl": "https://www.wprost.pl/rss",
+      "websiteUrl": "https://www.wprost.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Dziennik Bałtycki (Gdańsk)",
+      "rssUrl": "https://dziennikbaltycki.pl/rss/",
+      "websiteUrl": "https://dziennikbaltycki.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Dziennik Zachodni (Katowice)",
+      "rssUrl": "https://dziennikzachodni.pl/rss/",
+      "websiteUrl": "https://dziennikzachodni.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Dziennik Łódzki",
+      "rssUrl": "https://dzienniklodzki.pl/rss/",
+      "websiteUrl": "https://dzienniklodzki.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Express Ilustrowany",
+      "rssUrl": "https://expressilustrowany.pl/rss/",
+      "websiteUrl": "https://expressilustrowany.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Gazeta Krakowska",
+      "rssUrl": "https://gazetakrakowska.pl/rss/",
+      "websiteUrl": "https://gazetakrakowska.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Gazeta Lubuska",
+      "rssUrl": "https://gazetalubuska.pl/rss/",
+      "websiteUrl": "https://gazetalubuska.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Gazeta Pomorska",
+      "rssUrl": "https://pomorska.pl/rss/",
+      "websiteUrl": "https://pomorska.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Gazeta Wrocławska",
+      "rssUrl": "https://gazetawroclawska.pl/rss/",
+      "websiteUrl": "https://gazetawroclawska.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Głos Wielkopolski (Poznań)",
+      "rssUrl": "https://gloswielkopolski.pl/rss/",
+      "websiteUrl": "https://gloswielkopolski.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Kurier Lubelski",
+      "rssUrl": "https://kurierlubelski.pl/rss/",
+      "websiteUrl": "https://kurierlubelski.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
     },
     {
       "name": "BBC Brasil",
