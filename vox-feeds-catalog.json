@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generated": "2026-08-31",
-  "totalFeeds": 1762,
+  "totalFeeds": 1775,
   "totalLanguages": 49,
   "feeds": [
     {
@@ -7430,9 +7430,27 @@
       "category": "Regional News (Kabar Daerah)"
     },
     {
-      "name": "E-Daily (อีเดลี่)",
+      "name": "Digital Times (디지털타임스)",
+      "rssUrl": "https://www.dt.co.kr/rss/dt_all.xml",
+      "websiteUrl": "https://www.dt.co.kr",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Economy & Finance (경제/금융)"
+    },
+    {
+      "name": "E-Daily (이데일리)",
       "rssUrl": "https://www.edaily.co.kr/rss/edaily.xml",
       "websiteUrl": "https://www.edaily.co.kr",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Economy & Finance (경제/금융)"
+    },
+    {
+      "name": "Financial News (파이낸셜뉴스)",
+      "rssUrl": "https://www.fnnews.com/rss/fn_all.xml",
+      "websiteUrl": "https://www.fnnews.com",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
@@ -7473,6 +7491,15 @@
       "languageName": "Korean",
       "country": "South Korea",
       "category": "Economy & Finance (경제/금융)"
+    },
+    {
+      "name": "KBS World Radio News",
+      "rssUrl": "https://world.kbs.co.kr/rss/rss_news.htm?lang=e",
+      "websiteUrl": "https://world.kbs.co.kr",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "English News from Korea"
     },
     {
       "name": "Korea JoongAng Daily",
@@ -7517,25 +7544,43 @@
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Entertainment & K-Pop (연예/K-Pop)"
+      "category": "Entertainment, K-Pop & Culture (연예/K-Pop/문화)"
     },
     {
-      "name": "OSEN",
+      "name": "HanCinema (K-Drama Movie Database)",
+      "rssUrl": "https://www.hancinema.net/rss/news.xml",
+      "websiteUrl": "https://www.hancinema.net",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Entertainment, K-Pop & Culture (연예/K-Pop/문화)"
+    },
+    {
+      "name": "Koreaboo",
+      "rssUrl": "https://www.koreaboo.com/feed/",
+      "websiteUrl": "https://www.koreaboo.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Entertainment, K-Pop & Culture (연예/K-Pop/문화)"
+    },
+    {
+      "name": "OSEN (스포츠/연예)",
       "rssUrl": "https://osen.mt.co.kr/rss/total",
       "websiteUrl": "https://osen.mt.co.kr",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Entertainment & K-Pop (연예/K-Pop)"
+      "category": "Entertainment, K-Pop & Culture (연예/K-Pop/문화)"
     },
     {
-      "name": "Soompi (K-Pop News)",
+      "name": "Soompi (K-Pop & K-Drama)",
       "rssUrl": "https://www.soompi.com/feed",
       "websiteUrl": "https://www.soompi.com",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Entertainment & K-Pop (연예/K-Pop)"
+      "category": "Entertainment, K-Pop & Culture (연예/K-Pop/문화)"
     },
     {
       "name": "Star News",
@@ -7544,7 +7589,7 @@
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Entertainment & K-Pop (연예/K-Pop)"
+      "category": "Entertainment, K-Pop & Culture (연예/K-Pop/문화)"
     },
     {
       "name": "Dong-A Ilbo (동아일보)",
@@ -7610,6 +7655,33 @@
       "category": "General News (주요 뉴스)"
     },
     {
+      "name": "Munhwa Ilbo (문화일보)",
+      "rssUrl": "https://www.munhwa.com/news/section_rss.html?sec=news",
+      "websiteUrl": "https://www.munhwa.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "General News (주요 뉴스)"
+    },
+    {
+      "name": "Ohmynews (오마이뉴스)",
+      "rssUrl": "https://rss.ohmynews.com/rss/topnews.xml",
+      "websiteUrl": "https://www.ohmynews.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "General News (주요 뉴스)"
+    },
+    {
+      "name": "Pressian (프레시안)",
+      "rssUrl": "https://www.pressian.com/data/rss/rss.xml",
+      "websiteUrl": "https://www.pressian.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "General News (주요 뉴스)"
+    },
+    {
       "name": "SBS News (SBS 뉴스)",
       "rssUrl": "https://news.sbs.co.kr/news/rss/news.xml",
       "websiteUrl": "https://news.sbs.co.kr",
@@ -7628,13 +7700,40 @@
       "category": "General News (주요 뉴스)"
     },
     {
+      "name": "Busan Ilbo (부산일보 - Пусан)",
+      "rssUrl": "https://www.busan.com/rss/",
+      "websiteUrl": "https://www.busan.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Regional News (지방 뉴스)"
+    },
+    {
+      "name": "Kyeongin Ilbo (경인일보 - Инчон)",
+      "rssUrl": "https://www.kyeongin.com/rss/",
+      "websiteUrl": "https://www.kyeongin.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Regional News (지방 뉴스)"
+    },
+    {
+      "name": "Maeil Shinmun (매일신문 - Текту)",
+      "rssUrl": "https://news.imaeil.com/rss",
+      "websiteUrl": "https://news.imaeil.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Regional News (지방 뉴스)"
+    },
+    {
       "name": "Bloter",
       "rssUrl": "https://www.bloter.net/rss",
       "websiteUrl": "https://www.bloter.net",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Technology & Gaming (IT/과학/게임)"
+      "category": "Technology, Gaming & Science (IT/과학/게임)"
     },
     {
       "name": "Electronic Times (전자신문)",
@@ -7643,7 +7742,16 @@
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Technology & Gaming (IT/과학/게임)"
+      "category": "Technology, Gaming & Science (IT/과학/게임)"
+    },
+    {
+      "name": "GameMeca (게임메카)",
+      "rssUrl": "https://www.gamemeca.com/rss/news.xml",
+      "websiteUrl": "https://www.gamemeca.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Technology, Gaming & Science (IT/과학/게임)"
     },
     {
       "name": "Inven (인벤 - 게임)",
@@ -7652,7 +7760,16 @@
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Technology & Gaming (IT/과학/게임)"
+      "category": "Technology, Gaming & Science (IT/과학/게임)"
+    },
+    {
+      "name": "Rulieweb (루리웹 - IT/게임)",
+      "rssUrl": "https://bbs.ruliweb.com/rss",
+      "websiteUrl": "https://www.ruliweb.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Technology, Gaming & Science (IT/과학/게임)"
     },
     {
       "name": "ZDNet Korea",
@@ -7661,7 +7778,7 @@
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Technology & Gaming (IT/과학/게임)"
+      "category": "Technology, Gaming & Science (IT/과학/게임)"
     },
     {
       "name": "Delfi Bizness",
