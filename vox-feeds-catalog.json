@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generated": "2026-08-31",
-  "totalFeeds": 1714,
+  "totalFeeds": 1726,
   "totalLanguages": 49,
   "feeds": [
     {
@@ -14,9 +14,63 @@
       "category": "Business & Economy (أعمال واقتصاد)"
     },
     {
-      "name": "Al-Arabiya Business",
+      "name": "Al-Arabiya Business - Aviation",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/business/aviation.xml",
+      "websiteUrl": "https://www.alarabiya.net/business/aviation",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Business & Economy (أعمال واقتصاد)"
+    },
+    {
+      "name": "Al-Arabiya Business - Banking",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/business/banking-and-deposits.xml",
+      "websiteUrl": "https://www.alarabiya.net/business/banking-and-deposits",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Business & Economy (أعمال واقتصاد)"
+    },
+    {
+      "name": "Al-Arabiya Business - Companies",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/business/companies.xml",
+      "websiteUrl": "https://www.alarabiya.net/business/companies",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Business & Economy (أعمال واقتصاد)"
+    },
+    {
+      "name": "Al-Arabiya Business - Main",
       "rssUrl": "https://www.alarabiya.net/.mrss/ar/business.xml",
       "websiteUrl": "https://www.alarabiya.net/business",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Business & Economy (أعمال واقتصاد)"
+    },
+    {
+      "name": "Al-Arabiya Business - Oil & Gas",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/business/oil-and-gas.xml",
+      "websiteUrl": "https://www.alarabiya.net/business/oil-and-gas",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Business & Economy (أعمال واقتصاد)"
+    },
+    {
+      "name": "Al-Arabiya Business - Real Estate",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/business/real-estate.xml",
+      "websiteUrl": "https://www.alarabiya.net/business/real-estate",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Business & Economy (أعمال واقتصاد)"
+    },
+    {
+      "name": "Al-Arabiya Business - Wealth",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/business/markets.xml",
+      "websiteUrl": "https://www.alarabiya.net/business/markets",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
@@ -41,16 +95,115 @@
       "category": "Business & Economy (أعمال واقتصاد)"
     },
     {
-      "name": "MENAFN Business",
-      "rssUrl": "https://menafn.com/rss/menafn_Business_Finance.xml",
-      "websiteUrl": "https://menafn.com",
+      "name": "CNBC Arabia",
+      "rssUrl": "https://www.cnbcarabia.com/rss/news",
+      "websiteUrl": "https://www.cnbcarabia.com",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
       "category": "Business & Economy (أعمال واقتصاد)"
     },
     {
-      "name": "Al Arabiya",
+      "name": "MUBASHER",
+      "rssUrl": "https://www.mubasher.info/rss/news",
+      "websiteUrl": "https://www.mubasher.info",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Business & Economy (أعمال واقتصاد)"
+    },
+    {
+      "name": "Al Arabiya - Culture & Art",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/culture-and-art.xml",
+      "websiteUrl": "https://www.alarabiya.net/culture-and-art",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Culture, Lifestyle & Variety (ثقافة، تنوع ومجتمع)"
+    },
+    {
+      "name": "Al Arabiya - Medicine & Health",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/medicine-and-health.xml",
+      "websiteUrl": "https://www.alarabiya.net/medicine-and-health",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Culture, Lifestyle & Variety (ثقافة، تنوع ومجتمع)"
+    },
+    {
+      "name": "Al Arabiya - Variety",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/variety.xml",
+      "websiteUrl": "https://www.alarabiya.net/variety",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Culture, Lifestyle & Variety (ثقافة، تنوع ومجتمع)"
+    },
+    {
+      "name": "Hia Magazine",
+      "rssUrl": "https://www.hiamag.com/rss.xml",
+      "websiteUrl": "https://www.hiamag.com",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Culture, Lifestyle & Variety (ثقافة، تنوع ومجتمع)"
+    },
+    {
+      "name": "Marie Claire Arabia",
+      "rssUrl": "https://www.marieclairearabia.com/rss",
+      "websiteUrl": "https://www.marieclairearabia.com",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Culture, Lifestyle & Variety (ثقافة، تنوع ومجتمع)"
+    },
+    {
+      "name": "Sayidaty",
+      "rssUrl": "https://www.sayidaty.net/rss",
+      "websiteUrl": "https://www.sayidaty.net",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Culture, Lifestyle & Variety (ثقافة، تنوع ومجتمع)"
+    },
+    {
+      "name": "Al Arabiya - 24 Hours",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/last-24-hours.xml",
+      "websiteUrl": "https://www.alarabiya.net/last-24-hours",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "General News (أخبار عامة)"
+    },
+    {
+      "name": "Al Arabiya - Arab World",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/arab-world.xml",
+      "websiteUrl": "https://www.alarabiya.net/arab-world",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "General News (أخبار عامة)"
+    },
+    {
+      "name": "Al Arabiya - Editor's Choice",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/editor-choice.xml",
+      "websiteUrl": "https://www.alarabiya.net/editor-choice",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "General News (أخبار عامة)"
+    },
+    {
+      "name": "Al Arabiya - International",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/international.xml",
+      "websiteUrl": "https://www.alarabiya.net/international",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "General News (أخبار عامة)"
+    },
+    {
+      "name": "Al Arabiya - Main",
       "rssUrl": "https://www.alarabiya.net/.mrss/ar.xml",
       "websiteUrl": "https://www.alarabiya.net",
       "language": "arabic",
@@ -59,54 +212,9 @@
       "category": "General News (أخبار عامة)"
     },
     {
-      "name": "Al Bawaba",
-      "rssUrl": "https://www.albawaba.com/rss/ar-all",
-      "websiteUrl": "https://www.albawaba.com/ar",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "General News (أخبار عامة)"
-    },
-    {
       "name": "Al Jazeera",
-      "rssUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "websiteUrl": "https://www.aljazeera.com",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "General News (أخبار عامة)"
-    },
-    {
-      "name": "Al Khaleej",
-      "rssUrl": "https://www.alkhaleej.ae/rss",
-      "websiteUrl": "https://www.alkhaleej.ae",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "General News (أخبار عامة)"
-    },
-    {
-      "name": "Al-Masry Al-Youm",
-      "rssUrl": "https://www.almasryalyoum.com/rss/news",
-      "websiteUrl": "https://www.almasryalyoum.com",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "General News (أخبار عامة)"
-    },
-    {
-      "name": "Al-Sharq",
-      "rssUrl": "https://www.al-sharq.com/rss/latestNews",
-      "websiteUrl": "https://www.al-sharq.com",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "General News (أخبار عامة)"
-    },
-    {
-      "name": "All Arab News",
-      "rssUrl": "https://allarab.news/feed",
-      "websiteUrl": "https://allarab.news",
+      "rssUrl": "https://www.aljazeera.net/aljazeerarss/a1e6613c-b492-4749-badf-30113f8981b2/73d0e1b4-532f-45ef-b135-bfd3d2cb0188",
+      "websiteUrl": "https://www.aljazeera.net",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
@@ -114,7 +222,7 @@
     },
     {
       "name": "Asharq Al-Awsat",
-      "rssUrl": "https://aawsat.com/feed",
+      "rssUrl": "https://aawsat.com/feed/news",
       "websiteUrl": "https://aawsat.com",
       "language": "arabic",
       "languageName": "Arabic",
@@ -140,9 +248,36 @@
       "category": "General News (أخبار عامة)"
     },
     {
-      "name": "Okaz",
-      "rssUrl": "https://www.okaz.com.sa/rss",
-      "websiteUrl": "https://www.okaz.com.sa",
+      "name": "Euronews Arabic",
+      "rssUrl": "https://arabic.euronews.com/rss",
+      "websiteUrl": "https://arabic.euronews.com",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "General News (أخبار عامة)"
+    },
+    {
+      "name": "France 24 Arabic",
+      "rssUrl": "https://www.france24.com/ar/rss",
+      "websiteUrl": "https://www.france24.com/ar/",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "General News (أخبار عامة)"
+    },
+    {
+      "name": "Hespress",
+      "rssUrl": "https://www.hespress.com/feed",
+      "websiteUrl": "https://www.hespress.com",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "General News (أخبار عامة)"
+    },
+    {
+      "name": "RT Arabic",
+      "rssUrl": "https://arabic.rt.com/rss/",
+      "websiteUrl": "https://arabic.rt.com",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
@@ -158,58 +293,22 @@
       "category": "General News (أخبار عامة)"
     },
     {
-      "name": "The New Arab",
-      "rssUrl": "https://www.alaraby.co.uk/rss",
-      "websiteUrl": "https://www.alaraby.co.uk",
+      "name": "Al Arabiya - North Africa",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/north-africa.xml",
+      "websiteUrl": "https://www.alarabiya.net/north-africa",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
-      "category": "General News (أخبار عامة)"
+      "category": "Regional News (أخبار إقليمية)"
     },
     {
-      "name": "Asharq Al-Awsat Culture",
-      "rssUrl": "httpsaawsat.com/feed/culture",
-      "websiteUrl": "https://aawsat.com/culture",
+      "name": "Al Arabiya - Saudi Arabia",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/saudi-arabia.xml",
+      "websiteUrl": "https://www.alarabiya.net/saudi-arabia",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
-      "category": "Lifestyle & Culture (لايف ستايل وثقافة)"
-    },
-    {
-      "name": "CNN Arabic Style",
-      "rssUrl": "https://arabic.cnn.com/api/v1/rss/style.xml",
-      "websiteUrl": "https://arabic.cnn.com/style",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "Lifestyle & Culture (لايف ستايل وثقافة)"
-    },
-    {
-      "name": "Hia Magazine",
-      "rssUrl": "https://www.hiamag.com/rss.xml",
-      "websiteUrl": "https://www.hiamag.com",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "Lifestyle & Culture (لايف ستايل وثقافة)"
-    },
-    {
-      "name": "Marie Claire Arabia",
-      "rssUrl": "https://www.marieclairearabia.com/rss",
-      "websiteUrl": "https://www.marieclairearabia.com",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "Lifestyle & Culture (لايف ستايل وثقافة)"
-    },
-    {
-      "name": "Sayidaty",
-      "rssUrl": "https://www.sayidaty.net/rss",
-      "websiteUrl": "https://www.sayidaty.net",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "Lifestyle & Culture (لايف ستايل وثقافة)"
+      "category": "Regional News (أخبار إقليمية)"
     },
     {
       "name": "Doha News",
@@ -224,15 +323,6 @@
       "name": "Egypt Today",
       "rssUrl": "https://www.egypttoday.com/RSS/news",
       "websiteUrl": "https://www.egypttoday.com",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "Regional News (أخبار إقليمية)"
-    },
-    {
-      "name": "Jordan Times",
-      "rssUrl": "https://www.jordantimes.com/rss",
-      "websiteUrl": "https://www.jordantimes.com",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
@@ -257,18 +347,27 @@
       "category": "Regional News (أخبار إقليمية)"
     },
     {
-      "name": "Al Ahram Al Riyadi",
-      "rssUrl": "https://sport.ahram.org.eg/News/Rss/4.aspx",
-      "websiteUrl": "https://sport.ahram.org.eg",
+      "name": "Roya News (رؤيا)",
+      "rssUrl": "https://royanews.tv/rss",
+      "websiteUrl": "https://royanews.tv",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
-      "category": "Sports (رياضة)"
+      "category": "Regional News (أخبار إقليمية)"
     },
     {
-      "name": "Arab News Sport",
-      "rssUrl": "https://www.arabnews.com/sport/feed",
-      "websiteUrl": "https://www.arabnews.com/sport",
+      "name": "Sabq (صحيفة سبق)",
+      "rssUrl": "https://sabq.org/rss.xml",
+      "websiteUrl": "https://sabq.org",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Regional News (أخبار إقليمية)"
+    },
+    {
+      "name": "Al Arabiya Sport",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/sports.xml",
+      "websiteUrl": "https://www.alarabiya.net/sports",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
@@ -278,15 +377,6 @@
       "name": "Arriyadiyah",
       "rssUrl": "https://arriyadiyah.com/rss",
       "websiteUrl": "https://arriyadiyah.com",
-      "language": "arabic",
-      "languageName": "Arabic",
-      "country": "Arabic Countries",
-      "category": "Sports (رياضة)"
-    },
-    {
-      "name": "Asharq Al-Awsat Sport",
-      "rssUrl": "https://aawsat.com/feed/sport",
-      "websiteUrl": "https://aawsat.com/sport",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
@@ -311,6 +401,15 @@
       "category": "Sports (رياضة)"
     },
     {
+      "name": "Kooora (كووورة)",
+      "rssUrl": "https://feeds.feedburner.com/kooora",
+      "websiteUrl": "https://www.kooora.com",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Sports (رياضة)"
+    },
+    {
       "name": "Yalla Kora",
       "rssUrl": "https://www.yallakora.com/rss/news",
       "websiteUrl": "https://www.yallakora.com",
@@ -320,9 +419,18 @@
       "category": "Sports (رياضة)"
     },
     {
-      "name": "3sri.net",
-      "rssUrl": "https://3sri.net/feed",
-      "websiteUrl": "https://3sri.net",
+      "name": "AITNews (البوابة العربية للأخبار التقنية)",
+      "rssUrl": "https://aitnews.com/feed/",
+      "websiteUrl": "https://aitnews.com",
+      "language": "arabic",
+      "languageName": "Arabic",
+      "country": "Arabic Countries",
+      "category": "Technology & Science (تكنولوجيا وعلوم)"
+    },
+    {
+      "name": "Al-Arabiya Science",
+      "rssUrl": "https://www.alarabiya.net/.mrss/ar/science.xml",
+      "websiteUrl": "https://www.alarabiya.net/science",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
@@ -338,18 +446,18 @@
       "category": "Technology & Science (تكنولوجيا وعلوم)"
     },
     {
-      "name": "Asharq Al-Awsat Tech",
-      "rssUrl": "https://aawsat.com/feed/information-technology",
-      "websiteUrl": "https://aawsat.com/information-technology",
+      "name": "CNN Arabic Tech",
+      "rssUrl": "https://arabic.cnn.com/api/v1/rss/tech.xml",
+      "websiteUrl": "https://arabic.cnn.com/tech",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
       "category": "Technology & Science (تكنولوجيا وعلوم)"
     },
     {
-      "name": "CNN Arabic Tech",
-      "rssUrl": "https://arabic.cnn.com/api/v1/rss/tech.xml",
-      "websiteUrl": "https://arabic.cnn.com/tech",
+      "name": "Unlimit Tech (تيك فويس)",
+      "rssUrl": "https://www.unlimit-tech.com/feed/",
+      "websiteUrl": "https://www.unlimit-tech.com",
       "language": "arabic",
       "languageName": "Arabic",
       "country": "Arabic Countries",
