@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
     <head>
-        <title>German News - Expanded</title>
+        <title>German News &amp; Expanded</title>
     </head>
     <body>
-        <outline text="TOP NEWS" title="TOP NEWS">
+        <outline text="TOP NEWS (Hauptnachrichten)" title="TOP NEWS">
             <outline type="rss" text="Tagesschau" xmlUrl="https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml" htmlUrl="https://www.tagesschau.de"/>
+            <outline type="rss" text="Bild.de - Schlagzeilen" xmlUrl="https://www.bild.de/rss/vw/news.xml" htmlUrl="https://www.bild.de"/>
             <outline type="rss" text="Der Spiegel" xmlUrl="https://www.spiegel.de/index.rss" htmlUrl="https://www.spiegel.de"/>
             <outline type="rss" text="Die Welt" xmlUrl="https://www.welt.de/feeds/latest.rss" htmlUrl="https://www.welt.de"/>
             <outline type="rss" text="Frankfurter Allgemeine (FAZ)" xmlUrl="https://www.faz.net/rss/aktuell/" htmlUrl="https://www.faz.net"/>
@@ -15,49 +16,68 @@
             <outline type="rss" text="n-tv.de" xmlUrl="https://www.n-tv.de/rss" htmlUrl="https://www.n-tv.de"/>
             <outline type="rss" text="Stern.de" xmlUrl="https://www.stern.de/feed/standard/all/" htmlUrl="https://www.stern.de"/>
             <outline type="rss" text="Handelsblatt Politik" xmlUrl="https://www.handelsblatt.com/contentexport/feed/politik" htmlUrl="https://www.handelsblatt.com"/>
+            <outline type="rss" text="Cicero Magazine" xmlUrl="https://www.cicero.de/rss.xml" htmlUrl="https://www.cicero.de"/>
         </outline>
 
-        <outline text="FINANCE" title="FINANCE">
-            <outline type="rss" text="Handelsblatt" xmlUrl="https://www.handelsblatt.com/contentexport/feed/top-themen/" htmlUrl="https://www.handelsblatt.com"/>
+        <outline text="REGIONAL &amp; BUNDESLÄNDER" title="REGIONAL &amp; BUNDESLÄNDER">
+            <outline type="rss" text="BR24 (Bayern)" title="BR24" xmlUrl="https://www.br.de/nachrichten/rss" htmlUrl="https://www.br.de/nachrichten"/>
+            <outline type="rss" text="WDR Aktuell (Nordrhein-Westfalen)" title="WDR" xmlUrl="https://www1.wdr.de/uebersicht-100.feed" htmlUrl="https://www1.wdr.de"/>
+            <outline type="rss" text="SWR Aktuell (Baden-Württemberg &amp; RLP)" title="SWR" xmlUrl="https://www.swr.de/swraktuell/feed-swraktuell-100.xml" htmlUrl="https://www.swr.de/swraktuell"/>
+            <outline type="rss" text="Hessenschau (Hessen)" title="Hessenschau" xmlUrl="https://www.hessenschau.de/index.rss" htmlUrl="https://www.hessenschau.de"/>
+            <outline type="rss" text="rbb24 (Berlin &amp; Brandenburg)" title="rbb24" xmlUrl="https://www.rbb24.de/aktuell/index.xml/feed=rss.xml" htmlUrl="https://www.rbb24.de"/>
+            <outline type="rss" text="MDR Aktuell (Sachsen, Thüringen, Sachsen-Anhalt)" title="MDR" xmlUrl="https://www.mdr.de/nachrichten/mdr-homepage-100-rss.xml" htmlUrl="https://www.mdr.de"/>
+            <outline type="rss" text="NDR Info (Norddeutschland)" title="NDR" xmlUrl="https://www.ndr.de/nachrichten/index-rss.xml" htmlUrl="https://www.ndr.de"/>
+            <outline type="rss" text="Berliner Zeitung" title="Berliner Zeitung" xmlUrl="https://www.berliner-zeitung.de/feed.xml" htmlUrl="https://www.berliner-zeitung.de"/>
+            <outline type="rss" text="Kölner Stadt-Anzeiger" title="KSTAZ" xmlUrl="https://www.ksta.de/feed/rss" htmlUrl="https://www.ksta.de"/>
+            <outline type="rss" text="Hamburger Abendblatt" title="Abendblatt" xmlUrl="https://www.abendblatt.de/rss" htmlUrl="https://www.abendblatt.de"/>
+            <outline type="rss" text="Stuttgarter Zeitung" title="StZ" xmlUrl="https://www.stuttgarter-zeitung.de/rss" htmlUrl="https://www.stuttgarter-zeitung.de"/>
+            <outline type="rss" text="HAZ (Niedersachsen)" title="HAZ" xmlUrl="https://www.haz.de/rss.xml" htmlUrl="https://www.haz.de"/>
+            <outline type="rss" text="Sächsische.de (Dresden)" title="Saechsische" xmlUrl="https://www.saechsische.de/rss" htmlUrl="https://www.saechsische.de"/>
+        </outline>
+
+        <outline text="FINANCE (Finanzen &amp; Wirtschaft)" title="FINANCE">
+            <outline type="rss" text="Handelsblatt Top-Themen" xmlUrl="https://www.handelsblatt.com/contentexport/feed/top-themen/" htmlUrl="https://www.handelsblatt.com"/>
             <outline type="rss" text="WirtschaftsWoche" xmlUrl="https://www.wiwo.de/feed/rss/alles" htmlUrl="https://www.wiwo.de"/>
-            <outline type="rss" text="Boerse.de" xmlUrl="https://www.boerse.de/rss/aktien-news.xml" htmlUrl="https://www.boerse.de"/>
+            <outline type="rss" text="Boerse.de" xmlUrl="https://www.boerse.de/rss/boersennews.xml" htmlUrl="https://www.boerse.de"/>
             <outline type="rss" text="Finanzen.net" xmlUrl="https://www.finanzen.net/rss/news" htmlUrl="https://www.finanzen.net"/>
             <outline type="rss" text="Manager Magazin" xmlUrl="https://www.manager-magazin.de/index.rss" htmlUrl="https://www.manager-magazin.de"/>
             <outline type="rss" text="Wall Street Online" xmlUrl="https://www.wallstreet-online.de/rss/nachrichten.xml" htmlUrl="https://www.wallstreet-online.de"/>
         </outline>
 
-        <outline text="TECHNOLOGY" title="TECHNOLOGY">
+        <outline text="TECHNOLOGY &amp; GAMING" title="TECHNOLOGY &amp; GAMING">
             <outline type="rss" text="Heise Online" xmlUrl="https://www.heise.de/rss/heise-atom.xml" htmlUrl="https://www.heise.de"/>
             <outline type="rss" text="Golem.de" xmlUrl="https://rss.golem.de/rss.php?feed=ATOM1.0" htmlUrl="https://www.golem.de"/>
             <outline type="rss" text="Chip.de" xmlUrl="https://www.chip.de/rss/chip_complete.xml" htmlUrl="https://www.chip.de"/>
             <outline type="rss" text="ComputerBase" xmlUrl="https://www.computerbase.de/rss/news.xml" htmlUrl="https://www.computerbase.de"/>
-            <outline type="rss" text="WinFuture" xmlUrl="https://winfuture.de/wfrss.php?cat=1" htmlUrl="https://winfuture.de"/>
+            <outline type="rss" text="WinFuture" xmlUrl="https://winfuture.de/rss/news.xml" htmlUrl="https://winfuture.de"/>
             <outline type="rss" text="Netzwelt" xmlUrl="https://www.netzwelt.de/rss.xml" htmlUrl="https://www.netzwelt.de"/>
-            <outline type="rss" text="t3n" xmlUrl="https://t3n.de/rss.xml" htmlUrl="https://t3n.de"/>
-            <outline type="rss" text="PC-WELT" xmlUrl="https://www.pcwelt.de/feed" htmlUrl="https://www.pcwelt.de"/>
+            <outline type="rss" text="t3n" xmlUrl="https://t3n.de/feed/" htmlUrl="https://t3n.de"/>
+            <outline type="rss" text="PC-WELT" xmlUrl="https://www.pcwelt.de/feed/rss" htmlUrl="https://www.pcwelt.de"/>
+            <outline type="rss" text="GameStar" xmlUrl="https://www.gamestar.de/news/rss/news.rss" htmlUrl="https://www.gamestar.de"/>
+            <outline type="rss" text="PC Games" xmlUrl="https://www.pcgames.de/rss/news.xml" htmlUrl="https://www.pcgames.de"/>
         </outline>
 
-        <outline text="CRYPTO" title="CRYPTO">
+        <outline text="CRYPTO (Krypto &amp; Blockchain)" title="CRYPTO">
             <outline type="rss" text="BTC-ECHO" xmlUrl="https://www.btc-echo.de/feed/" htmlUrl="https://www.btc-echo.de"/>
             <outline type="rss" text="Block-Trainer" xmlUrl="https://www.blocktrainer.de/feed/" htmlUrl="https://www.blocktrainer.de"/>
             <outline type="rss" text="CoinPro.ch" xmlUrl="https://coinpro.ch/feed/" htmlUrl="https://coinpro.ch"/>
             <outline type="rss" text="Coinkurier" xmlUrl="https://coinkurier.de/feed/" htmlUrl="https://coinkurier.de"/>
         </outline>
 
-        <outline text="YOU TUBE" title="YOU TUBE">
+        <outline text="SPORTS (Sport &amp; Auto)" title="SPORTS">
+            <outline type="rss" text="Kicker" xmlUrl="https://www.kicker.de/news.rss" htmlUrl="https://www.kicker.de"/>
+            <outline type="rss" text="Sport1" xmlUrl="https://www.sport1.de/news.rss" htmlUrl="https://www.sport1.de"/>
+            <outline type="rss" text="Auto Bild" xmlUrl="https://www.autobild.de/rss/2222222.xml" htmlUrl="https://www.autobild.de"/>
+            <outline type="rss" text="11FREUNDE" xmlUrl="https://www.11freunde.de/feed/rss" htmlUrl="https://www.11freunde.de"/>
+            <outline type="rss" text="Sportschau" xmlUrl="https://www.sportschau.de/sportschau-allgemein-100~_type-rss.xml" htmlUrl="https://www.sportschau.de"/>
+        </outline>
+
+        <outline text="YOUTUBE" title="YOUTUBE">
             <outline type="rss" text="Kurzgesagt – German" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwRH985sKZ_hswN7959959w" htmlUrl="https://www.youtube.com/c/kurzgesagtDE"/>
             <outline type="rss" text="Gronkh" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYJ61_z6vKscU6vC_vUqf0A" htmlUrl="https://www.youtube.com/user/Gronkh"/>
             <outline type="rss" text="AlexiBexi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6idp0pChXN_6D-f6_7_vHA" htmlUrl="https://www.youtube.com/user/Alexibexi"/>
             <outline type="rss" text="Computer Bild" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCu2S_b97o9W8G2m5FvS4lGg" htmlUrl="https://www.youtube.com/user/ComputerBild"/>
             <outline type="rss" text="MrWissen2go" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5E9-6uN_X-kXp-1OdmOqSg" htmlUrl="https://www.youtube.com/user/MrWissen2go"/>
-        </outline>
-
-        <outline text="SPORTS" title="SPORTS">
-            <outline type="rss" text="Kicker" xmlUrl="https://www.kicker.de/news.rss" htmlUrl="https://www.kicker.de"/>
-            <outline type="rss" text="Sport1" xmlUrl="https://www.sport1.de/news.rss" htmlUrl="https://www.sport1.de"/>
-            <outline type="rss" text="Auto Bild" xmlUrl="https://www.autobild.de/rss/2240213.xml" htmlUrl="https://www.autobild.de"/>
-            <outline type="rss" text="11FREUNDE" xmlUrl="https://www.11freunde.de/feed/rss" htmlUrl="https://www.11freunde.de"/>
-            <outline type="rss" text="Sportschau" xmlUrl="https://www.sportschau.de/sportschau-allgemein-100~_type-rss.xml" htmlUrl="https://www.sportschau.de"/>
         </outline>
     </body>
 </opml>
