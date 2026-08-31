@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generated": "2026-08-31",
-  "totalFeeds": 1727,
+  "totalFeeds": 1750,
   "totalLanguages": 49,
   "feeds": [
     {
@@ -9920,7 +9920,16 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Biznes i Gospodarka (Business & Economy)"
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
+    },
+    {
+      "name": "BiznesAlert",
+      "rssUrl": "https://biznesalert.pl/feed/",
+      "websiteUrl": "https://biznesalert.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
     },
     {
       "name": "Business Insider Polska",
@@ -9929,7 +9938,16 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Biznes i Gospodarka (Business & Economy)"
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
+    },
+    {
+      "name": "Energetyka24",
+      "rssUrl": "https://energetyka24.pl/rss",
+      "websiteUrl": "https://energetyka24.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
     },
     {
       "name": "Forsal.pl",
@@ -9938,7 +9956,16 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Biznes i Gospodarka (Business & Economy)"
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
+    },
+    {
+      "name": "Infor.pl (Prawo i Podatki)",
+      "rssUrl": "https://www.infor.pl/rss/rss.xml",
+      "websiteUrl": "https://www.infor.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
     },
     {
       "name": "Money.pl",
@@ -9947,7 +9974,7 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Biznes i Gospodarka (Business & Economy)"
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
     },
     {
       "name": "Puls Biznesu",
@@ -9956,7 +9983,16 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Biznes i Gospodarka (Business & Economy)"
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
+    },
+    {
+      "name": "Subiektywnie o Finansach",
+      "rssUrl": "https://subiektywnieofinansach.pl/feed/",
+      "websiteUrl": "https://subiektywnieofinansach.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
     },
     {
       "name": "Wirtualne Media",
@@ -9965,16 +10001,61 @@
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Biznes i Gospodarka (Business & Economy)"
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
     },
     {
-      "name": "WNP.pl - WNP Gospodarka",
+      "name": "WNP.pl - Gospodarka",
       "rssUrl": "https://www.wnp.pl/rss/",
       "websiteUrl": "https://www.wnp.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
-      "category": "Biznes i Gospodarka (Business & Economy)"
+      "category": "Biznes, Prawo i Finanse (Business & Finance)"
+    },
+    {
+      "name": "CD-Action",
+      "rssUrl": "https://cdaction.pl/feed",
+      "websiteUrl": "https://cdaction.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Gry i Popkultura (Gaming & Popculture)"
+    },
+    {
+      "name": "Gry-Online.pl",
+      "rssUrl": "https://www.gry-online.pl/rss/news.xml",
+      "websiteUrl": "https://www.gry-online.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Gry i Popkultura (Gaming & Popculture)"
+    },
+    {
+      "name": "Polygamia.pl",
+      "rssUrl": "https://polygamia.pl/rss.xml",
+      "websiteUrl": "https://polygamia.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Gry i Popkultura (Gaming & Popculture)"
+    },
+    {
+      "name": "PPE.pl",
+      "rssUrl": "https://www.ppe.pl/rss/news.xml",
+      "websiteUrl": "https://www.ppe.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Gry i Popkultura (Gaming & Popculture)"
+    },
+    {
+      "name": "Co Jest Grane24",
+      "rssUrl": "https://cojestgrane24.wyborcza.pl/pub/rss/cojestgrane24.xml",
+      "websiteUrl": "https://cojestgrane24.wyborcza.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Kultura i Rozrywka (Lifestyle & Culture)"
     },
     {
       "name": "Filmweb - Newsy",
@@ -10020,6 +10101,42 @@
       "languageName": "Polish",
       "country": "Poland",
       "category": "Kultura i Rozrywka (Lifestyle & Culture)"
+    },
+    {
+      "name": "Auto Świat",
+      "rssUrl": "https://www.auto-swiat.pl/rss",
+      "websiteUrl": "https://www.auto-swiat.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Motoryzacja (Automotive)"
+    },
+    {
+      "name": "Autoblog.pl",
+      "rssUrl": "https://spidersweb.pl/autoblog/feed",
+      "websiteUrl": "https://spidersweb.pl/autoblog",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Motoryzacja (Automotive)"
+    },
+    {
+      "name": "Autokult.pl",
+      "rssUrl": "https://autokult.pl/rss.xml",
+      "websiteUrl": "https://autokult.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Motoryzacja (Automotive)"
+    },
+    {
+      "name": "MOTO.pl",
+      "rssUrl": "https://moto.pl/pub/rss/moto.xml",
+      "websiteUrl": "https://moto.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Motoryzacja (Automotive)"
     },
     {
       "name": "Meczyki.pl",
@@ -10085,9 +10202,27 @@
       "category": "Technologia i Nauka (Technology & Science)"
     },
     {
+      "name": "Crazy Nauka",
+      "rssUrl": "https://www.crazynauka.pl/feed/",
+      "websiteUrl": "https://www.crazynauka.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Technologia i Nauka (Technology & Science)"
+    },
+    {
       "name": "CyberDefence24",
       "rssUrl": "https://cyberdefence24.pl/rss",
       "websiteUrl": "https://cyberdefence24.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Technologia i Nauka (Technology & Science)"
+    },
+    {
+      "name": "Instalki.pl",
+      "rssUrl": "https://www.instalki.pl/feed/",
+      "websiteUrl": "https://www.instalki.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
@@ -10119,6 +10254,33 @@
       "languageName": "Polish",
       "country": "Poland",
       "category": "Technologia i Nauka (Technology & Science)"
+    },
+    {
+      "name": "Telepolis.pl",
+      "rssUrl": "https://www.telepolis.pl/rss",
+      "websiteUrl": "https://www.telepolis.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Technologia i Nauka (Technology & Science)"
+    },
+    {
+      "name": "Urania - Astronomia",
+      "rssUrl": "https://www.urania.edu.pl/rss.xml",
+      "websiteUrl": "https://www.urania.edu.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Technologia i Nauka (Technology & Science)"
+    },
+    {
+      "name": "Defence24 (Militaria i Wojsko)",
+      "rssUrl": "https://defence24.pl/rss",
+      "websiteUrl": "https://defence24.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
     },
     {
       "name": "Do Rzeczy",
@@ -10160,6 +10322,15 @@
       "name": "Interia.pl - Fakty",
       "rssUrl": "https://fakty.interia.pl/feed",
       "websiteUrl": "https://fakty.interia.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "Niezalezna.pl",
+      "rssUrl": "https://niezalezna.pl/rss",
+      "websiteUrl": "https://niezalezna.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
@@ -10229,9 +10400,27 @@
       "category": "Wiadomości (General News)"
     },
     {
+      "name": "Salon24",
+      "rssUrl": "https://www.salon24.pl/rss",
+      "websiteUrl": "https://www.salon24.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
       "name": "TVN24 - Najnowsze",
       "rssUrl": "https://tvn24.pl/najnowsze.xml",
       "websiteUrl": "https://tvn24.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości (General News)"
+    },
+    {
+      "name": "TVP Info",
+      "rssUrl": "https://www.tvp.info/rss/wiadomosci/5323201",
+      "websiteUrl": "https://www.tvp.info",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
@@ -10283,36 +10472,9 @@
       "category": "Wiadomości Regionalne (Regional News)"
     },
     {
-      "name": "Express Ilustrowany",
-      "rssUrl": "https://expressilustrowany.pl/rss/",
-      "websiteUrl": "https://expressilustrowany.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Wiadomości Regionalne (Regional News)"
-    },
-    {
       "name": "Gazeta Krakowska",
       "rssUrl": "https://gazetakrakowska.pl/rss/",
       "websiteUrl": "https://gazetakrakowska.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Wiadomości Regionalne (Regional News)"
-    },
-    {
-      "name": "Gazeta Lubuska",
-      "rssUrl": "https://gazetalubuska.pl/rss/",
-      "websiteUrl": "https://gazetalubuska.pl",
-      "language": "polish",
-      "languageName": "Polish",
-      "country": "Poland",
-      "category": "Wiadomości Regionalne (Regional News)"
-    },
-    {
-      "name": "Gazeta Pomorska",
-      "rssUrl": "https://pomorska.pl/rss/",
-      "websiteUrl": "https://pomorska.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
@@ -10340,6 +10502,51 @@
       "name": "Kurier Lubelski",
       "rssUrl": "https://kurierlubelski.pl/rss/",
       "websiteUrl": "https://kurierlubelski.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Radio Gdańsk",
+      "rssUrl": "https://radiogdansk.pl/feed/",
+      "websiteUrl": "https://radiogdansk.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Radio Kraków",
+      "rssUrl": "https://www.radiokrakow.pl/rss/",
+      "websiteUrl": "https://www.radiokrakow.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Radio Poznań",
+      "rssUrl": "https://radiopoznan.fm/rss",
+      "websiteUrl": "https://radiopoznan.fm",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Radio Wrocław",
+      "rssUrl": "https://www.radiowroclaw.pl/rss.xml",
+      "websiteUrl": "https://www.radiowroclaw.pl",
+      "language": "polish",
+      "languageName": "Polish",
+      "country": "Poland",
+      "category": "Wiadomości Regionalne (Regional News)"
+    },
+    {
+      "name": "Trojmiasto.pl",
+      "rssUrl": "https://www.trojmiasto.pl/rss/",
+      "websiteUrl": "https://www.trojmiasto.pl",
       "language": "polish",
       "languageName": "Polish",
       "country": "Poland",
