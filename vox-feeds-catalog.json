@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generated": "2026-08-31",
-  "totalFeeds": 1775,
+  "totalFeeds": 1771,
   "totalLanguages": 49,
   "feeds": [
     {
@@ -15693,7 +15693,7 @@
     },
     {
       "name": "VnEconomy",
-      "rssUrl": "https://vneconomy.vn/rss/tin-moi-nhat.rss",
+      "rssUrl": "https://vneconomy.vn/rss/trang-chu.rss",
       "websiteUrl": "https://vneconomy.vn",
       "language": "vietnamese",
       "languageName": "Vietnamese",
@@ -15701,18 +15701,9 @@
       "category": "Business & Economy (Kinh doanh & Tài chính)"
     },
     {
-      "name": "24h.com.vn",
-      "rssUrl": "https://www.24h.com.vn/upload/rss/tin-tuc-trong-ngay.rss",
+      "name": "24h - Tin tức trong ngày",
+      "rssUrl": "https://www.24h.com.vn/guest/RSS/",
       "websiteUrl": "https://www.24h.com.vn",
-      "language": "vietnamese",
-      "languageName": "Vietnamese",
-      "country": "Vietnam",
-      "category": "General News (Tin tức tổng hợp)"
-    },
-    {
-      "name": "Báo Mới",
-      "rssUrl": "https://baomoi.com/rss",
-      "websiteUrl": "https://baomoi.com",
       "language": "vietnamese",
       "languageName": "Vietnamese",
       "country": "Vietnam",
@@ -15728,6 +15719,15 @@
       "category": "General News (Tin tức tổng hợp)"
     },
     {
+      "name": "Người Lao Động",
+      "rssUrl": "https://nld.com.vn/rss/tin-moi-nhat.rss",
+      "websiteUrl": "https://nld.com.vn",
+      "language": "vietnamese",
+      "languageName": "Vietnamese",
+      "country": "Vietnam",
+      "category": "General News (Tin tức tổng hợp)"
+    },
+    {
       "name": "Nhân Dân Online",
       "rssUrl": "https://nhandan.vn/rss/tin-moi-nhat.rss",
       "websiteUrl": "https://nhandan.vn",
@@ -15737,8 +15737,17 @@
       "category": "General News (Tin tức tổng hợp)"
     },
     {
+      "name": "Soha News",
+      "rssUrl": "https://soha.vn/rss/tin-moi-nhat.rss",
+      "websiteUrl": "https://soha.vn",
+      "language": "vietnamese",
+      "languageName": "Vietnamese",
+      "country": "Vietnam",
+      "category": "General News (Tin tức tổng hợp)"
+    },
+    {
       "name": "Sài Gòn Giải Phóng",
-      "rssUrl": "https://www.sggp.org.vn/rss/tin-moi-nhat.rss",
+      "rssUrl": "https://www.sggp.org.vn/rss/trangchu.rss",
       "websiteUrl": "https://www.sggp.org.vn",
       "language": "vietnamese",
       "languageName": "Vietnamese",
@@ -15801,8 +15810,8 @@
     },
     {
       "name": "VTC News",
-      "rssUrl": "https://vtc.vn/rss/feed.rss",
-      "websiteUrl": "https://vtc.vn",
+      "rssUrl": "https://vtcnews.vn/rss/feed.rss",
+      "websiteUrl": "https://vtcnews.vn",
       "language": "vietnamese",
       "languageName": "Vietnamese",
       "country": "Vietnam",
@@ -15818,15 +15827,6 @@
       "category": "Lifestyle & Culture (Văn hóa - Giải trí)"
     },
     {
-      "name": "Ngôi Sao",
-      "rssUrl": "https://ngoisao.net/rss/tin-moi-nhat.rss",
-      "websiteUrl": "https://ngoisao.net",
-      "language": "vietnamese",
-      "languageName": "Vietnamese",
-      "country": "Vietnam",
-      "category": "Lifestyle & Culture (Văn hóa - Giải trí)"
-    },
-    {
       "name": "VietNamNet - Giải trí",
       "rssUrl": "https://vietnamnet.vn/rss/giai-tri.rss",
       "websiteUrl": "https://vietnamnet.vn/giai-tri/",
@@ -15836,40 +15836,13 @@
       "category": "Lifestyle & Culture (Văn hóa - Giải trí)"
     },
     {
-      "name": "Zing News - Giải trí",
-      "rssUrl": "https://zingnews.vn/rss/giai-tri.rss",
-      "websiteUrl": "https://zingnews.vn/giai-tri/",
+      "name": "VNExpress - Giải trí",
+      "rssUrl": "https://vnexpress.net/rss/giai-tri.rss",
+      "websiteUrl": "https://vnexpress.net/giai-tri",
       "language": "vietnamese",
       "languageName": "Vietnamese",
       "country": "Vietnam",
       "category": "Lifestyle & Culture (Văn hóa - Giải trí)"
-    },
-    {
-      "name": "Báo Cần Thơ",
-      "rssUrl": "https://baocantho.com.vn/rss/tin-moi-nhat.rss",
-      "websiteUrl": "https://baocantho.com.vn",
-      "language": "vietnamese",
-      "languageName": "Vietnamese",
-      "country": "Vietnam",
-      "category": "Regional News (Tin tức địa phương)"
-    },
-    {
-      "name": "Báo Nghệ An",
-      "rssUrl": "https://baonghean.vn/rss/tin-moi-nhat.rss",
-      "websiteUrl": "https://baonghean.vn",
-      "language": "vietnamese",
-      "languageName": "Vietnamese",
-      "country": "Vietnam",
-      "category": "Regional News (Tin tức địa phương)"
-    },
-    {
-      "name": "Báo Đồng Nai",
-      "rssUrl": "https://baodongnai.com.vn/rss/tin-moi-nhat.rss",
-      "websiteUrl": "https://baodongnai.com.vn",
-      "language": "vietnamese",
-      "languageName": "Vietnamese",
-      "country": "Vietnam",
-      "category": "Regional News (Tin tức địa phương)"
     },
     {
       "name": "Hà Nội Mới",
@@ -15884,15 +15857,6 @@
       "name": "Hải Phòng News",
       "rssUrl": "https://baohaiphong.com.vn/rss/tin-moi-nhat.rss",
       "websiteUrl": "https://baohaiphong.com.vn",
-      "language": "vietnamese",
-      "languageName": "Vietnamese",
-      "country": "Vietnam",
-      "category": "Regional News (Tin tức địa phương)"
-    },
-    {
-      "name": "Đà Nẵng Online",
-      "rssUrl": "https://baodanang.vn/rss/tin-moi-nhat.rss",
-      "websiteUrl": "https://baodanang.vn",
       "language": "vietnamese",
       "languageName": "Vietnamese",
       "country": "Vietnam",
@@ -15935,22 +15899,22 @@
       "category": "Sports (Thể thao)"
     },
     {
+      "name": "GameK (Game & Entertainment)",
+      "rssUrl": "https://gamek.vn/rss/home.rss",
+      "websiteUrl": "https://gamek.vn",
+      "language": "vietnamese",
+      "languageName": "Vietnamese",
+      "country": "Vietnam",
+      "category": "Technology & Gaming (Công nghệ & Game)"
+    },
+    {
       "name": "GenK",
       "rssUrl": "https://genk.vn/rss/home.rss",
       "websiteUrl": "https://genk.vn",
       "language": "vietnamese",
       "languageName": "Vietnamese",
       "country": "Vietnam",
-      "category": "Technology & Science (Công nghệ)"
-    },
-    {
-      "name": "ICTNews",
-      "rssUrl": "https://ictnews.vietnamnet.vn/rss/tin-moi-nhat.rss",
-      "websiteUrl": "https://ictnews.vietnamnet.vn",
-      "language": "vietnamese",
-      "languageName": "Vietnamese",
-      "country": "Vietnam",
-      "category": "Technology & Science (Công nghệ)"
+      "category": "Technology & Gaming (Công nghệ & Game)"
     },
     {
       "name": "Số Hóa (VNExpress)",
@@ -15959,7 +15923,7 @@
       "language": "vietnamese",
       "languageName": "Vietnamese",
       "country": "Vietnam",
-      "category": "Technology & Science (Công nghệ)"
+      "category": "Technology & Gaming (Công nghệ & Game)"
     },
     {
       "name": "Techz.vn",
@@ -15968,7 +15932,7 @@
       "language": "vietnamese",
       "languageName": "Vietnamese",
       "country": "Vietnam",
-      "category": "Technology & Science (Công nghệ)"
+      "category": "Technology & Gaming (Công nghệ & Game)"
     },
     {
       "name": "Tinhte.vn",
@@ -15977,7 +15941,7 @@
       "language": "vietnamese",
       "languageName": "Vietnamese",
       "country": "Vietnam",
-      "category": "Technology & Science (Công nghệ)"
+      "category": "Technology & Gaming (Công nghệ & Game)"
     }
   ]
 }
