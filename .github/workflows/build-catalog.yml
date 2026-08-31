@@ -26,10 +26,10 @@ jobs:
       - name: Check if catalog changed
         id: check
         run: |
-          if git diff --quiet vox-feeds-catalog.json 2>/dev/null; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
+          if git status --porcelain -- vox-feeds-catalog.json | grep -q .; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Commit and push catalog
