@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generated": "2026-08-31",
-  "totalFeeds": 1767,
+  "totalFeeds": 1762,
   "totalLanguages": 49,
   "feeds": [
     {
@@ -7430,16 +7430,52 @@
       "category": "Regional News (Kabar Daerah)"
     },
     {
-      "name": "Arirang News",
-      "rssUrl": "https://www.arirang.com/v1/rss/news.xml",
-      "websiteUrl": "https://www.arirang.com",
+      "name": "E-Daily (อีเดลี่)",
+      "rssUrl": "https://www.edaily.co.kr/rss/edaily.xml",
+      "websiteUrl": "https://www.edaily.co.kr",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "English News from Korea"
+      "category": "Economy & Finance (경제/금융)"
     },
     {
-      "name": "JoongAng Daily English",
+      "name": "Herald Biz (헤럴드경제)",
+      "rssUrl": "https://biz.heraldcorp.com/common/rss.php",
+      "websiteUrl": "https://biz.heraldcorp.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Economy & Finance (경제/금융)"
+    },
+    {
+      "name": "Korea Economic Daily (한국경제)",
+      "rssUrl": "https://rss.hankyung.com/feed/all.xml",
+      "websiteUrl": "https://www.hankyung.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Economy & Finance (경제/금융)"
+    },
+    {
+      "name": "Maeil Business (매일경제)",
+      "rssUrl": "https://www.mk.co.kr/rss/30000001/",
+      "websiteUrl": "https://www.mk.co.kr",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Economy & Finance (경제/금융)"
+    },
+    {
+      "name": "Money Today (머니투데이)",
+      "rssUrl": "https://news.mt.co.kr/rss/mt_all.xml",
+      "websiteUrl": "https://news.mt.co.kr",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Economy & Finance (경제/금융)"
+    },
+    {
+      "name": "Korea JoongAng Daily",
       "rssUrl": "https://koreajoongangdaily.joins.com/rss/news",
       "websiteUrl": "https://koreajoongangdaily.joins.com",
       "language": "korean",
@@ -7475,13 +7511,40 @@
       "category": "English News from Korea"
     },
     {
-      "name": "Chosun Ilbo (조선일보)",
-      "rssUrl": "https://www.chosun.com/arc/outboundfeeds/rss/category/all/",
-      "websiteUrl": "https://www.chosun.com",
+      "name": "Allkpop",
+      "rssUrl": "https://www.allkpop.com/rss",
+      "websiteUrl": "https://www.allkpop.com",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "General News (주요 뉴스)"
+      "category": "Entertainment & K-Pop (연예/K-Pop)"
+    },
+    {
+      "name": "OSEN",
+      "rssUrl": "https://osen.mt.co.kr/rss/total",
+      "websiteUrl": "https://osen.mt.co.kr",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Entertainment & K-Pop (연예/K-Pop)"
+    },
+    {
+      "name": "Soompi (K-Pop News)",
+      "rssUrl": "https://www.soompi.com/feed",
+      "websiteUrl": "https://www.soompi.com",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Entertainment & K-Pop (연예/K-Pop)"
+    },
+    {
+      "name": "Star News",
+      "rssUrl": "https://star.mt.co.kr/rss/star_total.xml",
+      "websiteUrl": "https://star.mt.co.kr",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "Entertainment & K-Pop (연예/K-Pop)"
     },
     {
       "name": "Dong-A Ilbo (동아일보)",
@@ -7503,8 +7566,17 @@
     },
     {
       "name": "JoongAng Ilbo (중앙일보)",
-      "rssUrl": "https://rss.joins.com/joins_news_list.xml",
+      "rssUrl": "https://rss.joongang.co.kr/joins_news_list.xml",
       "websiteUrl": "https://www.joongang.co.kr",
+      "language": "korean",
+      "languageName": "Korean",
+      "country": "South Korea",
+      "category": "General News (주요 뉴스)"
+    },
+    {
+      "name": "JTBC News (JTBC 뉴스)",
+      "rssUrl": "https://fs.jtbc.co.kr/RSS/newsflash.xml",
+      "websiteUrl": "https://news.jtbc.co.kr",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
@@ -7520,27 +7592,9 @@
       "category": "General News (주요 뉴스)"
     },
     {
-      "name": "Korea Economic Daily (한국경제)",
-      "rssUrl": "https://rss.hankyung.com/feed/all.xml",
-      "websiteUrl": "https://www.hankyung.com",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "General News (주요 뉴스)"
-    },
-    {
       "name": "Kyunghyang Shinmun (경향신문)",
       "rssUrl": "https://www.khan.co.kr/rss/rssdata/total_news.xml",
       "websiteUrl": "https://www.khan.co.kr",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "General News (주요 뉴스)"
-    },
-    {
-      "name": "Maeil Business (매일경제)",
-      "rssUrl": "https://www.mk.co.kr/rss/30000001/",
-      "websiteUrl": "https://www.mk.co.kr",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
@@ -7565,15 +7619,6 @@
       "category": "General News (주요 뉴스)"
     },
     {
-      "name": "Yonhap News (연합뉴스)",
-      "rssUrl": "https://www.yonhapnewstv.co.kr/browse/feed/",
-      "websiteUrl": "https://www.yonhapnewstv.co.kr",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "General News (주요 뉴스)"
-    },
-    {
       "name": "YTN News",
       "rssUrl": "https://www.ytn.co.kr/_ln/rss/rss_all.xml",
       "websiteUrl": "https://www.ytn.co.kr",
@@ -7583,94 +7628,13 @@
       "category": "General News (주요 뉴스)"
     },
     {
-      "name": "E-Daily",
-      "rssUrl": "https://www.edaily.co.kr/rss/edaily.xml",
-      "websiteUrl": "https://www.edaily.co.kr",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Lifestyle & Economy (생활/경제)"
-    },
-    {
-      "name": "Herald Biz",
-      "rssUrl": "http://biz.heraldcorp.com/common/rss.php",
-      "websiteUrl": "http://biz.heraldcorp.com",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Lifestyle & Economy (생활/경제)"
-    },
-    {
-      "name": "Money Today",
-      "rssUrl": "https://news.mt.co.kr/rss/mt_all.xml",
-      "websiteUrl": "https://news.mt.co.kr",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Lifestyle & Economy (생활/경제)"
-    },
-    {
-      "name": "JoyNews24",
-      "rssUrl": "https://www.joynews24.com/rss/news",
-      "websiteUrl": "https://www.joynews24.com",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Sports & Entertainment (연예/스포츠)"
-    },
-    {
-      "name": "OSEN",
-      "rssUrl": "https://osen.mt.co.kr/rss/total",
-      "websiteUrl": "https://osen.mt.co.kr",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Sports & Entertainment (연예/스포츠)"
-    },
-    {
-      "name": "Sports Chosun",
-      "rssUrl": "https://sports.chosun.com/rss/news.xml",
-      "websiteUrl": "https://sports.chosun.com",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Sports & Entertainment (연예/스포츠)"
-    },
-    {
-      "name": "Star News",
-      "rssUrl": "https://star.mt.co.kr/rss/star_total.xml",
-      "websiteUrl": "https://star.mt.co.kr",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Sports & Entertainment (연예/스포츠)"
-    },
-    {
-      "name": "Xports News",
-      "rssUrl": "https://www.xportsnews.com/rss/all.xml",
-      "websiteUrl": "https://www.xportsnews.com",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Sports & Entertainment (연예/스포츠)"
-    },
-    {
       "name": "Bloter",
       "rssUrl": "https://www.bloter.net/rss",
       "websiteUrl": "https://www.bloter.net",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Technology & IT (IT/과학)"
-    },
-    {
-      "name": "CIO Korea",
-      "rssUrl": "https://www.ciokorea.com/rss/news",
-      "websiteUrl": "https://www.ciokorea.com",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Technology & IT (IT/과학)"
+      "category": "Technology & Gaming (IT/과학/게임)"
     },
     {
       "name": "Electronic Times (전자신문)",
@@ -7679,25 +7643,16 @@
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Technology & IT (IT/과학)"
+      "category": "Technology & Gaming (IT/과학/게임)"
     },
     {
-      "name": "ITWorld Korea",
-      "rssUrl": "https://www.itworld.co.kr/rss/news",
-      "websiteUrl": "https://www.itworld.co.kr",
+      "name": "Inven (인벤 - 게임)",
+      "rssUrl": "https://www.inven.co.kr/rss/news.xml",
+      "websiteUrl": "https://www.inven.co.kr",
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Technology & IT (IT/과학)"
-    },
-    {
-      "name": "Science Times",
-      "rssUrl": "https://www.sciencetimes.co.kr/feed/",
-      "websiteUrl": "https://www.sciencetimes.co.kr",
-      "language": "korean",
-      "languageName": "Korean",
-      "country": "South Korea",
-      "category": "Technology & IT (IT/과학)"
+      "category": "Technology & Gaming (IT/과학/게임)"
     },
     {
       "name": "ZDNet Korea",
@@ -7706,7 +7661,7 @@
       "language": "korean",
       "languageName": "Korean",
       "country": "South Korea",
-      "category": "Technology & IT (IT/과학)"
+      "category": "Technology & Gaming (IT/과학/게임)"
     },
     {
       "name": "Delfi Bizness",
